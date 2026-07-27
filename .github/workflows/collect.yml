@@ -1,0 +1,47 @@
+# .github/workflows/collect.yml
+# Runs every morning, drafts the day's posts, commits the queue, then hands off
+# to publish.yml — which WAITS for your approval before anything is scheduled.
+name: collect-and-request-approval
+on:
+  schedule:
+    - cron: "0 6 * * 1-5"        # 06:00 UTC, Mon-Fri (posts go out Tue-Fri)
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    outputs:
+      queue_file: ${{ steps.run.outputs.queue_file }}
+      count: ${{ steps.run.outputs.count }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - id: run
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python content_engine.py
+          FILE=$(ls -1 queue/*.json 2>/dev/null | grep -v _backlog | tail -1)
+          echo "queue_file=$FILE" >> $GITHUB_OUTPUT
+          if [ -n "$FILE" ]; then
+            echo "count=$(python -c "import json,sys;print(len(json.load(open('$FILE'))['drafts']))")" >> $GITHUB_OUTPUT
+          else
+            echo "count=0" >> $GITHUB_OUTPUT
+          fi
+      - name: Commit queue
+        run: |
+          git config user.name "content-bot"
+          git config user.email "bot@salesmake.agency"
+          git add queue/ && git commit -m "queue $(date +%F)" || echo "nothing new"
+          git push || echo "no push"
+
+  publish:
+    needs: collect
+    if: needs.collect.outputs.count != '0'
+    uses: ./.github/workflows/publish.yml
+    with:
+      queue_file: ${{ needs.collect.outputs.queue_file }}
+    secrets: inherit

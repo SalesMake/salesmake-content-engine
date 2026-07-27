@@ -1,0 +1,34 @@
+# .github/workflows/publish.yml
+# THE APPROVAL GATE. This job cannot start until you approve it, because it
+# targets the "social-publishing" environment, which you configure with
+# "Required reviewers" = yourself. GitHub then emails you and shows a
+# "Review deployments → Approve and deploy" button (works on mobile too).
+# Nothing reaches RobinReach until you press it.
+name: publish-approved-queue
+on:
+  workflow_call:
+    inputs:
+      queue_file: { required: true, type: string }
+  workflow_dispatch:
+    inputs:
+      queue_file:
+        description: "Path to queue JSON, e.g. queue/2026-07-28.json"
+        required: true
+        type: string
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment: social-publishing      # <-- the approval gate lives here
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - name: Show what will be posted
+        run: cat "${{ inputs.queue_file }}" | python -c "import json,sys;[print('-',d['_source_item']['title']) for d in json.load(sys.stdin)['drafts']]"
+      - name: Schedule to RobinReach
+        env:
+          ROBINREACH_API_KEY:      ${{ secrets.ROBINREACH_API_KEY }}
+          ROBINREACH_BRAND_ID:     ${{ secrets.ROBINREACH_BRAND_ID }}
+          SALESMAKE_DEFAULT_IMAGE: ${{ secrets.SALESMAKE_DEFAULT_IMAGE }}
+        run: python post_queue.py "${{ inputs.queue_file }}" --publish-all
