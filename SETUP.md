@@ -21,7 +21,7 @@
    | `ANTHROPIC_API_KEY` | console.anthropic.com |
    | `ROBINREACH_API_KEY` | RobinReach dashboard → API |
    | `ROBINREACH_BRAND_ID` | `python robinreach_client.py --list-brands` |
-   | `SALESMAKE_DEFAULT_IMAGE` | (optional) URL of a hosted brand image |
+   | `SALESMAKE_DEFAULT_IMAGE` | public URL of a hosted brand image — see "Default image" below |
 
 5. **Create the approval gate** — repo → Settings → Environments → New environment
    → name it exactly **`social-publishing`** → tick **Required reviewers** → add
@@ -29,6 +29,23 @@
 
    This is the whole approval mechanism. Without it the publish job runs
    unattended; with it, the job *pauses and waits for you*.
+
+### Default image (`SALESMAKE_DEFAULT_IMAGE`)
+Instagram and Pinterest reject imageless posts, so the engine attaches a fallback
+brand image to every post. A ready-made 1080×1080 SalesMake tile lives in the repo
+at `assets/salesmake-default-1080.png`; since this repo is public, RobinReach can
+fetch it directly. The secret is set to:
+
+```
+https://raw.githubusercontent.com/SalesMake/salesmake-content-engine/main/assets/salesmake-default-1080.png
+```
+
+To regenerate it (e.g. after a logo/wording change):
+```bash
+python scripts/make_default_image.py --logo assets/logo.jpg --out assets/salesmake-default-1080.png
+```
+Commit the new PNG and the raw URL keeps working. If you later make the repo
+private again, move this image to a public host and update the secret.
 
 ## B. How you approve posts, day to day
 
