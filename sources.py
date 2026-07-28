@@ -14,34 +14,20 @@ tell you which resolve and which need a manual URL.
 
 SOURCES = [
     # --- GTM strategy & GTM engineering (highest relevance to enrichment work) ---
-    {"name": "The GTM Engineer (Clay)",       "feed": "https://thegtme.com/feed",                    "category": "gtm_engineering", "weight": 1.4},
-    {"name": "The GTM Engineering Newsletter", "feed": "https://newsletter.gtmengineering.ai/feed",   "category": "gtm_engineering", "weight": 1.3},  # was "Claymation" / claymation.io — that site rebranded to GTM Engineering (2026-07-27). Distinct feed from source #1.
-    {"name": "Clay Blog",                      "feed": "https://www.clay.com/blog/rss.xml",           "category": "gtm_engineering", "weight": 1.2},
-    {"name": "GTM Strategist (Maja Voje)",     "feed": "https://gtmstrategist.substack.com/feed",     "category": "gtm_strategy",    "weight": 1.2},
+    {"name": "The GTM Engineer (Clay)",   "feed": "https://thegtme.com/feed",                        "category": "gtm_engineering", "weight": 1.4},
+    {"name": "Claymation",                "feed": "https://www.claymation.io/feed",                   "category": "gtm_engineering", "weight": 1.3},
+    {"name": "Clay Blog",                 "feed": "https://www.clay.com/blog/rss.xml",                "category": "gtm_engineering", "weight": 1.2},
+    {"name": "Growth Unhinged",           "feed": "https://www.growthunhinged.com/feed",              "category": "gtm_strategy",    "weight": 1.3},
+    {"name": "GTM Strategist (Maja Voje)","feed": "https://gtmstrategist.substack.com/feed",          "category": "gtm_strategy",    "weight": 1.2},
 
     # --- Cold email outreach ---
-    {"name": "Hunter.io Blog",                 "feed": "https://hunter.io/blog/feed/",                "category": "cold_email",      "weight": 1.0},
-    {"name": "Instantly Blog",                 "feed": "https://instantly.ai/blog/feed",              "category": "cold_email",      "weight": 1.0},
+    {"name": "Lemlist Blog",              "feed": "https://www.lemlist.com/blog/rss.xml",             "category": "cold_email",      "weight": 1.1},
+    {"name": "Hunter.io Blog",            "feed": "https://hunter.io/blog/feed/",                     "category": "cold_email",      "weight": 1.0},
+    {"name": "Instantly Blog",            "feed": "https://instantly.ai/blog/feed",                   "category": "cold_email",      "weight": 1.0},
+    {"name": "Belkins Blog",              "feed": "https://belkins.io/blog/rss",                      "category": "cold_email",      "weight": 1.0},
 
     # --- LinkedIn outreach & social selling ---
-    {"name": "Expandi Blog",                   "feed": "https://expandi.io/feed/",                    "category": "linkedin",        "weight": 1.1},  # was /blog/feed/ (empty); root /feed/ is the live WordPress feed (2026-07-27).
-]
-
-# Disabled 2026-07-27 — these had no resolvable public RSS feed when verified with
-# `python content_engine.py --check-feeds` plus manual feed autodiscovery. Left here
-# (not deleted) so they're easy to restore if the site adds a feed or you find the URL:
-#   - Growth Unhinged  : migrated Substack -> beehiiv (Jan 2026). beehiiv custom-domain
-#                        /feed 301-redirects to a 404; newsletter RSS isn't publicly
-#                        exposed. Old kylepoyar.substack.com/feed still resolves but is
-#                        stale (last real post Dec 2025). Re-enable if RSS is turned on
-#                        in the beehiiv publication settings.
-#   - Lemlist Blog     : Next.js/HubSpot marketing site — no RSS at any standard path.
-#   - Belkins Blog     : HubSpot site — /blog/rss.xml and variants all 404.
-#   - Taplio Blog      : Webflow site — RSS not enabled (all standard paths 404).
-DISABLED_SOURCES_NO_FEED = [
-    {"name": "Growth Unhinged",           "feed": "https://www.growthunhinged.com/feed",              "category": "gtm_strategy",    "weight": 1.3},
-    {"name": "Lemlist Blog",              "feed": "https://www.lemlist.com/blog/rss.xml",             "category": "cold_email",      "weight": 1.1},
-    {"name": "Belkins Blog",              "feed": "https://belkins.io/blog/rss",                      "category": "cold_email",      "weight": 1.0},
+    {"name": "Expandi Blog",              "feed": "https://expandi.io/blog/feed/",                    "category": "linkedin",        "weight": 1.1},
     {"name": "Taplio Blog",               "feed": "https://taplio.com/blog/rss.xml",                  "category": "linkedin",        "weight": 0.9},
 ]
 
