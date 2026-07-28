@@ -39,7 +39,7 @@ content_engine.py to adjust.
   then collects, drafts, and schedules to RobinReach for the next day at 11:00 UTC.
 
 ## Guardrails baked in
-- Posts 2-3/day at 11:00, 13:00, 14:30 UTC (Tue-Fri, your configured preferred times/days); skips thin/promotional/off-topic items.
+- Posts 2-3/day at 11:00, 15:00, 21:00 CET/CEST (Tue-Fri); times are local to `POSTING_TZ` and auto-convert to UTC (DST-aware). Skips thin/promotional/off-topic items.
 - Always attributes the source and links it; never reproduces >10 words.
 - Unverifiable stats are attributed ("Per <source>…"), never stated as fact.
 - Imageless posts are skipped (IG/Pinterest reject them) unless SALESMAKE_DEFAULT_IMAGE is set.

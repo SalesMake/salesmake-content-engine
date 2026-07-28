@@ -32,15 +32,18 @@ import os
 import sys
 
 from sources import ROBIN_REACH_PROFILES
+from content_engine import (
+    SCHEDULE_SLOTS, POSTING_DAYS, DEFAULT_MEDIA_URL, POSTING_TZ, local_slot_to_utc,
+)
 
 # Fill these only for path (B). Verify the real shape with Robin Reach docs.
 ROBINREACH_API_URL = os.environ.get("ROBINREACH_API_URL", "")
 ROBINREACH_API_KEY = os.environ.get("ROBINREACH_API_KEY", "")
 
-# When to schedule approved posts. Default: 11:00 UTC tomorrow.
+# When to schedule approved posts. Default: 11:00 local (POSTING_TZ) tomorrow, as UTC.
 def default_publish_time():
     tomorrow = dt.datetime.now(dt.timezone.utc).date() + dt.timedelta(days=1)
-    return dt.datetime.combine(tomorrow, dt.time(11, 0), dt.timezone.utc)
+    return local_slot_to_utc(tomorrow, "11:00")
 
 
 def build_payload(draft, publish_time):
@@ -111,21 +114,18 @@ def main():
 
     if args.publish_all:
         # Human approval already happened at the GitHub environment gate.
-        import datetime as _dt, os as _os
         import robinreach_client as rr
-        from content_engine import SCHEDULE_SLOTS, POSTING_DAYS, DEFAULT_MEDIA_URL
-        target = _dt.datetime.now(_dt.timezone.utc).date() + _dt.timedelta(days=1)
+        target = dt.datetime.now(dt.timezone.utc).date() + dt.timedelta(days=1)
         if POSTING_DAYS:
             while target.strftime("%A").lower() not in POSTING_DAYS:
-                target += _dt.timedelta(days=1)
+                target += dt.timedelta(days=1)
         media = [DEFAULT_MEDIA_URL] if DEFAULT_MEDIA_URL else []
         n = 0
         for d, hhmm in zip(drafts, SCHEDULE_SLOTS):
-            h, m = (int(x) for x in hhmm.split(":"))
-            when = _dt.datetime.combine(target, _dt.time(h, m), _dt.timezone.utc)
+            when = local_slot_to_utc(target, hhmm)   # local slot -> UTC (DST-aware)
             if rr.schedule_draft(d, when, media_urls=media, status="scheduled"):
                 n += 1
-                print(f"  {hhmm} — {d['_source_item']['title'][:55]}")
+                print(f"  {hhmm} {POSTING_TZ} — {d['_source_item']['title'][:55]}")
         print(f"\n{n}/{len(drafts)} scheduled for {target}")
         return
 

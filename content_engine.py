@@ -33,6 +33,7 @@ import re
 import sys
 import time
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import feedparser
 
@@ -50,8 +51,14 @@ REVIEW_MODE = True                      # True = queue for review, never auto-po
 LOOKBACK_HOURS = 26                     # 26 not 24 to absorb cron drift
 MAX_ITEMS_PER_RUN = 3                   # posts per day (2-3 target)
 MIN_ITEMS_PER_RUN = 2                   # if the feed is thin, top up from BACKLOG
-# Slots match your configured RobinReach preferred times (UTC).
-SCHEDULE_SLOTS = ["11:00", "13:00", "14:30"]
+# Posting timezone. SCHEDULE_SLOTS below are LOCAL wall-clock times in this zone
+# and are converted to UTC at schedule time, so they track DST automatically.
+# "CET" = Central European Time (CET in winter / CEST in summer). Change to your
+# IANA zone if you relocate, e.g. "Europe/Madrid" or "America/New_York".
+POSTING_TZ = "CET"
+LOCAL_TZ = ZoneInfo(POSTING_TZ)
+# Preferred posting times, LOCAL to POSTING_TZ (11am, 3pm, 9pm).
+SCHEDULE_SLOTS = ["11:00", "15:00", "21:00"]
 # Your configured preferred days. Set to None to post every day.
 POSTING_DAYS = {"tuesday", "wednesday", "thursday", "friday"}
 BACKLOG_FILE = Path("queue/_backlog.json")   # surplus drafts carry to lean days
@@ -274,13 +281,17 @@ def save_backlog(items):
     json.dump(items[-30:], open(BACKLOG_FILE, "w"), indent=2)   # keep last 30
 
 
+def local_slot_to_utc(base_date, hhmm):
+    """Interpret 'HH:MM' as a LOCAL time in POSTING_TZ on base_date; return a UTC datetime.
+    Uses base_date so the correct CET/CEST offset is applied for that date (DST-aware)."""
+    h, m = (int(x) for x in hhmm.split(":"))
+    local = dt.datetime.combine(base_date, dt.time(h, m), tzinfo=LOCAL_TZ)
+    return local.astimezone(dt.timezone.utc)
+
+
 def slot_times(base_date, n):
-    """Return n datetimes for today's posting slots."""
-    out = []
-    for hhmm in SCHEDULE_SLOTS[:n]:
-        h, m = (int(x) for x in hhmm.split(":"))
-        out.append(dt.datetime.combine(base_date, dt.time(h, m), dt.timezone.utc))
-    return out
+    """Return n UTC datetimes for the local posting slots on base_date."""
+    return [local_slot_to_utc(base_date, hhmm) for hhmm in SCHEDULE_SLOTS[:n]]
 
 
 # ----------------------------------------------------------------------------
@@ -345,7 +356,7 @@ def main():
         print("  Next: review the .md, then run  python post_queue.py " + os.path.basename(js))
         return
 
-    # Unattended path: schedule each draft for tomorrow 11:00 UTC via REST.
+    # Unattended path: schedule each draft for the next posting day at the local slots via REST.
     import robinreach_client as rr
     target = (now + dt.timedelta(days=1)).date()
     if POSTING_DAYS:                       # roll forward to the next preferred day
@@ -359,7 +370,7 @@ def main():
             posted += 1
             print(f"    {when:%H:%M} — {d['_source_item']['title'][:50]}")
     print(f"\n  {posted}/{len(drafts)} scheduled on RobinReach for {target} "
-          f"at {', '.join(SCHEDULE_SLOTS[:len(drafts)])} UTC")
+          f"at {', '.join(SCHEDULE_SLOTS[:len(drafts)])} {POSTING_TZ}")
 
 
 if __name__ == "__main__":

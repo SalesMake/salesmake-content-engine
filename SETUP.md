@@ -65,7 +65,7 @@ review. To approve:
    (Or **Reject** — nothing posts, the queue file just sits there.)
 
 On approval the posts schedule to RobinReach for the next posting day at
-11:00, 13:00 and 14:30 UTC.
+11:00, 15:00 and 21:00 CET/CEST (local to `POSTING_TZ`, auto-converted to UTC).
 
 ### Approving only *some* of the batch
 The gate is all-or-nothing per run. To drop one item: edit
