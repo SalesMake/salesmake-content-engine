@@ -38,6 +38,7 @@ import urllib.request
 from sources import ROBIN_REACH_PROFILES
 
 BASE = "https://robinreach.com/api/v1"
+CLIENT_VERSION = "2.0-header-auth"
 
 # If the live API rejects a field name, flip these to the alternates noted above.
 MEDIA_FIELD = "media_urls"      # alt: "attachments"
@@ -90,7 +91,7 @@ def build_body(draft, when, status, media_urls):
         "social_profile_ids": list(ROBIN_REACH_PROFILES.values()),
         STATUS_FIELD: status,
         "title": v.get("pinterest", {}).get("title", ""),
-        MEDIA_FIELD: media_urls,
+        MEDIA_FIELD: attachments,
 
         # (1) Full per-platform CONTENT overrides — same shape the chat
         #     connector honored. Sent in case REST supports it.
