@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-28T12:25:12.788972+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "First-party signals matter because they create an asymmetry competitors can't close with a data vendor \u2014 but only if your GTM motion is actually built to act on them in time.",
+      "variants": {
+        "linkedin": {
+          "content": "Most outbound teams are fishing in the same pond \u2014 same intent data providers, same trigger events, same sequences.\n\nWhat Verkada built is different: a GTM system wired to signals that live inside their own ecosystem. Per The GTM Engineer (Clay), roughly a quarter of Verkada's revenue traces back to marketing-sourced leads generated through this kind of first-party signal infrastructure. The competitive edge isn't the data itself \u2014 it's the operational loop that turns proprietary signals into timely, relevant outreach before anyone else even knows the window opened.\n\nThe honest question for outbound teams isn't \"do we have signals?\" Most do \u2014 product usage, web behavior, support touchpoints, event attendance. The question is whether there's a structured path from signal to rep action, or whether that data just sits in a dashboard nobody checks.\n\nWorth reading the full breakdown: https://thegtme.com/p/how-first-party-signals-become-your\n\nIf you're thinking through how to wire signals into your outbound motion, feel free to reach out at https://salesmake.agency/contact.\n\n#GTM #OutboundSales #SalesSignals"
+        },
+        "twitter": {
+          "content": "Buying the same intent data as your competitors isn't a moat.\n\nFirst-party signals are \u2014 but only if your outbound motion can actually act on them fast.\n\nGood breakdown on this from The GTM Engineer (Clay). More at salesmake.agency\n\n#GTM #Outbound"
+        },
+        "bluesky": {
+          "content": "Third-party intent data is a commodity. First-party signals \u2014 product usage, site behavior, your own ecosystem \u2014 are the ones no vendor can sell to your competitor. The GTM Engineer (Clay) breaks down how Verkada built a system around exactly that. Worth 10 minutes.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Your competitors can buy the same intent data you're using. \ud83d\udcca\n\nThey can't buy your first-party signals.\n\n\u2192 Product usage patterns\n\u2192 Your own web behavior\n\u2192 Event and ecosystem touchpoints\n\nPer The GTM Engineer (Clay), Verkada built a GTM system around signals like these \u2014 and a significant share of their revenue now traces back to it.\n\nThe tricky part isn't collecting the signals. It's building the operational loop that gets reps acting on them before the window closes.\n\nFull article linked in bio.\n\nIf you're working on your outbound motion, we're happy to help \u2014 salesmake.agency (link in bio).\n\n#OutboundSales #GTM #SalesSignals #B2BSales #SalesOps #RevenueOps #ColdOutreach #GTMStrategy #SalesDevelopment #SignalBasedSelling"
+        },
+        "pinterest": {
+          "content": "Understand how first-party signals create a GTM advantage no competitor can simply purchase. Per The GTM Engineer (Clay), Verkada built its outbound system around proprietary signals \u2014 not shared intent data \u2014 and routes a substantial share of revenue through marketing-sourced leads as a result. The real challenge is building an operational loop that turns those signals into timely rep action. Read the full breakdown at thegtme.com. If you're working on signal-based outbound, reach out through the link.",
+          "title": "First-Party Signals as a GTM Moat \u2014 What Outbound Teams Can Learn",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How First-Party Signals Become Your GTM Moat",
+        "url": "https://thegtme.com/p/how-first-party-signals-become-your",
+        "published": "2026-07-27T14:43:31+00:00",
+        "summary": "Verkada gets a quarter of its revenue from marketing-sourced leads. Here's how its growth team built a GTM system around signals no competitor can buy.",
+        "source": "The GTM Engineer (Clay)",
+        "category": "gtm_engineering",
+        "score": 4.2
+      }
+    },
+    {
+      "usable": true,
+      "angle": "AI in outreach works best as a force-multiplier for a skilled operator, not a replacement for judgment \u2014 the platform handles volume, the human handles quality.",
+      "variants": {
+        "linkedin": {
+          "content": "The AI outreach conversation keeps circling the wrong question: 'How much can we automate?' The more useful question is: 'What does a good rep do better when AI handles the repetitive parts?'\n\nHunter.io's take on AI lead generation (via MCP + outreach platforms) frames it well \u2014 the skilled human stays in the loop, AI reduces the grunt work. That's the direction that actually produces replies worth having, not just sends worth counting.\n\nThe failure mode isn't using AI too little. It's removing the operator who knows when a sequence should stop, when a message needs rewriting, and when a prospect deserves a genuinely personal note. Volume without that judgment just accelerates noise.\n\nAre you using AI to assist your outreach workflow, or has it quietly started running it?\n\nSource: Hunter.io Blog \u2014 https://hunter.io/blog/ai-lead-generation-how-to-apply-ai-to-email-outreach/\n\nIf you're thinking through how to structure a human-led, AI-assisted outbound motion, feel free to reach out at https://salesmake.agency/contact.\n\n#OutboundSales #AIOutreach #B2BSales"
+        },
+        "twitter": {
+          "content": "AI doesn't improve outreach. A skilled operator using AI does.\n\nHunter.io Blog makes the right call: human in the loop, AI on the grunt work. That's the setup that produces real replies.\n\nIf you're figuring out the balance, salesmake.agency\n\n#Outbound #B2BSales"
+        },
+        "bluesky": {
+          "content": "The AI outreach question isn't 'how much can we automate' \u2014 it's 'what does a good operator do better with AI handling the repetitive parts.' Hunter.io Blog gets this right. Human judgment stays central.\n\nSource: Hunter.io Blog",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "AI won't fix your outreach. A sharp operator using AI might.\n\nHunter.io Blog lays out the sensible direction: AI as assistant, human as decision-maker. Here's what that actually means in practice:\n\n\u2192 AI handles list-building and send logistics\n\u2192 The operator decides when to stop, pivot, or personalise\n\u2192 Volume means nothing without someone vetting the judgment calls\n\nRemoving the human from the loop doesn't scale good outreach \u2014 it scales noise.\n\nSource: Hunter.io Blog (link in bio)\n\nWorking on an outbound workflow and want a second set of eyes? Find us at salesmake.agency \u2014 link in bio.\n\n#OutboundSales #B2BSales #ColdEmail #AIOutreach #SalesOps #LeadGeneration #EmailOutreach #GTM #SalesDevelopment"
+        },
+        "pinterest": {
+          "content": "Understand where AI actually fits in cold email outreach \u2014 Hunter.io Blog makes the case for keeping a skilled human operator in the loop while AI handles the repetitive work. The result is better reply rates, not just higher send volumes. Explore the framework and learn how to build an outbound motion that scales without losing judgment. Via Hunter.io Blog: https://hunter.io/blog/ai-lead-generation-how-to-apply-ai-to-email-outreach/ \u2014 Happy to help if you're rethinking your outreach setup at SalesMake.",
+          "title": "AI-Assisted Outreach: Keep the Human in the Loop",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "AI Lead Generation: How to Apply AI to Email Outreach",
+        "url": "https://hunter.io/blog/ai-lead-generation-how-to-apply-ai-to-email-outreach/",
+        "published": "2026-07-27T12:20:56+00:00",
+        "summary": "The right direction with AI lead generation: a skilled human operator assisted\u2013not replaced\u2013 by AI, using an outreach platform via MCP.",
+        "source": "Hunter.io Blog",
+        "category": "cold_email",
+        "score": 2.0
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
