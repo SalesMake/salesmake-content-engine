@@ -1,0 +1,115 @@
+{
+  "date": "2026-07-29T13:07:53.253349+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Automating inbound follow-up is worthwhile, but the sequencing logic matters more than the tooling \u2014 most teams get the order of enrichment, scoring, and outreach backwards.",
+      "variants": {
+        "linkedin": {
+          "content": "Automating inbound lead outreach sounds straightforward until you actually build it.\n\nThe order of operations is where most setups quietly fail. Teams enrich after they score, score before they know intent, or fire a sequence before the lead even matches an ICP. The result is a technically 'automated' workflow that still produces noise \u2014 just faster noise.\n\nThe more useful framing: enrichment gates scoring, scoring gates sequence enrollment, and every step should have an exit condition. If a lead doesn't clear the scoring threshold, the automation should know what to do with them \u2014 not just drop them.\n\nClay Blog recently published a walkthrough of a full inbound automation workflow worth reviewing, especially for the sequencing logic: https://www.clay.com/blog/how-to-automate-inbound-lead-outreach\n\nIf you're thinking through how to set up or tighten your inbound-to-outbound motion, feel free to reach out at https://salesmake.agency/contact."
+        },
+        "twitter": {
+          "content": "Inbound automation fails when teams sequence before they score, and score before they enrich.\n\nGet the order right: enrich \u2192 score \u2192 enroll. Everything else is just fast noise.\n\n(Good workflow breakdown on Clay Blog \u2014 worth a look)\n\n#GTM #OutboundSales\n\nIf you're untangling your inbound motion \u2014 salesmake.agency"
+        },
+        "bluesky": {
+          "content": "Inbound automation tip: enrichment should gate scoring, scoring should gate sequence enrollment. Most workflows skip the logic and just go fast.\n\nClay Blog has a solid walkthrough of how to wire this up properly.\n\nHappy to help if you're working on your own inbound-to-outbound flow. #GTM",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Automated inbound outreach only works if the order is right. \u2b07\ufe0f\n\n\u2192 Enrich first \u2014 know who you're dealing with\n\u2192 Score second \u2014 does this lead actually fit?\n\u2192 Enroll third \u2014 only then start the sequence\n\nSkip the order and you're just sending faster. Not smarter.\n\nClay Blog published a detailed workflow breakdown on exactly this (link in bio to find it).\n\nIf you're building or fixing your inbound motion, reach out via the link in bio \u2014 salesmake.agency\n\n#outboundsales #gtm #salesautomation #inboundleads #b2bsales #coldoutreach #leadgeneration #salesops #revops #salessystems"
+        },
+        "pinterest": {
+          "content": "Build smarter inbound lead automation by getting the order right: enrich leads first, score them second, then enroll in a sequence. Skipping this logic produces automated noise, not results. Clay Blog walks through an exact workflow that handles all three steps without manual work \u2014 a practical reference for any B2B sales or GTM team setting up or auditing their inbound-to-outbound process. If you're working on your outbound or cold outreach setup, connect via the link.",
+          "title": "How to Automate Inbound Lead Outreach the Right Way",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How to Automate Inbound Lead Outreach in 2026 - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/how-to-automate-inbound-lead-outreach",
+        "published": "2026-07-28T23:43:20+00:00",
+        "summary": "Learn how to automate inbound lead outreach with enrichment, scoring, and personalized sequences. See the exact Clay workflow that runs without manual work.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 7.2
+      }
+    },
+    {
+      "usable": true,
+      "angle": "AI lead generation tools are multiplying fast, but the bottleneck is still workflow design \u2014 knowing what to automate and in what order matters more than which tool you pick.",
+      "variants": {
+        "linkedin": {
+          "content": "Everyone is talking about AI for lead generation. Fewer people are talking about the sequencing problem.\n\nThe Clay Blog published a thorough guide covering list-building, enrichment workflows, and personalised outreach at scale \u2014 useful reference material if you're mapping out a stack (link: https://www.clay.com/blog/ai-lead-generation).\n\nBut here's what the tooling conversation tends to skip: the order in which you enrich, filter, and write matters as much as the tools themselves. Running personalisation before you've properly filtered your ICP wastes credits and floods reps with noise. Enriching every field before you've validated a basic intent signal does the same.\n\nThe teams getting clean output from AI outreach aren't necessarily using better tools \u2014 they're making better sequencing decisions up front.\n\nWhat's the first step you validate before any enrichment runs in your workflow?\n\n#outbound #salesops #gtm\n\nIf you're working through how to structure a cold outreach workflow, feel free to reach out at https://salesmake.agency/contact"
+        },
+        "twitter": {
+          "content": "AI lead gen tools aren't the bottleneck.\n\nWorkflow sequencing is.\n\nEnrich before you filter your ICP = wasted spend. Personalise before intent validation = noise for reps.\n\nBetter order > better tools.\n\n(Hat tip: Clay Blog)\n\n#outbound #gtm\n\nHappy to help if you're thinking through cold outreach \u2014 salesmake.agency"
+        },
+        "bluesky": {
+          "content": "AI lead gen tools keep multiplying. The real constraint is sequencing \u2014 what you enrich, filter, and write, and in what order.\n\nGood read from Clay Blog on workflows at scale. Our take: tool choice matters less than decision order.\n\n#outbound #gtm",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "AI won't fix a broken workflow sequence. \ud83d\udd01\n\nThe Clay Blog dropped a detailed guide on AI lead generation \u2014 list-building, enrichment, personalised outreach at scale. Worth a read.\n\nBut here's the bit most teams miss:\n\n\u2192 Enriching before ICP filtering = wasted budget\n\u2192 Personalising before intent validation = rep noise\n\u2192 Better sequencing beats better tooling, almost every time\n\nThe question isn't which AI tool to add next. It's: what's the right order for the steps you already have?\n\nSource: Clay Blog (link in bio for the article)\n\nIf you're sorting out a cold outreach setup, we're easy to reach \u2014 salesmake.agency (link in bio) \ud83d\udce9\n\n#outbound #leadgeneration #gtm #salesops #b2bsales #coldoutreach #outboundsales #salesautomation #demandgeneration"
+        },
+        "pinterest": {
+          "content": "Explore how AI lead generation workflows actually break down \u2014 and why sequencing your enrichment and filtering steps matters more than which tools you choose. Clay Blog covers list-building, enrichment, and personalised outreach at scale: https://www.clay.com/blog/ai-lead-generation. Practical read for B2B sales and GTM teams building outbound systems. Get in touch about cold outreach at salesmake.agency/contact.",
+          "title": "AI Lead Generation: Why Workflow Sequencing Beats Tool Selection",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "AI Lead Generation: Tools, Workflows & B2B Guide (2026) - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/ai-lead-generation",
+        "published": "2026-07-28T21:55:06+00:00",
+        "summary": "The complete guide to AI lead generation: the best AI tools and software, list-building and enrichment workflows, and personalized outreach that scales. Backed by 800k+ cold emails/month at Clay",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 7.2
+      }
+    },
+    {
+      "usable": true,
+      "angle": "ChatGPT is useful inside a lead-gen workflow, but only once you're clear on what the human judgment layer still needs to own.",
+      "variants": {
+        "linkedin": {
+          "content": "ChatGPT is a capable assistant inside an outbound workflow. It is not the workflow.\n\nThe Clay Blog put together a solid walkthrough of where AI fits in lead generation \u2014 qualification prompts, outreach drafts, content at scale. Worth a read. But the part that often gets glossed over in these guides: the model has no context on your ICP fit signals, your timing, or what your last three deals actually had in common. That context still lives with you.\n\nWhere we see teams go wrong is treating AI output as a finished product rather than a first draft that needs real criteria applied to it. The prompt quality, the data going in, and the human review step are where the result gets determined \u2014 not the model itself.\n\nWhat's your current split between AI-assisted and manually reviewed outreach?\n\nFull guide via Clay Blog: https://www.clay.com/blog/chatgpt-lead-generation\n\nIf you're thinking through how AI fits into your outbound process, feel free to reach out at https://salesmake.agency/contact.\n\n#outbound #leadgeneration #GTM"
+        },
+        "twitter": {
+          "content": "ChatGPT doesn't know your ICP. It doesn't know your best recent win. It doesn't know timing.\n\nIt's a draft engine \u2014 not a judgment layer. That part still needs you.\n\n(Via Clay Blog) #outbound #GTM\n\nWorking on cold outreach? salesmake.agency"
+        },
+        "bluesky": {
+          "content": "AI can draft outreach. It can't tell you whether the prospect is actually a fit.\n\nThat judgment layer \u2014 ICP signals, timing, deal context \u2014 still has to be human. Good overview of the use cases via Clay Blog.\n\nFiguring out where AI fits in your outbound? salesmake.agency/contact",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "ChatGPT can help with lead gen. Here's what it still can't do:\n\n\u2192 Know whether a prospect actually fits your ICP\n\u2192 Understand why your last three deals closed\n\u2192 Read timing signals from your pipeline\n\nAI is a useful first-draft layer. The criteria you apply on top of it is where the work happens.\n\nClay Blog has a thorough breakdown of where these tools genuinely fit \u2014 link to that and more at the link in bio (salesmake.agency).\n\nHappy to help if you're working through how to structure your outbound stack \u2014 link in bio.\n\n#outbound #salesops #leadgeneration #GTM #coldoutreach #b2bsales #salesstrategy #outboundsales #prospecting"
+        },
+        "pinterest": {
+          "content": "Explore practical use cases for ChatGPT in B2B lead generation \u2014 including prospect qualification, outreach drafting, and content scaling. Clay Blog outlines the prompts and risks worth knowing. The key reminder: AI handles the drafting, but ICP fit, timing signals, and deal context still require human judgment. Build AI into your workflow as a first-draft layer, not a decision layer. If you're working on your outbound approach, reach out via SalesMake.",
+          "title": "Where ChatGPT Actually Fits in a B2B Lead Gen Workflow",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "ChatGPT Lead Generation: Use Cases & Best Practices 2026 - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/chatgpt-lead-generation",
+        "published": "2026-07-28T23:37:27+00:00",
+        "summary": "Learn how to use ChatGPT lead generation to qualify prospects, automate outreach, and scale content. Includes prompts, risks, and best practices. See how it works.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 6.0
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
