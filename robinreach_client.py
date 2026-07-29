@@ -41,7 +41,7 @@ BASE = "https://robinreach.com/api/v1"
 CLIENT_VERSION = "2.0-header-auth"
 
 # If the live API rejects a field name, flip these to the alternates noted above.
-MEDIA_FIELD = "media_urls"      # alt: "attachments"
+MEDIA_FIELD = "attachments"     # RobinReach maps media to 'attachments'; alt: "media_urls"
 STATUS_FIELD = "status"         # alt: "post_status"
 
 
@@ -91,7 +91,7 @@ def build_body(draft, when, status, media_urls):
         "social_profile_ids": list(ROBIN_REACH_PROFILES.values()),
         STATUS_FIELD: status,
         "title": v.get("pinterest", {}).get("title", ""),
-        MEDIA_FIELD: attachments,
+        MEDIA_FIELD: media_urls,
 
         # (1) Full per-platform CONTENT overrides — same shape the chat
         #     connector honored. Sent in case REST supports it.
