@@ -1,0 +1,115 @@
+{
+  "date": "2026-07-30T12:13:34.481335+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "First-party signals matter not because they're richer data, but because they're yours \u2014 no vendor can sell the same edge to your competitor.",
+      "variants": {
+        "linkedin": {
+          "content": "Rented signals are a commodity. First-party signals are a moat.\n\nMost outbound teams are drinking from the same data sources \u2014 intent platforms, enrichment tools, contact databases. Useful, but symmetric. Your competitor has the same list.\n\nThe Clay Blog recently featured Verkada's Cody Leovic on why first-party data \u2014 CRM notes, call transcripts, reply patterns \u2014 is the GTM edge you can actually own. The logic is straightforward: if a signal can be purchased, it can be purchased by everyone. But what your customers have already told you, in their own words, across your own touchpoints, isn't for sale anywhere.\n\nThe harder question for most teams isn't whether they believe this. It's whether their outbound motion is actually built to use it. A lot of orgs sit on a goldmine of first-party signal and still write sequences as if they know nothing about the prospect.\n\nWorth a read: https://www.clay.com/blog/how-first-party-signals-become-your-gtm-moat\n\nIf you're thinking through how to build outreach that actually puts your first-party data to work, feel free to reach out at https://salesmake.agency/contact\n\n#GTM #OutboundSales #SalesStrategy"
+        },
+        "twitter": {
+          "content": "Bought signals = your competitor has them too.\n\nFirst-party data \u2014 call transcripts, CRM notes, replies \u2014 is the one edge that can't be purchased off a shelf. Clay Blog breaks this down well.\n\nIf this resonates, salesmake.agency\n\n#GTM #Outbound"
+        },
+        "bluesky": {
+          "content": "Third-party intent data is table stakes. First-party signals \u2014 what prospects already told you \u2014 are the actual moat. Clay Blog makes the case well. Worth 5 mins.\n\nIf you're working on outbound that uses what you already know, happy to talk.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The signal your competitor can't buy is already in your CRM.\n\n\u2192 Call transcripts\n\u2192 Reply threads\n\u2192 CRM notes from past conversations\n\nRented intent data is useful. But it's symmetric \u2014 everyone on your competitor list has access to the same tools.\n\nThe Clay Blog features Verkada's Cody Leovic on why first-party data is the GTM edge that actually compounds over time. Link in bio to read it.\n\nIf you're figuring out how to turn what you already know into better outbound \u2014 we're at salesmake.agency (link in bio).\n\n#OutboundSales #GTM #SalesOps #B2BSales #ColdOutreach #SalesEnablement #RevenueOperations #FirstPartyData"
+        },
+        "pinterest": {
+          "content": "Build a GTM moat with first-party signals \u2014 the data your competitors can't purchase. Clay Blog breaks down how CRM notes, call transcripts, and reply patterns become a durable outbound edge, featuring Verkada's Cody Leovic. Read the full piece at Clay Blog, then reach out to SalesMake if you're working on cold outreach that makes better use of what you already know.",
+          "title": "First-Party Signals: The Outbound Edge You Actually Own",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "The GTM Signal Your Competitors Can't Buy - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/how-first-party-signals-become-your-gtm-moat",
+        "published": "2026-07-29T17:50:34+00:00",
+        "summary": "Verkada's Cody Leovic explains why first-party data \u2014 CRM notes, replies, call transcripts \u2014 builds a GTM edge that rented signals can't match.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 3.6
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Clay's roadmap reveals where AI-driven GTM infrastructure is heading \u2014 and what that means for outbound teams deciding what to build on now.",
+      "variants": {
+        "linkedin": {
+          "content": "Clay's CEO just published a roadmap for what they're calling a 'self-improving revenue engine.' Worth reading \u2014 not as product hype, but as a signal about where GTM infrastructure is genuinely heading.\n\nThe interesting part isn't the features. It's the underlying assumption: that data enrichment, sequencing, and signal-routing will increasingly collapse into a single loop, with AI tightening it over time. For outbound teams, that has real implications for how you structure your stack and where you put your attention.\n\nThe question for most teams isn't whether this direction is right \u2014 it probably is. It's whether your current workflows are built in a way that can absorb these changes without starting over every six months.\n\nFull roadmap breakdown from Clay Blog: https://www.clay.com/blog/build-on-clay-clays-product-roadmap-with-ceo-kareem-amin\n\nIf you're thinking through how to structure your outbound motion around tools like these, feel free to reach out at https://salesmake.agency/contact\n\n#GTM #OutboundSales #SalesTech"
+        },
+        "twitter": {
+          "content": "Clay's CEO mapped out an AI revenue engine roadmap. The real signal: enrichment, sequencing, and routing are merging into one loop.\n\nFor outbound teams, the question is whether your stack can absorb that shift. Worth reading \u2014 covered on Clay Blog.\n\nIf you're figuring this out: salesmake.agency #GTM #Outbound"
+        },
+        "bluesky": {
+          "content": "Clay's roadmap (Clay Blog) is worth a read \u2014 not for the features, but for what it signals: enrichment, routing, and sequencing collapsing into one AI loop. Outbound teams should be asking if their current setup can handle that shift.\n\nHappy to talk it through if you're working on your outbound stack.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "AI GTM infrastructure is moving fast \u2014 and Clay's roadmap shows where it's heading.\n\nClay's CEO just outlined a 'self-improving revenue engine' built on:\n\u2192 Unified data enrichment\n\u2192 Signal-based routing\n\u2192 Sequencing that tightens over time\n\nThe takeaway for outbound teams isn't 'buy the tool.' It's: are your workflows flexible enough to keep up when the stack keeps changing?\n\nFull breakdown on Clay Blog \u2014 link in bio, or find us at salesmake.agency\n\nIf you're working on your outbound setup, we're easy to reach \u2014 link in bio.\n\n#OutboundSales #GTM #SalesTech #B2BSales #RevenueOperations #SalesStack #AIinSales #ColdOutreach #SalesEnablement"
+        },
+        "pinterest": {
+          "content": "Explore what Clay's CEO roadmap reveals about AI-driven GTM infrastructure \u2014 and what outbound sales teams should be thinking about before the stack shifts again. Per Clay Blog, enrichment, routing, and sequencing are converging into a single AI-powered loop. Build your outbound motion with that in mind. Get in touch with SalesMake if you're figuring out your outbound approach.",
+          "title": "AI GTM Infrastructure: What Clay's Roadmap Means for Outbound Teams",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Clay's GTM Roadmap: Building an AI Revenue Engine - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/build-on-clay-clays-product-roadmap-with-ceo-kareem-amin",
+        "published": "2026-07-29T20:44:08+00:00",
+        "summary": "Clay CEO Kareem Amin breaks down the shift to AI-driven GTM: data, infrastructure, and self-improving revenue engines. See what's shipping this summer.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    },
+    {
+      "usable": true,
+      "angle": "AI account research agents shift the bottleneck in outbound from data gathering to decision-making \u2014 which changes how you should think about sequencing expansion and re-engagement plays.",
+      "variants": {
+        "linkedin": {
+          "content": "Account research has always been the slow, leaky part of outbound. You spend cycles pulling intent signals, firmographic changes, and product usage hints \u2014 then by the time a rep acts on them, the window has moved.\n\nClay just released Account Research Agents (covered on the Clay Blog), which automate that continuous monitoring so expansion and re-engagement plays can trigger on fresh intelligence rather than stale list pulls. The interesting GTM implication isn't just speed \u2014 it's that the bottleneck shifts. When research is always-on, the constraint becomes deciding *which accounts deserve a play right now* and *what that play should actually say*. Sequence logic and messaging judgment matter more, not less.\n\nIf you're building out expansion motions or trying to time re-engagement better, it's worth thinking about where humans stay in the loop. Automation surfaces the signal; someone still has to decide what it means. Are your reps set up to act on real-time account changes \u2014 or are they still working from last quarter's data?\n\nClay Blog: https://www.clay.com/blog/account-research-agents\n\nIf you're working on cold outreach or trying to sharpen your outbound process, feel free to reach out at https://salesmake.agency/contact.\n\n#outbound #gtm #salesops"
+        },
+        "twitter": {
+          "content": "Account research agents in Clay mean the bottleneck shifts from gathering signals to acting on them.\n\nFaster data \u2260 better outbound. Messaging judgment still matters.\n\n(Source: Clay Blog \u2014 salesmake.agency)\n\n#outbound #gtm"
+        },
+        "bluesky": {
+          "content": "Clay's new Account Research Agents automate continuous monitoring for expansion/re-engagement plays. The real shift: when research is always-on, sequencing and message judgment become the constraint. Per Clay Blog.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Real-time account intelligence sounds like a win \u2014 and it is. But it moves the bottleneck, not removes it.\n\n\u2192 Clay just launched Account Research Agents (Clay Blog)\n\u2192 They keep account data fresh for expansion + re-engagement plays\n\u2192 The new constraint: deciding what to do with the signal\n\u2192 Automation surfaces the moment \u2014 messaging still has to earn the reply\n\nIf outbound sequencing or timing is something you're thinking through, link in bio \u2192 salesmake.agency\n\n#outbound #coldoutreach #gtm #salesenablement #b2bsales #accountbased #salesops #revops #prospecting"
+        },
+        "pinterest": {
+          "content": "Discover how Clay's Account Research Agents automate account monitoring for expansion and re-engagement plays \u2014 and why that shifts the bottleneck to messaging and sequencing decisions. Learn the GTM implications from the Clay Blog. Reach out at SalesMake for help thinking through your outbound approach.",
+          "title": "Account Research Agents: What Changes in Your Outbound When Data Is Always Fresh",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Introducing Account Research Agents to Clay  - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/account-research-agents",
+        "published": "2026-07-29T15:08:06+00:00",
+        "summary": "Use agents for up-to-date account inteliigence to run expansion or re-engagement plays",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
