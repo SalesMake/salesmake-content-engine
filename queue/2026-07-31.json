@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-31T12:32:08.281291+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "The real lead-gen cost question isn't the price tag per channel \u2014 it's whether you're comparing like-for-like outputs, because a cheap CPL from paid ads and a cheap CPL from outbound rarely buy you the same quality of conversation.",
+      "variants": {
+        "linkedin": {
+          "content": "Most \"how much does lead generation cost?\" breakdowns stop at the invoice. That's the wrong place to stop.\n\nThe meaningful comparison isn't agency retainer vs. SDR salary vs. ad spend vs. automation tool. It's: what does each model actually produce at the end of the funnel? A low cost-per-lead from a broad paid channel and a higher cost-per-lead from tightly targeted outbound can swap positions entirely once you factor in close rate, sales cycle length, and how much hand-holding each lead needs.\n\nBefore you benchmark your spend, it's worth asking: are you pricing inputs or pricing outcomes?\n\nExpandi Blog ran a solid breakdown of the cost structures across the main acquisition models \u2014 worth a read if you're auditing your pipeline budget: https://expandi.io/blog/how-much-does-lead-generation-cost/\n\nIf you're thinking through how outbound fits into that picture, feel free to reach out at https://salesmake.agency/contact\n\n#outbound #leadgeneration #GTM"
+        },
+        "twitter": {
+          "content": "Low CPL \u2260 cheap pipeline. The channel that looks expensive on paper can outperform when you track it to close.\n\nExpandi Blog breaks down the cost structures worth comparing \u2014 source: Expandi Blog.\n\nWorking through outbound ROI? salesmake.agency #outbound #sales"
+        },
+        "bluesky": {
+          "content": "Comparing lead-gen costs across channels only means something if you're tracking the same output \u2014 not just the initial CPL. Expandi Blog breaks down the main models clearly. Worth a look before you set next quarter's budget.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The cheapest leads aren't always the cheapest pipeline. \ud83d\udcca\n\nEvery lead-gen channel has its own cost structure \u2014 but CPL comparisons break down if you're not tracking what each lead actually does downstream.\n\n\u2192 Paid ads: low CPL, often high volume, variable intent\n\u2192 SDR team: higher cost, but conversation quality is controlled\n\u2192 Agency retainer: predictable spend, execution offloaded\n\u2192 Automation tools: low per-lead cost, but still needs your team's time\n\nBefore you cut or shift budget, the question is whether you're comparing inputs or outcomes.\n\nExpandi Blog has a straightforward breakdown of how the numbers shake out across each model \u2014 link in bio to find it, and visit salesmake.agency for more on outbound.\n\nHappy to help if you're figuring out where cold outreach fits into your lead-gen mix \u2014 link in bio.\n\n#leadgeneration #outboundsales #salesstrategy #GTM #SDR #B2Bsales #coldoutreach #salesdevelopment #pipelinebuilding"
+        },
+        "pinterest": {
+          "content": "Understand lead generation costs across every major channel before you allocate your next sales budget. Paid ads, in-house SDRs, agency retainers, and outbound automation tools each carry different cost structures \u2014 and a low cost-per-lead in one model rarely means the same thing as a low CPL in another. Expandi Blog breaks down the numbers clearly: https://expandi.io/blog/how-much-does-lead-generation-cost/ \u2014 and if you're exploring how cold outreach fits into your mix, get in touch at https://salesmake.agency/contact",
+          "title": "Lead Generation Cost by Channel: What the Numbers Actually Mean",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How Much Does Lead Generation Cost?",
+        "url": "https://expandi.io/blog/how-much-does-lead-generation-cost/",
+        "published": "2026-07-30T20:40:32+00:00",
+        "summary": "How much lead generation costs depends on how you choose to buy the pipeline: an agency retainer, an in-house SDR team, paid advertising, or an automation tool your own team runs. Each option carries its own cost structure, and the gap between the cheapest and the most expensive channel runs to hundreds of dollars per [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 4.4
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
