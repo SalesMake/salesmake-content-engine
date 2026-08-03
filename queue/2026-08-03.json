@@ -1,0 +1,117 @@
+{
+  "date": "2026-08-03T15:58:48.078890+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "AI prospecting is only as good as the judgment behind it \u2014 the tech stacks are converging, so the differentiator is knowing which signals actually matter for your market.",
+      "variants": {
+        "linkedin": {
+          "content": "Everyone is calling their outbound stack 'AI-powered' now. Most of what that means in practice: faster list building, auto-filled personalization tokens, and a deliverability dashboard you remember to check once a month.\n\nThe Instantly Blog published a thorough breakdown of what AI prospecting actually involves \u2014 signal-based targeting, enrichment layers, sequence orchestration, sender reputation management. It's a solid map of the landscape: https://instantly.ai/blog/what-is-ai-prospecting/\n\nThe part worth sitting with: the components are increasingly commoditised. Any team can bolt together the same tools. What isn't commoditised is knowing which signals are genuinely predictive for your ICP, how to sequence messaging that doesn't read like it was assembled by a workflow, and when to pull a human into the loop before a reply goes cold.\n\nAI removes a lot of the grunt work. It doesn't remove the need for a coherent outbound strategy underneath it. Is your team using these tools on top of a clear GTM thesis, or instead of one?\n\n#B2BSales #Outbound #SalesProspecting\n\nIf you're thinking through how to build or sharpen your outbound approach, feel free to reach out at https://salesmake.agency/contact"
+        },
+        "twitter": {
+          "content": "AI prospecting tools are converging fast. The tech is table stakes now.\n\nWhat still separates good outbound from noise: knowing which signals actually matter for your ICP.\n\nGood primer on the mechanics from Instantly Blog \u2014 salesmake.agency\n\n#Outbound #B2BSales"
+        },
+        "bluesky": {
+          "content": "The components of AI prospecting \u2014 enrichment, signals, sequencing \u2014 are becoming table stakes. Worth reading Instantly Blog's breakdown. The real edge is still in knowing which signals fit your specific ICP, not just having the stack. https://instantly.ai/blog/what-is-ai-prospecting/\n\nHappy to help if you're figuring out your outbound setup.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "AI prospecting isn't magic \u2014 it's a stack.\n\n\u2192 Signal-based targeting\n\u2192 Data enrichment\n\u2192 Sequence orchestration\n\u2192 Deliverability monitoring\n\nInstantly Blog put together a clear guide on how these layers fit together (link in bio for that read).\n\nThe honest take: these tools are converging. Most teams can assemble the same setup. What's harder to copy is a sharp ICP, signals that actually predict intent for your market, and messaging that sounds like a person wrote it.\n\nTechnology accelerates your outbound. It doesn't replace the thinking that makes outbound worth doing.\n\nIf you're working on your cold outreach approach, we're easy to reach \u2014 salesmake.agency (link in bio).\n\n#B2BSales #OutboundSales #SalesProspecting #GTM #AIProspecting #ColdEmail #SalesDevelopment #B2BMarketing #PipelineGeneration #SalesStrategy",
+          "hashtags": []
+        },
+        "pinterest": {
+          "content": "Explore what AI prospecting really involves for B2B sales teams \u2014 signal-based targeting, enrichment, sequence orchestration, and sender reputation management. Instantly Blog maps out the full stack (https://instantly.ai/blog/what-is-ai-prospecting/). The differentiator isn't the tooling anymore; it's the judgment about which signals fit your ICP and how to build sequences that convert. If you're working on cold outreach or outbound strategy, reach out via the link.",
+          "title": "What AI Prospecting Actually Requires for B2B Outbound",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "What is AI prospecting? The complete guide for B2B sales teams",
+        "url": "https://instantly.ai/blog/what-is-ai-prospecting/",
+        "published": "2026-08-03T14:20:45+00:00",
+        "summary": "AI prospecting is a multi-layered intelligence system spanning data enrichment, sequence orchestration, and automated delivery. It combines signal-based targeting, dynamic personalization, and deliverability monitoring to generate predictable pipeline without destroying sender reputation.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 7.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The real unlock isn't choosing outbound or inbound \u2014 it's using inbound intent signals as the trigger for outbound sequences, which most teams still treat as separate machines.",
+      "variants": {
+        "linkedin": {
+          "content": "Most outbound vs. inbound debates miss the point.\n\nThe question isn't which motion is better \u2014 it's how quickly your team spots an intent signal from inbound and turns it into a targeted outbound touch. A prospect downloads a guide, visits a pricing page, or engages with a webinar. That's a window. Most teams let it close while the lead sits in a nurture queue.\n\nThe Instantly Blog has a solid breakdown of both motions \u2014 benchmarks, CAC comparisons, when to lean into each \u2014 worth a read if you're structuring pipeline strategy: https://instantly.ai/blog/outbound-vs-inbound-sales/\n\nThe bit that stands out: per their analysis, B2B teams running both motions together outperform single-motion teams on revenue growth. That tracks with what we see too. The gap usually isn't strategy \u2014 it's execution. Inbound and outbound live in separate tools, separate teams, separate cadences. Nobody owns the handoff.\n\nIf you're building or refining how outbound fits into your pipeline, feel free to reach out \u2014 happy to think through it together: https://salesmake.agency/contact\n\n#B2BSales #OutboundSales #GTM"
+        },
+        "twitter": {
+          "content": "Inbound vs outbound is the wrong debate.\n\nThe teams winning are using inbound intent signals to *trigger* outbound \u2014 not running two separate machines.\n\nGood breakdown on this from Instantly Blog (via salesmake.agency).\n\n#OutboundSales #B2B"
+        },
+        "bluesky": {
+          "content": "Inbound vs outbound? The real edge is using intent signals from inbound to fire outbound sequences \u2014 most teams still treat them as separate ops. Instantly Blog breaks down the mechanics well. Worth reading if you're structuring pipeline.\n\nSource: instantly.ai/blog/outbound-vs-inbound-sales/",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Outbound vs inbound \u2014 still the wrong question for most B2B teams. \ud83d\udc47\n\nThe teams with predictable pipeline aren't choosing one. They're using inbound intent signals as the trigger for outbound sequences.\n\n\u2192 Prospect visits pricing page? Outbound sequence fires.\n\u2192 Webinar attendance? Targeted follow-up, not generic nurture.\n\u2192 Content download? That's a warm signal \u2014 treat it like one.\n\nInstantly Blog has a clear breakdown of both motions, including CAC benchmarks and when to lean into each. Link in bio or search: instantly.ai/blog/outbound-vs-inbound-sales\n\nIf you're working on how outbound fits your pipeline, we're easy to reach \u2014 link in bio at salesmake.agency\n\n#OutboundSales #InboundMarketing #B2BSales #SalesStrategy #GTM #ColdOutreach #PipelineGeneration #SalesDevelopment #B2B"
+        },
+        "pinterest": {
+          "content": "Understand when to use outbound vs inbound sales \u2014 and how combining both motions with intent-based triggers builds more predictable B2B pipeline. The Instantly Blog breaks down key differences, CAC benchmarks, and the case for running both. Read it at instantly.ai/blog/outbound-vs-inbound-sales. If you're thinking through your outbound approach, get in touch at salesmake.agency/contact.",
+          "title": "Outbound vs Inbound Sales: How to Use Both for Predictable Pipeline",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Outbound vs inbound sales: key differences, pros, and when to use each",
+        "url": "https://instantly.ai/blog/outbound-vs-inbound-sales/",
+        "published": "2026-08-03T14:18:05+00:00",
+        "summary": "Outbound vs inbound sales compared: key differences, CAC benchmarks, and when to use each motion to build predictable pipeline. B2B teams running both motions outperform single-motion teams on revenue growth and use inbound intent signals to trigger targeted outbound sequences at scale.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 5.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The real switching cost between AI SDR platforms isn't pricing \u2014 it's domain health and workflow control, which most comparison guides underweight.",
+      "variants": {
+        "linkedin": {
+          "content": "Most AI SDR platform comparisons lead with features and pricing tiers. Those matter, but they're not where teams get burned.\n\nThe stickier issue is infrastructure: warmup quality, sending limits, and whether your domains survive a growth sprint intact. Per the Instantly Blog's recent breakdown of Artisan alternatives, deliverability infrastructure and team-level governance separate the serious platforms from the ones that look fine in a demo.\n\nThat framing resonates. When a platform abstracts too much \u2014 promising hands-off automation \u2014 it often strips out the controls that let you catch problems before your sender reputation takes a hit. The best tools in this space give you oversight, not just output.\n\nIf you're evaluating platforms right now, the question worth asking isn't just 'what does it automate?' but 'what does it let me see and adjust when something's off?'\n\nFull breakdown worth reading: https://instantly.ai/blog/artisan-alternatives/\n\nIf you're working through an outbound stack decision and want a second set of eyes, feel free to reach out at https://salesmake.agency/contact."
+        },
+        "twitter": {
+          "content": "AI SDR platform comparisons focus on price. The real risk is what happens to your sending domains at scale.\n\nInstantly Blog ranked 7 Artisan alternatives on warmup infra + governance \u2014 worth a read.\n\n#OutboundSales #B2BSales\n\nIf you need help thinking through cold outreach infrastructure \u2014 salesmake.agency"
+        },
+        "bluesky": {
+          "content": "AI SDR comparisons obsess over pricing. The harder question: does the platform let you protect domain health as you scale? Instantly Blog breaks down 7 Artisan alternatives with that lens. Worth a look.\n\nHappy to help if you're sorting out your outbound setup.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The AI SDR comparison no one's having honestly enough \ud83d\udc47\n\n\u2192 Pricing is easy to compare\n\u2192 Deliverability infrastructure is where teams quietly lose\n\u2192 Warmup quality + sender governance = the real differentiators\n\nInstantly Blog just ranked 7 Artisan alternatives on exactly those criteria \u2014 one of the more useful platform breakdowns we've seen.\n\nLink in bio (salesmake.agency) \u2014 and if you're figuring out your outbound stack, we're happy to talk it through.\n\n#OutboundSales #B2BSales #ColdEmail #SalesDevelopment #SDR #GTM #SalesOps #EmailDeliverability #B2Bmarketing",
+          "website_url": "https://salesmake.agency/contact"
+        },
+        "pinterest": {
+          "content": "Compare AI SDR platforms the right way \u2014 evaluate warmup infrastructure, domain governance, and deliverability controls before committing to a switch. The Instantly Blog ranks 7 Artisan alternatives across these criteria so B2B sales teams can scale outbound without damaging sender reputation. Read the full breakdown, then reach out to SalesMake if you're building or refining your cold outreach approach.",
+          "title": "How to Evaluate AI SDR Platforms: Deliverability & Governance First",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Artisan alternatives: 7 AI SDR platforms worth switching to",
+        "url": "https://instantly.ai/blog/artisan-alternatives/",
+        "published": "2026-08-03T14:15:42+00:00",
+        "summary": "Artisan alternatives ranked by deliverability, pricing, and workflow control for B2B sales teams switching AI SDR platforms. We tested seven tools on warmup infrastructure, flat-fee pricing, and team-level governance to help sales leaders protect domain health and scale outbound safely.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 4.0
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
