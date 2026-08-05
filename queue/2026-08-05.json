@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-05T12:27:00.064961+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Dynamic ad audiences built from enriched outbound data close the gap between prospecting lists and paid targeting \u2014 a workflow most GTM teams haven't connected yet.",
+      "variants": {
+        "linkedin": {
+          "content": "Most teams treat outbound lists and ad audiences as separate things. They shouldn't be.\n\nWhen your prospecting data is already enriched \u2014 job title, company size, tech stack, recent signals \u2014 feeding that directly into paid audiences is a natural next step. The problem has always been match rates: upload a list of work emails and LinkedIn or Meta matches maybe half of them. Clay's new Ads feature addresses that by enriching contacts across multiple providers before the audience is built, and by keeping audiences dynamic as your data updates rather than forcing a manual re-export every week.\n\nThe practical implication for outbound: the same account list you're sequencing can also be seeing your ads. That's not a radical idea, but most teams never actually close the loop because the tooling friction is too high. Lower that friction and coordinated outbound + paid becomes a real motion, not just a slide in a strategy deck.\n\nWorth reading if you're thinking about how cold outreach and paid targeting can reinforce each other \u2014 Clay Blog: https://www.clay.com/blog/ads\n\nIf you're working through how outbound and paid fit together in your GTM motion, feel free to reach out at https://salesmake.agency/contact."
+        },
+        "twitter": {
+          "content": "Your outbound list and your ad audience are the same list. Most teams just never connected the two.\n\nClay's new Ads feature makes that loop easier to close \u2014 enriched contacts, dynamic audiences, better match rates.\n\nSource: Clay Blog | salesmake.agency #outbound #GTM"
+        },
+        "bluesky": {
+          "content": "Outbound list + ad audience = same list, different tools. Clay Ads tries to close that gap with enriched, dynamic audiences and better match rates. Worth a look if coordinated outbound + paid is on your radar. Via Clay Blog.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Your prospecting list and your ad audience should be the same thing \u2014 most teams just never connected them.\n\n\u2192 Enriched contacts = higher match rates on LinkedIn & Meta\n\u2192 Dynamic audiences that update as your data changes\n\u2192 No more manual re-exports every week\n\u2192 Outbound sequences + paid ads hitting the same accounts\n\nClay Blog just covered how their new Ads feature makes this easier to build. Link in bio (salesmake.agency) for more.\n\nHappy to help if you're figuring out how outbound fits into your broader GTM \u2014 link in bio.\n\n#outbound #gtm #salesops #demandgen #b2bmarketing #coldoutreach #salesenablement #revenueoperations #clayhq"
+        },
+        "pinterest": {
+          "content": "Connect your outbound prospecting data directly to paid ad audiences \u2014 enriched contacts, dynamic list updates, and higher match rates across LinkedIn and Meta. Clay Blog walks through how Clay Ads makes this workflow practical for GTM teams running coordinated outbound and paid motions. Read the full post on the Clay Blog. If you're exploring how cold outreach and paid targeting can work together, get in touch at salesmake.agency.",
+          "title": "Turn Outbound Lists into High-Match Ad Audiences with Clay",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Clay Ads: Targeted Ad Audiences & Higher Match Rates - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/ads",
+        "published": "2026-08-04T15:23:32+00:00",
+        "summary": "Clay Ads builds unlimited ad audiences, updates them dynamically as your data changes, and boosts match rates by enriching across multiple providers.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
