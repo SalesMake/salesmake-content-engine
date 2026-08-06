@@ -1,0 +1,115 @@
+{
+  "date": "2026-08-06T12:30:33.598986+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Deliverability and relevance are the two gates every cold email must pass \u2014 most outreach fails at the first one before a human even reads a word.",
+      "variants": {
+        "linkedin": {
+          "content": "Most cold email audits start with copy. They should start with the inbox.\n\nBefore your subject line, your hook, or your call to action matter at all, the email has to actually land somewhere a human looks. Deliverability \u2014 domain warm-up, sending limits, authentication records \u2014 is the unglamorous work that determines whether everything else gets a chance.\n\nThe Expandi Blog just ran through 15 best practices for cold email outreach in 2026, pulling patterns from their highest-replying sequences. It's a useful checklist if you haven't pressure-tested your setup recently: https://expandi.io/blog/cold-email-outreach-best-practices/\n\nThe part worth sitting with: technical hygiene and message relevance aren't separate workstreams. A perfectly written email from a flagged domain is invisible. A clean send with a generic pitch is ignored. Both gates have to be open.\n\nAre you treating deliverability as a pre-send checklist item, or is it built into how your outbound program runs day to day?\n\n#ColdEmail #Outbound #SalesOps\n\nFeel free to reach out about cold outreach or outbound sales at https://salesmake.agency/contact"
+        },
+        "twitter": {
+          "content": "Cold email fails before anyone reads it \u2014 deliverability is gate one, relevance is gate two. Most teams only fix gate two.\n\nGood checklist from Expandi Blog on both.\n\n#ColdEmail #Outbound\n\nIf you're working on this: salesmake.agency"
+        },
+        "bluesky": {
+          "content": "Cold email has two gates: deliverability and relevance. Most copy rewrites only touch the second one. Worth reading Expandi Blog's 2026 breakdown \u2014 then checking your domain health.\n\nHappy to help if outbound is something you're thinking through.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Cold email has two gates \u2014 and most teams only fix the second one. \ud83d\udeaa\n\n\u2192 Gate 1: Does the email reach an inbox at all? (Deliverability, domain health, authentication)\n\u2192 Gate 2: Does the person reading it have a reason to reply today? (Relevance, timing, offer)\n\nExpandi Blog just published a solid 2026 rundown of cold email best practices, built backwards from their highest-replying sequences. Worth a read if you haven't audited your setup lately.\n\nLink in bio \u2014 or find it at expandi.io/blog/cold-email-outreach-best-practices/\n\nIf you need help thinking through your cold outreach approach, we're at salesmake.agency (link in bio).\n\n#ColdEmail #OutboundSales #EmailOutreach #B2BSales #SalesDevelopment #GTM #LeadGeneration #SalesOps #ColdOutreach #EmailMarketing"
+        },
+        "pinterest": {
+          "content": "Improve cold email results in 2026 by fixing both gates: deliverability (domain warm-up, authentication, sending limits) and relevance (timing, offer, personalization). Expandi Blog reviewed their highest-replying sequences to surface 15 actionable best practices \u2014 a practical audit checklist for any outbound team. Read the full breakdown at https://expandi.io/blog/cold-email-outreach-best-practices/ and get in touch with SalesMake if you're looking for help with cold outreach.",
+          "title": "Cold Email Best Practices That Actually Reach the Inbox (2026)",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "15 Cold Email Outreach Best Practices That Work in 2026",
+        "url": "https://expandi.io/blog/cold-email-outreach-best-practices/",
+        "published": "2026-08-05T19:53:49+00:00",
+        "summary": "Cold email outreach best practices in 2026 start with whether your email reaches an inbox at all, and end with whether the person reading it has a reason to answer today. The 15 cold email outreach best practices that work in 2026: We pulled the highest-replying email-and-LinkedIn sequences running on Expandi and worked backwards through [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 4.4
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Rented signals level the playing field; first-party data tilts it \u2014 because no competitor can buy what your own conversations already contain.",
+      "variants": {
+        "linkedin": {
+          "content": "Everyone's pulling from the same intent data vendors. Same job-change alerts. Same technographic feeds. When the whole market runs on the same signals, those signals stop being an edge.\n\nWhat actually compounds over time is the data no one else can access: the reply that hinted at a budget freeze, the call note about a reorg, the CRM thread showing a champion went cold for six months then came back. Cody Leovic of Verkada makes this case well over on the Clay Blog \u2014 first-party signals aren't just more accurate, they're structurally defensible in a way rented data can't be.\n\nThe practical question this raises for outbound teams: how much of what's already in your CRM and call recordings are you actually using to prioritize and personalize? Most teams are sitting on a moat they haven't dug yet.\n\nFull piece worth a read: https://www.clay.com/blog/how-first-party-signals-become-your-gtm-moat\n\nIf you're thinking through how to build a smarter outbound motion around the data you already own, feel free to reach out at https://salesmake.agency/contact\n\n#outbound #GTM #salesoperations"
+        },
+        "twitter": {
+          "content": "Rented signals = same intel as every competitor.\n\nYour CRM notes, call transcripts, reply history \u2014 that's the data nobody else can buy.\n\nClay Blog makes the case for first-party as a structural GTM moat. Worth reading.\n\nIf you're working on sharper outbound, salesmake.agency\n\n#GTM #outbound"
+        },
+        "bluesky": {
+          "content": "Everyone's buying the same intent signals. Your CRM notes and call transcripts are the data competitors literally can't access. Clay Blog breaks down why first-party becomes the real GTM moat. Worth 5 mins.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The signal everyone's buying isn't an edge anymore.\n\n\u2192 Intent data? Your competitors have it too.\n\u2192 Job-change alerts? Same feed, different dashboard.\n\u2192 CRM notes, call transcripts, reply history? Only yours.\n\nCody Leovic of Verkada laid this out on the Clay Blog: first-party signals are structurally defensible because no vendor can sell what lives inside your own conversations.\n\nMost outbound teams are sitting on that moat \u2014 just haven't started digging.\n\nHappy to help if you're figuring out how to put your own data to work \u2014 link in bio or find us at salesmake.agency\n\n#outbound #GTM #salesstrategy #b2bsales #coldoutreach #revenueoperations #salesops #firstpartydata #outboundsales"
+        },
+        "pinterest": {
+          "content": "Discover why first-party signals \u2014 CRM notes, call transcripts, reply history \u2014 build a GTM advantage that purchased intent data never can. Cody Leovic of Verkada outlines the case on the Clay Blog: when every competitor draws from the same rented data sources, your own conversation history becomes the only truly defensible edge. Apply this thinking to sharpen your outbound targeting before your next campaign.",
+          "title": "First-Party Data: The Outbound Moat Competitors Can't Buy",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "The GTM Signal Your Competitors Can't Buy - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/how-first-party-signals-become-your-gtm-moat",
+        "published": "2026-08-05T21:32:39+00:00",
+        "summary": "Verkada's Cody Leovic explains why first-party data \u2014 CRM notes, replies, call transcripts \u2014 builds a GTM edge that rented signals can't match.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 3.6
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Running enrichment at HubSpot's scale surfaces a truth most teams ignore: data quality decisions compound \u2014 and the ROI math only works if you're ruthless about what you actually enrich.",
+      "variants": {
+        "linkedin": {
+          "content": "Most teams treat CRM enrichment as a one-time project. HubSpot treats it as ongoing infrastructure.\n\nThe Clay Blog published a breakdown of how HubSpot's Faris Sumadi runs enrichment across a CRM with 30M+ companies. The lessons are interesting \u2014 but the one that stands out for outbound practitioners is the discipline around *what not to enrich*. At that scale, enriching everything is wasteful. Knowing which records actually matter to your pipeline is the real leverage point.\n\nFor most companies, the problem isn't access to enrichment tools. It's that nobody has drawn a clear line between the records worth spending on and the ones that inflate your numbers without ever moving a deal. That upstream decision shapes everything downstream: sequencing, personalization, routing, reporting.\n\nIf your team is sitting on a large CRM and enrichment feels expensive or messy, it's worth asking whether the data strategy came before the tooling \u2014 or after.\n\nFull read at the Clay Blog: https://www.clay.com/blog/top-1-how-hubspot-runs-clay-across-a-60-million-contact-crm\n\nIf you're thinking through cold outreach or data strategy for your CRM, feel free to reach out at https://salesmake.agency/contact\n\n#OutboundSales #GTM #CRMEnrichment"
+        },
+        "twitter": {
+          "content": "HubSpot enriches 30M+ CRM companies with Clay. The real lesson isn't the tooling \u2014 it's knowing which records are worth enriching at all. Most teams skip that question entirely. (via Clay Blog)\n\nWorking on outbound or CRM data? salesmake.agency #GTM #Outbound"
+        },
+        "bluesky": {
+          "content": "HubSpot's enrichment setup (30M+ companies, per Clay Blog) is interesting \u2014 but the unglamorous part is deciding what *not* to enrich. That scoping decision drives more outbound ROI than the tool choice.\n\nHappy to help if you're sorting through something similar \u2192 salesmake.agency/contact",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "HubSpot enriches 30M+ CRM companies using Clay \u2014 and the real GTM lesson isn't the scale, it's the discipline.\n\n\u2192 Not every record deserves enrichment spend\n\u2192 Data strategy has to come before tool selection\n\u2192 ROI only shows up when you know which contacts actually touch pipeline\n\nThe Clay Blog broke down how their team does it. Link in the caption isn't clickable on IG \u2014 full article at clay.com, and if you want to talk outbound or CRM data, find us via link in bio at salesmake.agency\n\n#OutboundSales #GTM #SalesOps #CRMEnrichment #B2BSales #LeadGeneration #SalesStrategy #DataEnrichment #RevenueOperations"
+        },
+        "pinterest": {
+          "content": "Explore how HubSpot runs CRM enrichment across 30 million companies using Clay \u2014 and what outbound teams can take from it. The Clay Blog breakdown covers data decisions, ROI framing, and the value of knowing which records are actually worth enriching. Practical reading for anyone running outbound at scale or cleaning up a messy CRM. If you're working on outbound strategy or contact data, reach out via the link.",
+          "title": "How HubSpot Does CRM Enrichment at Scale \u2014 Lessons for Outbound Teams",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How HubSpot Runs CRM Enrichment at Scale with Clay - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/top-1-how-hubspot-runs-clay-across-a-60-million-contact-crm",
+        "published": "2026-08-05T21:06:28+00:00",
+        "summary": "HubSpot's Faris Sumadi shares how his team enriches a CRM of 30M companies with Clay, plus five lessons on data, Functions, and ROI at enterprise scale.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 3.6
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
