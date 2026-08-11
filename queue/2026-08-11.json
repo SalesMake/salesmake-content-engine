@@ -1,0 +1,115 @@
+{
+  "date": "2026-08-11T09:34:31.154281+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Most outbound software evaluations focus on features, but the real traps are deliverability architecture, opaque pricing tiers, and integration friction that only surface after you've committed.",
+      "variants": {
+        "linkedin": {
+          "content": "Most people evaluating outbound sales software ask the wrong first question.\n\nThey lead with \"what features does it have?\" when they should be asking \"what breaks first, and how will it cost us?\" Warmup systems that look robust on a demo can collapse under real sending volume. Pricing that seems flat often isn't once you add seats, mailboxes, or integrations. And CRM sync that works in a sandbox frequently misbehaves in a live workflow.\n\nThe Instantly Blog published a solid evaluation checklist that organizes this well \u2014 covering deliverability guardrails, pricing transparency, and operational limits worth stress-testing before you sign anything: https://instantly.ai/blog/how-to-choose-outbound-sales-software-checklist/\n\nOne thing the checklist touches on but is worth emphasizing: the infrastructure question and the execution question are separate. A tool can have excellent deliverability architecture and still underperform if the sequences, targeting, and messaging aren't calibrated. Software choices matter, but they don't replace the strategy sitting on top of them.\n\nIf you're currently evaluating tooling or rethinking your outbound setup, what's the criteria that's tripped you up most in past decisions?\n\n#OutboundSales #SalesTech #GTM\n\nIf you're working through an outbound build or retool and want a sounding board, feel free to reach out at https://salesmake.agency/contact."
+        },
+        "twitter": {
+          "content": "Outbound software evals go wrong when \"features\" is the main criteria.\n\nThe real questions: how does warmup hold under load? What triggers hidden fees? Where does CRM sync break?\n\nGood checklist on this from Instantly Blog \u2014 source: salesmake.agency\n\n#OutboundSales #SalesTech"
+        },
+        "bluesky": {
+          "content": "Software evals for outbound usually focus on features. The actual traps are deliverability limits, opaque pricing tiers, and CRM sync that breaks in production. Good checklist on this from Instantly Blog \u2014 link attached.\n\nHappy to help if you're thinking through your outbound stack.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Picking outbound sales software? The feature list is the easy part. \u2193\n\n\u2192 Warmup systems that look solid in a demo can fail under real volume\n\u2192 \"Flat\" pricing often isn't flat once you add seats and mailboxes\n\u2192 CRM integrations that work in a sandbox behave differently in production\n\nInstantly Blog put together a practical evaluation checklist worth reading before you commit to anything \u2014 link in bio alongside salesmake.agency\n\nThe tool choice matters. The strategy sitting on top of it matters more.\n\nIf you're building or revisiting your outbound motion, reach out \u2014 link in bio.\n\n#OutboundSales #SalesTech #ColdEmail #GTM #B2BSales #SalesStack #EmailDeliverability #OutboundStrategy #SalesOps"
+        },
+        "pinterest": {
+          "content": "Evaluate outbound sales software beyond the feature checklist \u2014 ask how deliverability holds under real volume, where pricing gets opaque, and whether CRM sync survives production. The Instantly Blog outlines a practical evaluation framework covering warmup systems, pricing transparency, and operational guardrails. Read the checklist, then get in touch at SalesMake if you need help thinking through your outbound approach.",
+          "title": "How to Evaluate Outbound Sales Software: The Criteria That Actually Matter",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How to choose outbound sales software: the ultimate evaluation checklist",
+        "url": "https://instantly.ai/blog/how-to-choose-outbound-sales-software-checklist/",
+        "published": "2026-08-11T07:41:41+00:00",
+        "summary": "Choose outbound sales software using evaluation criteria that protect deliverability, prevent hidden fees, and scale with your team. This checklist covers warmup systems, pricing transparency, operational guardrails, and CRM integration to help sales leaders avoid costly mistakes.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 3.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Clay's self-reported playbook is a useful reminder that the most effective outbound isn't one-off blasts \u2014 it's always-on logic that reacts to account signals without someone manually pulling the trigger.",
+      "variants": {
+        "linkedin": {
+          "content": "Most outbound teams think in campaigns. Clay's growth team thinks in triggers.\n\nThe Clay Blog just published a breakdown of the automated plays their own team runs \u2014 trial conversions, at-risk account recovery, enterprise door-openers. What stands out isn't the tooling (obviously they use Clay). It's the underlying logic: every play is attached to a signal, not a calendar date. An account goes quiet \u2192 something happens. A trial hits a usage threshold \u2192 something happens. Nobody has to remember to act.\n\nThe honest takeaway for outbound practitioners: most teams have the data to build this kind of always-on motion. What's missing is the decision about which signals actually matter and what the right response looks like for each one. That scoping work is unglamorous, but it's where the leverage is.\n\nWorth a read if you're thinking about how to move from batch-and-blast to something more responsive: https://www.clay.com/blog/how-clay-uses-clay-automated-growth-plays\n\nIf you're working on building a more signal-driven outbound motion and want a second set of eyes, feel free to reach out at https://salesmake.agency/contact.\n\n#outbound #GTM #salesautomation"
+        },
+        "twitter": {
+          "content": "Outbound that fires on signals, not calendar dates \u2014 Clay Blog just shared the always-on plays their own team runs. The logic matters more than the tool.\n\nIf this is something you're figuring out, salesmake.agency\n\n#GTM #outbound"
+        },
+        "bluesky": {
+          "content": "Clay published their own internal growth plays \u2014 trial rescue, account signals, enterprise openers. The real lesson: attach actions to signals, not send dates. Worth reading if you're rethinking how outbound runs.\n\nSource: Clay Blog",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The best outbound doesn't wait for someone to hit send.\n\nClay just published how their own growth team runs always-on plays \u2014 and the core idea is simple:\n\n\u2192 Account goes cold? A play fires.\n\u2192 Trial hits a signal? A play fires.\n\u2192 Target account shows intent? A play fires.\n\nNo manual reminders. No batch blasts. Just logic tied to behavior.\n\nThe full breakdown is on the Clay Blog \u2014 link in bio to find it, and visit salesmake.agency if you want to talk through building something similar for your team.\n\n#outbound #GTM #salesautomation #coldemail #outboundsales #salesops #revops #b2bsales #prospecting #salesdevelopment"
+        },
+        "pinterest": {
+          "content": "Explore how Clay's growth team runs always-on, signal-based outbound plays \u2014 from trial conversion to enterprise prospecting. The Clay Blog breakdown is a practical look at replacing batch campaigns with automated responses to real account behavior. A useful reference if you're mapping out a more responsive outbound motion. Happy to help if you're thinking through how to apply this kind of approach \u2014 reach out via the link.",
+          "title": "Signal-Based Outbound: How Clay Automates Its Own Growth Plays",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "The Automated Growth Plays Behind Clay\u2019s Self-Serve and Enterprise Motions - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/how-clay-uses-clay-automated-growth-plays",
+        "published": "2026-08-10T21:07:00+00:00",
+        "summary": "Inside the always-on, automated plays Clay\u2019s growth team uses to convert trials, rescue fading accounts, and open doors into top-tier accounts",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Tool comparisons are useful, but the real cost of outbound software isn't the subscription \u2014 it's the time lost configuring a stack that doesn't match your actual sales motion.",
+      "variants": {
+        "linkedin": {
+          "content": "Most outbound software comparisons stop at pricing tiers. The harder question is whether a tool fits how your team actually sells.\n\nDeliverability, inbox placement, and seat costs matter \u2014 but so does the time your team spends fighting the tool instead of running sequences. A platform that looks affordable at five seats can become expensive fast once you factor in setup complexity, warm-up overhead, and the workflows that don't quite connect.\n\nThe Instantly Blog put together a solid 2026 breakdown comparing five platforms on inbox placement, pricing transparency, and total ownership cost \u2014 worth a read if you're evaluating your stack: https://instantly.ai/blog/best-outbound-sales-software-growing-teams-2026/\n\nIf you're working through what your outbound setup should actually look like, feel free to reach out at https://salesmake.agency/contact\n\n#OutboundSales #SalesTech"
+        },
+        "twitter": {
+          "content": "Outbound tool comparisons focus on price. The real cost is configuring a stack that doesn't fit your sales motion.\n\nInstantly Blog ranked 5 platforms on deliverability, pricing, and ownership cost \u2014 worth a look.\n\nNeed help thinking through your outreach setup? salesmake.agency\n\n#OutboundSales #GTM"
+        },
+        "bluesky": {
+          "content": "Outbound software costs more than the subscription \u2014 setup time, warm-up overhead, broken workflows. Instantly Blog ranked 5 platforms on deliverability and total ownership cost. Worth a read before you commit to a stack.\n\nhttps://instantly.ai/blog/best-outbound-sales-software-growing-teams-2026/",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The real cost of outbound software isn't the monthly fee.\n\n\u2192 It's the hours spent on warm-up and deliverability fixes\n\u2192 It's the workflows that almost connect\n\u2192 It's seats that scale faster than your process does\n\nInstantly Blog broke down 5 platforms for 2026 \u2014 comparing inbox placement, pricing transparency, and total ownership cost. Smart read if you're evaluating your stack.\n\nIf you're figuring out your outbound setup, happy to help \u2014 link in bio (salesmake.agency)\n\n#OutboundSales #SalesTech #ColdEmail #GTM #SalesStack #B2BSales #EmailDeliverability #SalesTools #OutboundStrategy"
+        },
+        "pinterest": {
+          "content": "Compare the best outbound sales software for 2026 before you commit to a stack. Instantly Blog ranks five platforms on inbox placement, pricing transparency, and total ownership cost \u2014 useful if you're scaling a sales team without enterprise complexity. The subscription price is rarely the whole story: warm-up time, seat costs, and workflow gaps add up. Read the full breakdown at the Instantly Blog, then reach out if you're thinking through your cold outreach approach.",
+          "title": "Best Outbound Sales Software for Growing Teams (2026 Breakdown)",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Best outbound sales software for growing sales teams in 2026",
+        "url": "https://instantly.ai/blog/best-outbound-sales-software-growing-teams-2026/",
+        "published": "2026-08-11T07:43:29+00:00",
+        "summary": "Best outbound sales software for growing teams compared on pricing, deliverability, and total cost to help you scale efficiently. This guide ranks five platforms on inbox placement systems, pricing transparency, and ownership cost so you can choose a reliable tool without enterprise complexity.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 2.0
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
