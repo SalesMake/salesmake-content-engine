@@ -1,0 +1,81 @@
+{
+  "date": "2026-08-12T09:46:38.384226+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "The real insight isn't the AI tools list \u2014 it's that the teams seeing results use one data layer plus one execution layer, not a stack of seven.",
+      "variants": {
+        "linkedin": {
+          "content": "Most teams hunting for AI lead gen tools are asking the wrong question.\n\nThe question isn't \"which tool is best?\" \u2014 it's \"how many layers do I actually need?\" Per the Expandi Blog's review of campaigns running on their platform, the teams getting results tend to pair one data source with one execution layer and stop there. The ones struggling are usually running three or four tools that half-overlap and create noise instead of signal.\n\nAI can genuinely help with prospecting \u2014 ranking accounts by intent, triggering outreach off behavioral signals, surfacing contacts you'd have missed manually. But the lift comes from restraint in how you stack it, not from coverage of every feature category on a G2 grid.\n\nIf you're evaluating this space, the Expandi roundup is a solid reference point for what's actually in use: https://expandi.io/blog/ai-lead-generation-software/\n\nIf you're working through how to structure your outbound tech decisions, feel free to reach out at https://salesmake.agency/contact\n\n#B2BSales #OutboundSales #LeadGeneration"
+        },
+        "twitter": {
+          "content": "AI lead gen stacks fail when they're five tools wide and one strategy deep.\n\nExpandi Blog reviewed what's actually working \u2014 winning teams use one data layer + one execution layer.\n\nSimpler than you'd think. salesmake.agency if you're figuring out your outbound setup. #B2BSales #Outbound"
+        },
+        "bluesky": {
+          "content": "Per Expandi Blog: teams seeing results from AI lead gen aren't running complex stacks \u2014 they pair one data layer with one execution tool. The restraint is the strategy. Worth a read if you're evaluating this space.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The AI lead gen tool list isn't the point.\n\nPer Expandi Blog's review of live campaigns \u2192 the teams getting results keep it simple:\n\n\u2192 One data layer\n\u2192 One execution layer\n\u2192 That's it\n\nThe teams struggling? Usually running 4+ tools that overlap and create noise instead of pipeline.\n\nAI prospecting works \u2014 but only when the structure underneath it is clean.\n\nFull roundup linked at expandi.io/blog/ai-lead-generation-software \u2014 worth a look if you're evaluating tools right now.\n\nHappy to help if you're thinking through your outbound setup \u2014 link in bio at salesmake.agency\n\n#B2BSales #LeadGeneration #OutboundSales #SalesTech #AITools #ColdOutreach #GTM #SalesStrategy #Prospecting"
+        },
+        "pinterest": {
+          "content": "Explore the 17 best AI lead generation tools for B2B sales reviewed by Expandi Blog \u2014 and discover why the highest-performing outbound teams use just one data layer paired with one execution layer, not a sprawling stack. Simplify your prospecting setup before adding more software. Source: expandi.io/blog/ai-lead-generation-software. If you're considering your outbound approach, get in touch at SalesMake.",
+          "title": "AI Lead Gen Tools: Why Simpler Stacks Win in B2B Outbound",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "17 Best AI Lead Generation Software for B2B Sales in 2026",
+        "url": "https://expandi.io/blog/ai-lead-generation-software/",
+        "published": "2026-08-11T18:24:16+00:00",
+        "summary": "AI lead generation software uses machine learning and behavioral data to find prospects, rank them by likelihood to buy, and trigger outreach based on what those prospects do.&#160; We looked at how this software shows up across the campaigns running on our platform, and the teams getting results pair one data layer with one execution [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 3.3
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Clay's own growth playbook reveals a principle most outbound teams underuse: automation works best when it's triggered by account behavior, not just time-based sequences.",
+      "variants": {
+        "linkedin": {
+          "content": "Most outbound automation is calendar-driven. Clay's internal growth team does something different \u2014 their plays fire based on what an account actually does (or stops doing).\n\nThe Clay Blog breaks down the always-on sequences their team runs: trial conversion, account rescue, and enterprise prospecting. What's worth noting isn't the tooling \u2014 it's the logic underneath. Each play is anchored to a signal. An account goes quiet? A different message goes out. A target enterprise account shows a hiring spike? A door opens. The trigger defines the relevance, and relevance is what gets replies.\n\nMost teams build sequences first and bolt on personalization later. Flipping that \u2014 starting from the signal and building the message around it \u2014 tends to produce cleaner results and less noise for prospects.\n\nFull breakdown from Clay Blog: https://www.clay.com/blog/how-clay-uses-clay-automated-growth-plays\n\nIf you're thinking through how to structure signal-based outreach for your own motion, feel free to reach out at https://salesmake.agency/contact"
+        },
+        "twitter": {
+          "content": "Most outbound runs on timers. Clay's own growth team runs on signals \u2014 account goes quiet, a play fires. Hire spike detected, a door opens.\n\nThat's the difference between automated noise and automated relevance.\n\n(Source: Clay Blog) #outbound #GTM\n\nIf any of this resonates \u2192 salesmake.agency"
+        },
+        "bluesky": {
+          "content": "Clay's internal growth plays are trigger-based, not calendar-based. Account goes quiet \u2192 rescue sequence. Enterprise target shows a signal \u2192 outreach opens. The mechanism matters less than the logic: relevance comes from the trigger, not the template. (Via Clay Blog)",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The best outbound automation doesn't run on a schedule \u2014 it runs on signals. \ud83d\udce1\n\nClay's growth team published a look at the always-on plays behind their own pipeline. The pattern across all of them:\n\n\u2192 A behavior triggers the play\n\u2192 The message is built around that behavior\n\u2192 Relevance does the heavy lifting, not volume\n\nTrial going cold? Different message. Enterprise account hiring into a new function? That's your door.\n\nMost teams build the sequence first and find reasons to personalize later. Flipping that order changes what lands in inboxes.\n\nFull read from Clay Blog \u2014 link in bio (salesmake.agency).\n\nHappy to help if you're working on building out a signal-driven outbound motion \u2014 link in bio.\n\n#outbound #gtm #salesautomation #coldoutreach #b2bsales #prospecting #salesdevelopment #outboundsales"
+        },
+        "pinterest": {
+          "content": "Explore how Clay's own growth team structures always-on, signal-based outbound plays \u2014 from trial conversion to enterprise prospecting. The Clay Blog breakdown shows why triggering messages from account behavior (not just time) produces more relevant outreach. A useful reference for any B2B team building or refining an automated GTM motion. If you're working on outbound strategy, get in touch at salesmake.agency/contact",
+          "title": "Signal-Based Outbound: How Clay Automates Its Own Growth Plays",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "The Automated Growth Plays Behind Clay\u2019s Self-Serve and Enterprise Motions - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/how-clay-uses-clay-automated-growth-plays",
+        "published": "2026-08-11T14:28:26+00:00",
+        "summary": "Inside the always-on, automated plays Clay\u2019s growth team uses to convert trials, rescue fading accounts, and open doors into top-tier accounts",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
