@@ -1,0 +1,115 @@
+{
+  "date": "2026-08-13T09:46:28.653654+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Data enrichment isn't a one-time fix \u2014 waterfall enrichment changes how you should think about list quality as an ongoing operational habit, not a pre-campaign checkbox.",
+      "variants": {
+        "linkedin": {
+          "content": "Most teams treat list building as a one-time task. Enrich once, export, send. That's where the trouble starts.\n\nB2B contact data decays fast \u2014 job changes, domain switches, role shifts. By the time a sequence goes live, a meaningful slice of your list is already stale. The Instantly Blog has a solid breakdown of what data enrichment actually involves and why waterfall enrichment \u2014 querying multiple providers in sequence until you get a verified hit \u2014 tends to outperform any single-source approach. Worth a read if this is on your radar: https://instantly.ai/blog/what-is-b2b-data-enrichment-definition-guide/\n\nThe practical angle the article doesn't fully spell out: enrichment quality also protects your sending infrastructure. High bounce rates don't just kill reply rates \u2014 they flag your domain. Treating enrichment as a continuous process rather than a pre-campaign step changes your deliverability trajectory over time.\n\nHow often does your team revisit list hygiene mid-campaign, not just before launch?\n\nIf you're working on cold outreach and want to think through how list quality fits into your overall setup, feel free to reach out at https://salesmake.agency/contact\n\n#OutboundSales #B2BSales #SalesOps"
+        },
+        "twitter": {
+          "content": "Enriching your list once before a campaign and calling it done is how bounce rates creep up mid-send.\n\nWaterfall enrichment \u2014 multiple providers queried in sequence \u2014 is worth understanding before your next outbound push. (Instantly Blog covers it well.)\n\nIf you need help thinking through cold outreach, salesmake.agency #B2BSales #Outbound"
+        },
+        "bluesky": {
+          "content": "List quality isn't a pre-send checkbox \u2014 it's ongoing. Waterfall enrichment (querying multiple data providers in sequence) is one of the more underused ways to protect deliverability. Instantly Blog breaks down the mechanics clearly. Worth 5 mins if outbound is part of your stack.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Your outbound list is decaying right now. \ud83d\udcc9\n\nPeople change jobs. Domains change. A list that was clean at export isn't clean by send time.\n\nWaterfall enrichment \u2014 querying multiple data providers in sequence \u2014 is one of the more practical ways to keep contact data verified without relying on a single source.\n\nInstantly Blog has a clear breakdown of what B2B data enrichment actually is and why the method matters (link below).\n\nThe part worth underlining for outbound teams:\n\u2192 Bad data doesn't just lower reply rates\n\u2192 It raises bounce rates\n\u2192 Which flags your sending domain\n\u2192 Which hurts every campaign after this one\n\nTreat enrichment as an operational habit, not a one-time task.\n\nHappy to help if you're figuring out how list quality fits into your outbound setup \u2014 link in bio or find us at salesmake.agency\n\n#OutboundSales #B2BSales #SalesOps #EmailMarketing #ColdEmail #GTM #SalesDevelopment #LeadGeneration #DataEnrichment"
+        },
+        "pinterest": {
+          "content": "Understand B2B data enrichment before your next outbound campaign. Waterfall enrichment \u2014 querying multiple providers in sequence \u2014 keeps contact records verified and protects your sending domain from bounce-rate damage. The Instantly Blog explains the method clearly: https://instantly.ai/blog/what-is-b2b-data-enrichment-definition-guide/ \u2014 treat list hygiene as a continuous process, not a pre-campaign checkbox. If you're thinking through cold outreach or outbound list quality, reach out via the link.",
+          "title": "B2B Data Enrichment: Why Waterfall Enrichment Matters for Outbound Sales",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "What is B2B data enrichment? Definition, methods, and why it matters for sales teams",
+        "url": "https://instantly.ai/blog/what-is-b2b-data-enrichment-definition-guide/",
+        "published": "2026-08-12T10:00:36+00:00",
+        "summary": "B2B data enrichment updates prospect records with verified contact details and firmographic data to reduce bounce rates and improve reply rates. By using waterfall enrichment that queries multiple providers in sequence, sales leaders can achieve higher email accuracy and protect domain reputation.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 6.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Subject lines aren't a copywriting trick \u2014 they're a targeting signal: vague lines fail because vague lists fail first.",
+      "variants": {
+        "linkedin": {
+          "content": "A subject line doesn't fail in isolation. It fails because the list behind it was too broad, the persona too fuzzy, or the offer too generic to compress into five words.\n\nExpandi's analysis of high-reply sequences (linked below) confirms what most SDRs learn the hard way: short and specific wins. But 'specific' isn't a style choice \u2014 it's a research output. You can't write a precise subject line for a blurry ICP.\n\nThe more useful question isn't \"which subject line template should I use?\" It's \"do I know this prospect well enough to name something real in the subject?\" If the answer is no, the line will feel like a guess \u2014 because it is.\n\nWorth a read if you're tuning email sequences right now: https://expandi.io/blog/email-subject-lines-for-sales/\n\nIf you're working on cold outreach and want a second set of eyes, feel free to reach out at https://salesmake.agency/contact\n\n#coldoutreach #salesdev #b2bsales"
+        },
+        "twitter": {
+          "content": "A vague subject line is usually a vague ICP problem in disguise.\n\nYou can't compress a fuzzy offer into 5 sharp words. Expandi Blog ran the numbers on high-reply sequences \u2014 short + specific wins, every time.\n\nHappy to help if you're tightening your cold email approach \u2192 salesmake.agency\n\n#coldoutreach #SDR"
+        },
+        "bluesky": {
+          "content": "\"Short and specific\" subject lines only work if your targeting is sharp enough to justify specificity. Expandi Blog breaks down what high-reply sequences actually share \u2014 worth checking before you blame the copy.\n\nIf you're refining your outbound email flow, feel free to get in touch.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Your subject line isn't the problem. Your ICP might be. \ud83c\udfaf\n\nExpandi Blog pulled data from high-reply cold email sequences and found a clear pattern \u2014 short, specific subject lines win. But you can only write something specific if you know exactly who you're reaching and why it matters to them.\n\n\u2192 Vague list = vague subject line = no reply\n\u2192 Sharp persona = something real to name = opens\n\u2192 The copy isn't the first fix \u2014 the targeting is\n\nLink to the full Expandi Blog piece + our contact page are both in bio (salesmake.agency \u2014 link in bio).\n\nIf you're building out cold outreach and want to talk it through, we're easy to find.\n\n#coldoutreach #b2bsales #salesdev #outboundsales #emailmarketing #sdrtips #salesstrategy #gtm #prospecting #b2bemail"
+        },
+        "pinterest": {
+          "content": "Craft cold email subject lines that actually get opened \u2014 Expandi Blog analyzed high-reply outbound sequences and found short, specific subject lines consistently outperform generic ones. The real insight: specificity is a targeting output, not a copywriting trick. If your ICP is fuzzy, your subject line will be too. Read the full breakdown on the Expandi Blog. If you're looking to sharpen your cold outreach approach, reach out to SalesMake.",
+          "title": "What High-Reply Cold Email Subject Lines Actually Have in Common",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Email Subject Lines for Sales: 50+ Examples for Cold Outreach, Follow-Ups, and B2B (2026)",
+        "url": "https://expandi.io/blog/email-subject-lines-for-sales/",
+        "published": "2026-08-12T20:52:41+00:00",
+        "summary": "Email subject lines for sales do more work per word than anything else an SDR writes: four or five words decide whether the pitch underneath ever gets read.&#160; We pulled the email steps from the highest-reply outreach sequences running on Expandi to see what their subject lines share, and the pattern is consistent. Short, specific, [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 3.3
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The CTA isn't the closing line \u2014 it's a calibration of how much trust already exists, and most cold emails ignore that entirely.",
+      "variants": {
+        "linkedin": {
+          "content": "Most cold email advice obsesses over subject lines and openers. The CTA at the end gets treated as a formality \u2014 'Let me know if you're interested' or 'Worth a quick call?'\n\nBut the ending is where the ask either fits the relationship or doesn't. A prospect who's never heard of you doesn't owe you 30 minutes. A low-friction CTA \u2014 a yes/no question, a specific resource, a single-click reply prompt \u2014 respects that gap. A meeting request doesn't.\n\nExpandi's blog put together 20 examples pulled from campaigns that actually generated replies, and the pattern that holds across all of them is straightforward: the ask scales with familiarity. Cold contact gets a small ask. Warmer sequences earn a bigger one.\n\nWorth reviewing if your reply rates are flat despite solid copy everywhere else.\nhttps://expandi.io/blog/cold-email-call-to-action/\n\nIf you're working on outbound sequences and want a second set of eyes on how they close, feel free to reach out at https://salesmake.agency/contact."
+        },
+        "twitter": {
+          "content": "Your cold email CTA is failing because the ask doesn't match how warm the prospect actually is.\n\nExpandi Blog breaks down 20 endings that actually get replies \u2014 the pattern: smaller ask, higher response. Worth a read.\n\nIf you need help thinking through outbound, salesmake.agency #coldEmail #outbound"
+        },
+        "bluesky": {
+          "content": "Cold email CTAs fail when the ask outpaces the trust. Expandi Blog mapped 20 high-reply endings \u2014 they all scale the request to match familiarity. Simple idea, rarely executed well. Worth the read.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The part of your cold email that decides everything? Not the subject line. Not the opener. The last line.\n\n\u2192 Too big an ask = instant delete\n\u2192 Right-sized ask = reply\n\u2192 The difference: how warm the prospect already is\n\nExpandi Blog pulled 20 CTAs from campaigns with real reply rates \u2014 the ones that work all do the same thing: match the ask to the relationship stage.\n\nLink in bio to reach us if you're thinking through outbound \u2014 salesmake.agency\n\n#coldemail #outboundsales #salesprospecting #b2bsales #emailoutreach #gtm #salesstrategy #coldoutreach"
+        },
+        "pinterest": {
+          "content": "Improve cold email reply rates by matching your call to action to how warm your prospect already is. Expandi Blog analyzed 20 high-performing cold email CTAs and found one consistent pattern: smaller, low-friction asks outperform ambitious meeting requests on first contact. Read the full breakdown at expandi.io/blog/cold-email-call-to-action/ \u2014 and if you're building outbound sequences, happy to help at SalesMake.",
+          "title": "20 Cold Email CTAs That Actually Get Replies",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "20 Cold Email Call to Action Examples That Work in 2026",
+        "url": "https://expandi.io/blog/cold-email-call-to-action/",
+        "published": "2026-08-12T19:50:40+00:00",
+        "summary": "A cold email call to action decides what happens after the read: reply, ignore, or delete. We pulled the highest-replying email campaigns running through our platform at Expandi and the endings that win do two things: keep the ask small, and match it to how warm the prospect already is.&#160; This guide gives you 20 [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 2.2
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
