@@ -1,0 +1,115 @@
+{
+  "date": "2026-08-14T09:40:04.328317+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Tool comparisons are useful, but the real decision isn't which platform wins on paper \u2014 it's which model fits how your team actually runs outbound.",
+      "variants": {
+        "linkedin": {
+          "content": "Picking a cold email platform isn't really a features race.\n\nInstantly, Apollo, Smartlead \u2014 they're all capable. The comparison that matters is operational: Does your team need flat-fee inbox scaling or per-seat predictability? How much do you trust automated warmup networks to protect your domains? Who actually manages the unified inbox when replies come in?\n\nThe Instantly Blog just published a thorough head-to-head across those dimensions \u2014 pricing models, deliverability infrastructure, team governance \u2014 and it's worth a read if you're evaluating or re-evaluating your stack: https://instantly.ai/blog/instantly-vs-apollo-vs-smartlead-comparison/\n\nThe honest answer most comparisons skip: the 'right' platform is the one your team will run consistently. A slightly inferior tool used well beats a best-in-class one that creates friction and gets worked around.\n\nIf you're working through an outbound stack decision and want a second opinion, feel free to reach out at https://salesmake.agency/contact.\n\n#outbound #coldemail #sales"
+        },
+        "twitter": {
+          "content": "Platform comparisons answer 'which is best.' They rarely answer 'best for how we actually run outbound.'\n\nInstantly vs Apollo vs Smartlead \u2014 Instantly Blog breaks it down. Worth reading before you commit.\n\nIf you're weighing options: salesmake.agency #coldemail #outbound"
+        },
+        "bluesky": {
+          "content": "Instantly vs Apollo vs Smartlead \u2014 Instantly Blog does a solid breakdown of pricing models, deliverability, and inbox management. Useful if you're choosing a platform. The part most comparisons miss: fit matters more than feature scores.\n\nInstantly Blog: https://instantly.ai/blog/instantly-vs-apollo-vs-smartlead-comparison/",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Choosing a cold email platform? The feature list isn't the deciding factor.\n\n\u2192 Flat-fee vs per-seat pricing hits differently at different team sizes\n\u2192 Automated warmup networks vary a lot in how well they protect your domains\n\u2192 Unified inbox management matters more than most comparisons admit\n\nInstantly Blog just ran a detailed Instantly vs Apollo vs Smartlead breakdown \u2014 link in bio or search it directly.\n\nThe real question isn't which platform 'wins.' It's which one your team will actually run well.\n\nHappy to talk through outbound setup if you're figuring this out \u2014 salesmake.agency, link in bio.\n\n#coldemail #outboundsales #salestech #gtm #emailoutreach #salesstrategy #b2bsales #coldoutreach #salesops #outbound"
+        },
+        "pinterest": {
+          "content": "Compare cold email platforms before you commit. Instantly Blog breaks down Instantly vs Apollo vs Smartlead across flat-fee and per-seat pricing, deliverability warmup systems, and team inbox management \u2014 three factors that shape how outbound actually runs day to day. Read the comparison, then choose based on your team's workflow, not just feature checklists. If you need help thinking through your outbound approach, get in touch at SalesMake.",
+          "title": "Instantly vs Apollo vs Smartlead: What the Comparison Actually Tells You",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Instantly vs Apollo vs Smartlead: head-to-head outbound platform comparison",
+        "url": "https://instantly.ai/blog/instantly-vs-apollo-vs-smartlead-comparison/",
+        "published": "2026-08-13T10:00:29+00:00",
+        "summary": "Instantly vs Apollo vs Smartlead comparison: flat fee pricing, deliverability systems, and team governance for cold email platforms. We compare automated warmup networks, per-seat versus flat-fee models, and unified inbox management to help sales leaders choose the right outbound engine.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 4.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The real cost of data enrichment isn't the list price \u2014 it's the credit traps, seat taxes, and hidden fees that quietly inflate your outbound budget before a single email goes out.",
+      "variants": {
+        "linkedin": {
+          "content": "Most teams pick a data enrichment tool based on the headline price. They find out the real cost later \u2014 usually when the bill arrives.\n\nPer-record, subscription, and credit-based models all have legitimate use cases, but each one has a different failure mode. Credit models punish you for failed lookups. Subscriptions quietly add seat fees. Per-record costs can spiral if your verification pass rate is low. The Instantly Blog put together a clear breakdown of how these models actually work and where the hidden costs live: https://instantly.ai/blog/b2b-data-enrichment-pricing-models-explained/\n\nBefore you commit to a vendor, it's worth calculating your true cost per verified lead \u2014 not just cost per record pulled. The delta is often bigger than people expect.\n\nIf you're rethinking how your outbound data stack is set up, feel free to reach out at https://salesmake.agency/contact.\n\n#OutboundSales #B2BData #GTM"
+        },
+        "twitter": {
+          "content": "Your data enrichment \"plan\" might cost 2-3x what the pricing page says \u2014 credit traps, seat taxes, and failed-lookup fees add up fast.\n\nInstantly Blog breaks down where the money actually goes. Worth a read before your next renewal.\n\nQuestions about outbound data? salesmake.agency #B2BSales #Outbound"
+        },
+        "bluesky": {
+          "content": "Data enrichment sticker price \u2260 actual cost. Credit traps and seat fees are where budgets quietly disappear. Instantly Blog has a solid breakdown of all three pricing models and where each one bites you. Worth reading before your next vendor decision.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Your data enrichment tool might be costing you way more than the plan you signed up for. \ud83d\udc47\n\n\u2192 Credit models charge for failed lookups\n\u2192 Subscriptions hide seat-level fees\n\u2192 Per-record costs balloon when verification rates are low\n\nThe Instantly Blog breaks down all three pricing models and where the hidden costs actually live \u2014 link in bio to find the article.\n\nIf you're sorting out your outbound data setup, we're easy to reach at salesmake.agency (link in bio).\n\n#OutboundSales #B2BMarketing #SalesOps #DataEnrichment #LeadGeneration #ColdOutreach #GTM #B2BSales #SalesDevelopment #RevenueOperations"
+        },
+        "pinterest": {
+          "content": "Understand B2B data enrichment pricing before it dents your outbound budget. Per-record, subscription, and credit-based models each carry hidden costs \u2014 failed-lookup fees, seat taxes, and inflated cost-per-verified-lead. The Instantly Blog explains how each model works and where the traps are. Read it before renewing or switching vendors. Working on your outbound data stack? Get in touch via the link.",
+          "title": "B2B Data Enrichment Pricing: Hidden Costs to Know Before You Buy",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "B2B data enrichment pricing models explained: per-record, subscriptions, and credits",
+        "url": "https://instantly.ai/blog/b2b-data-enrichment-pricing-models-explained/",
+        "published": "2026-08-13T10:00:31+00:00",
+        "summary": "B2B data enrichment pricing runs on three models: per-record, subscriptions, and credits. Calculate your true cost per verified lead. This guide exposes hidden fees, credit traps, and seat taxes that inflate your data budget beyond the list price and help protect your outbound ROI.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 3.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Clay Workflows is interesting infrastructure, but the real question for outbound teams is whether orchestration tooling changes what you actually send \u2014 or just automates the same mediocre sequences faster.",
+      "variants": {
+        "linkedin": {
+          "content": "More orchestration doesn't automatically mean better outbound.\n\nClay just launched Workflows \u2014 a way to chain GTM plays inside the platform rather than stitching them together across tools. It's genuinely useful infrastructure for teams already running data-heavy prospecting motions.\n\nBut here's the thing worth sitting with: automation layers tend to surface the quality of your underlying strategy, not fix it. If your targeting logic is fuzzy or your messaging isn't earning a reply, a cleaner workflow just delivers that problem at higher volume and lower cost per mistake.\n\nThe teams getting the most out of tools like this are the ones who've already done the slower work \u2014 nailing ICP, writing messages that don't sound automated, knowing which signals actually predict buying intent. The orchestration then becomes a multiplier rather than a workaround.\n\nWorth a read if you're thinking about how your GTM stack fits together: Clay Blog \u2014 https://www.clay.com/blog/introducing-workflows\n\nIf you're working on tightening up your outbound motion before adding more tooling on top, feel free to reach out at https://salesmake.agency/contact."
+        },
+        "twitter": {
+          "content": "New Clay Workflows lets you orchestrate GTM plays in one place. Useful \u2014 but automation multiplies your strategy, good or bad. Worth asking what you're actually automating before you scale it.\n\nSource: Clay Blog | salesmake.agency #outbound #GTM"
+        },
+        "bluesky": {
+          "content": "Clay launched Workflows to chain GTM plays inside the platform. Solid infra \u2014 but it raises the usual question: are you orchestrating a sharp motion, or just scaling a vague one faster? Worth reading (Clay Blog link below). Happy to help if you're thinking through your outbound approach.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "More automation \u2260 better outbound. \ud83c\udfaf\n\nClay just dropped Workflows \u2014 a way to orchestrate your GTM plays without jumping between tools. Genuinely useful if your motion is already dialled in.\n\nBut before you automate, ask:\n\u2192 Is your ICP actually tight?\n\u2192 Are your messages earning replies?\n\u2192 Do you know which signals matter?\n\nOrchestration is a multiplier. It scales whatever you already have \u2014 good or bad.\n\nFull breakdown on the Clay Blog (link in bio). If you're building out your outbound approach, we're easy to reach at salesmake.agency \u2014 link in bio.\n\n#outbound #salesdev #GTM #coldoutreach #B2Bsales #prospecting #salesops #revops"
+        },
+        "pinterest": {
+          "content": "Explore how Clay Workflows lets GTM teams orchestrate outbound plays inside one platform \u2014 and why automation works best when your underlying strategy is already solid. Read the Clay Blog announcement, then review whether your own outbound motion is ready to scale. If you're thinking through your cold outreach setup, reach out via the link.",
+          "title": "Clay Workflows: Orchestrate GTM Plays \u2014 What It Means for Outbound Teams",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Introducing Clay Workflows - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/introducing-workflows",
+        "published": "2026-08-13T18:24:02+00:00",
+        "summary": "Orchestrate any GTM play in Clay Workflows",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
