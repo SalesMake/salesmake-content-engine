@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-18T07:57:58.916593+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "The shift from 'avoid a ban' to 'avoid breaking trust' is the real LinkedIn maturity arc \u2014 and most outreach still hasn't made that leap.",
+      "variants": {
+        "linkedin": {
+          "content": "LinkedIn outreach has a maturity problem.\n\nMost teams got past the 'don't get banned' phase years ago. But a lot of sequences are still stuck there mentally \u2014 optimised for delivery, not for the person receiving them. The question worth asking in 2025 isn't 'will this get flagged?' It's 'would someone who received this feel respected or processed?'\n\nThat distinction changes a lot: how much personalisation actually earns a reply vs. performs it, when to stop following up, and whether your connection request is a genuine opener or just a funnel entry point dressed up in friendly language.\n\nEthical outreach and effective outreach aren't in tension. They converge when the goal is a real conversation rather than a volume metric.\n\nExpandi Blog has a practical breakdown of where the lines sit in 2026: https://expandi.io/blog/ethical-linkedin-outreach-best-practices/\n\nIf you're working on LinkedIn outreach and want to think through the approach, feel free to reach out at https://salesmake.agency/contact.\n\n#LinkedInOutreach #B2BSales #Outbound"
+        },
+        "twitter": {
+          "content": "LinkedIn outreach matured past 'don't get banned.'\n\nThe next question is harder: does the person on the other end feel respected or just processed?\n\nThat gap is where most sequences still live. (Via Expandi Blog)\n\n#B2BSales #LinkedInTips\n\nThinking through outreach? salesmake.agency"
+        },
+        "bluesky": {
+          "content": "Ethical LinkedIn outreach isn't really about platform rules. It's about whether the person you're messaging feels like a human or a contact record. Most sequences still answer that question wrong. Good breakdown from Expandi Blog on where the lines sit in 2026.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "LinkedIn outreach has two eras:\n\n\u2192 Era 1: Don't get your account flagged\n\u2192 Era 2: Don't make someone feel like a pipeline entry point\n\nMost teams passed Era 1. Fewer have genuinely arrived at Era 2.\n\nThe Expandi Blog has a solid, practical look at what ethical LinkedIn outreach actually looks like heading into 2026 \u2014 worth a read if you're refining your approach.\n\nIf you need a hand thinking through cold outreach, link in bio \u2192 salesmake.agency\n\n#LinkedInOutreach #B2BSales #OutboundSales #SalesStrategy #ColdOutreach #LeadGeneration #B2BMarketing #SalesTips #GTM"
+        },
+        "pinterest": {
+          "content": "Explore 7 ethical LinkedIn outreach practices that prioritise trust over tactics \u2014 because the gap between 'won't get banned' and 'won't break trust' is where most B2B outreach still falls short. Sourced from the Expandi Blog's 2026 guide. Happy to help if you're rethinking your outbound approach \u2014 get in touch via the link.",
+          "title": "Ethical LinkedIn Outreach Best Practices for B2B Teams",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "7 Ethical LinkedIn outreach best practices to follow in 2026",
+        "url": "https://expandi.io/blog/ethical-linkedin-outreach-best-practices/",
+        "published": "2026-08-17T20:42:25+00:00",
+        "summary": "LinkedIn is still one of the primary channels B2B teams use to generate leads, and the rules for using it well have shifted from &#8220;how do I avoid a ban&#8221; toward &#8220;how do I reach people without violating their trust or the platform&#8217;s terms.&#8221; Those two questions have the same answer more often than not: [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 3.3
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
