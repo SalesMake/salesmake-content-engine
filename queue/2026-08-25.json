@@ -1,0 +1,81 @@
+{
+  "date": "2026-08-25T08:07:34.309093+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "The Clay vs Apollo choice is less about features and more about where your team sits on the build-vs-buy spectrum for data workflows.",
+      "variants": {
+        "linkedin": {
+          "content": "Clay and Apollo are often treated as competitors. In practice, they solve different problems for different team setups.\n\nApollo is a self-contained prospecting platform \u2014 data, sequences, and basic enrichment under one roof. Low friction to start, less flexible to customise. Clay is more of an enrichment and automation layer \u2014 you pull from dozens of data sources, run AI research steps, and wire it into whatever stack you already use. Higher ceiling, higher setup cost.\n\nThe real question isn't which one is better. It's whether your team has the time and appetite to build and maintain a data workflow, or whether you need something that just works out of the box. Most early-stage teams underestimate the maintenance side of a Clay build.\n\nWorth a read if you're evaluating both \u2014 Clay Blog has a detailed breakdown: https://www.clay.com/blog/clay-vs-apollo\n\nIf you're working through an outbound stack decision and want a second opinion, feel free to reach out at https://salesmake.agency/contact\n\n#outbound #GTM #salestech"
+        },
+        "twitter": {
+          "content": "Apollo = platform. Clay = infrastructure layer.\n\nNeither is universally better \u2014 it depends on whether your team can actually maintain what Clay requires.\n\nEvaluating both? Clay Blog has the breakdown. salesmake.agency\n\n#GTM #outbound"
+        },
+        "bluesky": {
+          "content": "Apollo gives you a closed loop. Clay gives you flexibility \u2014 at the cost of setup and upkeep. The right pick depends on your team's capacity to maintain a workflow, not just build one. Clay Blog has a solid comparison worth reading.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Clay or Apollo? The honest answer: it depends on your team's bandwidth, not just your budget. \ud83d\udee0\ufe0f\n\n\u2192 Apollo: all-in-one, lower setup friction, less customisable\n\u2192 Clay: powerful enrichment layer, connects multiple data sources, higher maintenance cost\n\u2192 The trap: teams pick Clay for the ceiling, then underestimate the upkeep\n\nClay Blog has a thorough head-to-head if you're mid-evaluation (link in bio \u2014 salesmake.agency).\n\nHappy to help if you're sorting out your outbound stack \u2014 link in bio.\n\n#outbound #GTM #salestech #prospecting #b2bsales #salesdevelopment #coldoutreach #revenueoperations #salesstack #outboundsales"
+        },
+        "pinterest": {
+          "content": "Compare Clay vs Apollo before committing to either platform. Clay works as a flexible enrichment and automation layer pulling from multiple data sources, while Apollo offers a self-contained prospecting environment. The deciding factor for most GTM teams is maintenance capacity, not features. Read the full breakdown on the Clay Blog at clay.com/blog/clay-vs-apollo \u2014 and if you need a hand thinking through your outbound approach, get in touch at salesmake.agency/contact.",
+          "title": "Clay vs Apollo: Choosing the Right GTM Stack for Your Team",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Clay vs Apollo: A GTM Team\u2019s Guide to Both Platforms - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/clay-vs-apollo",
+        "published": "2026-08-24T11:14:53+00:00",
+        "summary": "Compare Clay vs Apollo on data coverage, AI research, workflow automation and pricing to see which platform fits your GTM team.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 3.6
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Account Agents in Clay workflows close the gap between research and action \u2014 but the real question is whether your GTM plays are structured well enough to benefit from the automation.",
+      "variants": {
+        "linkedin": {
+          "content": "Most teams collect account research and then lose momentum before it becomes action.\n\nClay's new Account Agents \u2014 covered on the Clay Blog \u2014 let you trigger GTM plays directly from account research inside a workflow. The plumbing is genuinely useful: research surfaces a signal, and an agent acts on it without a human in the loop at every step.\n\nBut here's the part worth sitting with: automation accelerates whatever process you already have. If your account research criteria are fuzzy, or your sequences aren't calibrated to specific account contexts, the speed doesn't help much. The teams that will get the most out of this are the ones who've already done the work of defining what a good account looks like and what the right first move is when one shows up.\n\nAre your outbound plays structured clearly enough to hand off to an agent \u2014 or is there still work to do on the underlying logic first?\n\nClay Blog: https://www.clay.com/blog/account-agents-workflows\n\nIf you're thinking through how to structure outbound workflows or account-based plays, feel free to reach out at https://salesmake.agency/contact\n\n#GTM #OutboundSales #SalesAutomation"
+        },
+        "twitter": {
+          "content": "Automation moves fast \u2014 your GTM logic has to be solid first.\n\nClay Blog covered Account Agents running plays directly from account research in workflows. Useful. But if your targeting criteria are vague, speed just scales the noise.\n\nOutbound help: salesmake.agency #GTM #Outbound"
+        },
+        "bluesky": {
+          "content": "Clay's Account Agents can now trigger GTM plays from account research in a workflow. Genuinely useful \u2014 but only if the underlying targeting logic is already sharp. Automation scales what's there, good or bad. (Via Clay Blog)",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Faster workflows only help if the strategy behind them is solid. \ud83c\udfaf\n\nClay Blog just covered Account Agents \u2014 a way to trigger GTM plays directly from account research inside automated workflows. Cool capability.\n\nBut before handing off to an agent, ask:\n\u2192 Is your ICP definition tight enough to act on automatically?\n\u2192 Do your sequences actually match account context?\n\u2192 Are your signals meaningful, or just abundant?\n\nThe teams winning at outbound aren't just moving faster \u2014 they're moving on the right things.\n\nIf you want to dig into your outbound setup, link in bio \u2192 salesmake.agency\n\n#OutboundSales #GTM #SalesAutomation #B2BSales #AccountBased #ColdOutreach #SalesOps #RevenueGrowth #SalesDevelopment"
+        },
+        "pinterest": {
+          "content": "Explore how Clay's Account Agents connect account research to automated GTM plays inside workflows \u2014 and why your outbound strategy needs to be clearly defined before automation adds speed. Via Clay Blog (https://www.clay.com/blog/account-agents-workflows). Get in touch about structuring your outbound at salesmake.agency/contact",
+          "title": "Account Research to Action: What to Know Before Automating GTM Plays",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Account Agents now let you take action on account research in a workflow - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/account-agents-workflows",
+        "published": "2026-08-25T03:56:56+00:00",
+        "summary": "Use Account Agents in workflows to run GTM plays on account research",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
