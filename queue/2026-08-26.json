@@ -1,0 +1,115 @@
+{
+  "date": "2026-08-26T08:08:58.727447+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Automation layers are only as good as the judgment behind them \u2014 most teams bolt on tools without first deciding what each layer is supposed to do.",
+      "variants": {
+        "linkedin": {
+          "content": "Most outbound automation problems aren't tool problems. They're sequence-of-thinking problems.\n\nThe Instantly Blog just published a solid breakdown of outbound sales automation as a four-layer stack: data, orchestration, execution, and agents. It's worth reading because it gives teams a shared vocabulary \u2014 and a shared vocabulary is usually what's missing when automation produces noise instead of pipeline.\n\nThe part practitioners tend to skip is the orchestration layer. Everyone rushes to execution (sending emails, booking sequences) without deciding what conditions should trigger what actions, who owns each hand-off, and what 'working' actually looks like as a measurement. The result is automation that scales effort without scaling quality.\n\nBefore you add another tool, it's worth asking: do we have a clear owner for each layer, or are we just hoping the platform figures it out?\n\nhttps://instantly.ai/blog/what-is-outbound-sales-automation/\n\nIf you're thinking through how to structure your outbound stack, feel free to reach out at https://salesmake.agency/contact.\n\n#outboundsales #salesautomation #GTM"
+        },
+        "twitter": {
+          "content": "Outbound automation fails at the orchestration layer, not the tool layer.\n\nMost teams jump straight to sending sequences without deciding what triggers what, or who owns each hand-off.\n\nGood read on this from Instantly Blog.\n\nIf you're sorting out your outbound setup \u2192 salesmake.agency\n\n#outbound #GTM"
+        },
+        "bluesky": {
+          "content": "Outbound automation isn't a tool decision first \u2014 it's a logic decision. Data \u2192 orchestration \u2192 execution \u2192 agents. Most teams skip straight to execution and wonder why it doesn't convert. Good structural breakdown from the Instantly Blog worth a look.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Automation doesn't fix a broken outbound process \u2014 it just runs it faster. \ud83d\udd01\n\nThe Instantly Blog maps outbound sales automation as four layers:\n\u2192 Data\n\u2192 Orchestration\n\u2192 Execution\n\u2192 Agents\n\nMost teams treat this like a checklist of tools. The real work is deciding the logic that connects them \u2014 what triggers what, who owns each transition, and what 'good' looks like before you hit send at scale.\n\nSkip that thinking and you scale noise, not pipeline.\n\nFull article linked at instantly.ai/blog \u2014 worth reading if you're building or rebuilding your outbound motion.\n\nHappy to help if you're working on getting your outbound process in order \u2014 link in bio at salesmake.agency.\n\n#outboundsales #salesautomation #coldoutreach #GTM #salesstrategy #B2Bsales #revops #salesops #pipelinegeneration"
+        },
+        "pinterest": {
+          "content": "Understand the four-layer framework behind effective outbound sales automation \u2014 data, orchestration, execution, and agents \u2014 before adding any new tool to your stack. The Instantly Blog walks through how each component connects to your team workflow and where most outbound programs break down. Build the logic first, then automate it. Reach out if you're working on your cold outreach approach.",
+          "title": "How Outbound Sales Automation Actually Works (4-Layer Framework)",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "What is outbound sales automation? Definition, components & how it works",
+        "url": "https://instantly.ai/blog/what-is-outbound-sales-automation/",
+        "published": "2026-08-26T06:46:04+00:00",
+        "summary": "Outbound sales automation is a four layer infrastructure that replaces manual sales tasks with systematic, scalable outreach. This guide maps each component (data, orchestration, execution, and agents) to your team workflow so you can protect deliverability and generate predictable pipeline.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 5.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The real GTM tooling problem isn't finding good AI tools \u2014 it's buying too many of them before you know which jobs actually need filling.",
+      "variants": {
+        "linkedin": {
+          "content": "Most GTM teams don't have a tooling gap. They have a tooling sprawl problem.\n\nThe Expandi Blog recently mapped out AI tools across four GTM jobs: outbound engagement, data enrichment, revenue intelligence, and pipeline execution. Solid framework. But the more useful takeaway is buried in their own summary: most teams need one or two tools per category \u2014 not the full stack.\n\nIn practice, what we see is teams stacking tools before they've diagnosed where the actual friction is. You end up with three enrichment tools that partially overlap, an AI sequencing platform nobody's trained on, and a revenue intelligence layer that feeds dashboards nobody checks. Budget gone, adoption low, and the pipeline problem still unsolved.\n\nBefore buying anything, it's worth asking: which of these four jobs is genuinely breaking down for us right now \u2014 and do we have the process in place to absorb a new tool if we add one?\n\nThe tooling question is almost always downstream of a workflow question.\n\nFull breakdown worth a read: https://expandi.io/blog/best-ai-tools-for-gtm-strategy/\n\nIf you're working through how to structure your outbound stack or where to start with cold outreach, feel free to reach out at https://salesmake.agency/contact.\n\n#GTM #OutboundSales #SalesTech"
+        },
+        "twitter": {
+          "content": "GTM teams don't fail from missing AI tools. They fail from buying all nine before knowing which two they actually need.\n\nGood framework on this from the Expandi Blog \u2014 worth a read.\n\nIf you're sorting out your outbound setup, salesmake.agency\n\n#GTM #OutboundSales"
+        },
+        "bluesky": {
+          "content": "The GTM tooling problem isn't access \u2014 it's over-buying before you've diagnosed where the real friction is. Expandi Blog breaks it into four jobs worth mapping before you touch a budget. Good starting point.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Buying more AI tools won't fix a GTM process that hasn't been diagnosed yet. \ud83c\udfaf\n\nThe Expandi Blog breaks GTM tooling into four jobs:\n\u2192 Outbound engagement\n\u2192 Data enrichment\n\u2192 Revenue intelligence\n\u2192 Pipeline execution\n\nTheir point: most teams need one or two tools per category \u2014 not a full stack.\n\nThe harder question before any purchase: which of these four is actually broken for your team right now?\n\nTool sprawl is a real budget killer. Clarity on the workflow problem comes first.\n\nLink to the full Expandi Blog article + our contact page in bio \u2014 salesmake.agency\n\nHappy to help if you're thinking through your outbound approach or cold outreach setup.\n\n#GTM #OutboundSales #SalesTech #B2BSales #ColdOutreach #RevenueOperations #SalesStack #GotoMarket #SalesTools #B2BMarketing"
+        },
+        "pinterest": {
+          "content": "Map your GTM tooling gaps before buying AI software. The Expandi Blog identifies four jobs every GTM stack should cover \u2014 outbound engagement, data enrichment, revenue intelligence, and pipeline execution \u2014 and argues most teams need just one or two tools per category. Overbuying is how budgets get burned and tools get abandoned. Diagnose the workflow problem first, then match tools to it. Source: Expandi Blog (expandi.io/blog/best-ai-tools-for-gtm-strategy). Reach out about your outbound or cold outreach questions via the link.",
+          "title": "Pick the Right AI GTM Tools \u2014 Not All of Them",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "9 AI Tools Your GTM Strategy Needs in 2026",
+        "url": "https://expandi.io/blog/best-ai-tools-for-gtm-strategy/",
+        "published": "2026-08-25T16:06:28+00:00",
+        "summary": "The best AI tools for your GTM strategy tend to do 4 jobs: outbound engagement, data enrichment, revenue intelligence, and pipeline execution. Most teams need one or two per category, not the full stack. Buying all nine tools is how budgets get burned and tools get abandoned. The harder question is which two or three [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 4.4
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The real risk in AI prospecting tool selection isn't missing features \u2014 it's hidden billing structures and deliverability blind spots that quietly drain ROI before you notice.",
+      "variants": {
+        "linkedin": {
+          "content": "Most sales leaders evaluate AI prospecting tools by feature list. The sharper question is: what breaks first, and who pays for it?\n\nThe Instantly Blog put out a solid buyer's framework covering deliverability infrastructure, data hygiene, and vendor cost traps \u2014 worth a read if you're mid-evaluation. What it underscores, and what we see play out repeatedly, is that sender reputation damage and opaque billing tend to surface *after* a contract is signed. Warmup systems that look solid in a demo can still underperform at volume. Per-seat or per-contact pricing models can balloon in ways that weren't obvious upfront.\n\nBefore any tool decision, it's worth mapping two things internally: your actual sending volume at scale (not your current volume), and who on your team owns deliverability monitoring day-to-day. If neither has a clear answer, the tool choice is premature.\n\nWorth a read: https://instantly.ai/blog/how-to-choose-ai-prospecting-tools/\n\nIf you're working through an outbound stack decision and want a second opinion, feel free to reach out at https://salesmake.agency/contact.\n\n#OutboundSales #SalesTech"
+        },
+        "twitter": {
+          "content": "Picking an AI prospecting tool? The feature checklist isn't the risk.\n\nDeliverability gaps and billing traps are. Instantly Blog has a decent buyer's framework \u2014 worth 5 mins before you sign anything.\n\nSource: Instantly Blog | salesmake.agency #OutboundSales #GTM"
+        },
+        "bluesky": {
+          "content": "AI prospecting tool evals usually focus on features. The actual risk is deliverability blind spots and billing structures you only notice after go-live. Instantly Blog has a grounded buyer's framework on this. Worth reading before you commit.\n\nIf you need a hand thinking through outbound stack decisions \u2192 salesmake.agency/contact",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Choosing an AI prospecting tool? The feature list isn't where deals go wrong. \u2b07\ufe0f\n\n\u2192 Deliverability infrastructure that fails at volume\n\u2192 Billing models that balloon post-contract\n\u2192 No clear owner for sender reputation inside the team\n\nThe Instantly Blog published a solid buyer's framework covering exactly these pressure points \u2014 link in bio alongside our contact page at salesmake.agency.\n\nEvaluate the failure modes before you evaluate the features.\n\nHappy to help if you're sorting through outbound tooling or cold outreach setup \u2014 link in bio.\n\n#OutboundSales #SalesDevelopment #GTM #ColdEmail #SalesLeadership #BuyersGuide #SalesTech #ProspectingTools #EmailDeliverability"
+        },
+        "pinterest": {
+          "content": "Evaluate AI prospecting tools by what breaks first \u2014 not just what looks good in a demo. Deliverability gaps, hidden billing structures, and weak warmup systems are the real cost drivers. The Instantly Blog outlines a structured framework for sales leaders covering sender reputation protection, data hygiene standards, and admin controls to look for before signing. Read the guide, then map your actual sending volume and internal ownership before committing to any platform. For help thinking through cold outreach or outbound sales setup, visit SalesMake via the link.",
+          "title": "How to Evaluate AI Prospecting Tools: What Sales Leaders Miss",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How to choose AI prospecting tools: a buyer's guide for sales leaders",
+        "url": "https://instantly.ai/blog/how-to-choose-ai-prospecting-tools/",
+        "published": "2026-08-26T06:48:02+00:00",
+        "summary": "How to choose AI prospecting tools for your team. Use this structured framework to evaluate deliverability, data hygiene, and vendor costs. This guide helps sales leaders protect sender reputation, avoid billing traps, and select platforms with proven warmup systems and admin controls.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 3.0
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
