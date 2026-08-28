@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-28T21:28:20.364655+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Tool comparisons are useful, but the real prospecting decision isn't which platform wins \u2014 it's whether your team has the fundamentals (targeting, messaging, domain hygiene) sorted before adding more tooling.",
+      "variants": {
+        "linkedin": {
+          "content": "Comparison guides for sales tooling have their place. But here's what they rarely say out loud: a better tool won't fix a weak list or a message nobody wants to read.\n\nThe Instantly Blog published a solid breakdown of AI prospecting platforms \u2014 Instantly, Apollo, Clay, Lemlist \u2014 evaluated on deliverability, pricing, and team controls. Worth a read if you're in the market. https://instantly.ai/blog/best-ai-sales-prospecting-tools/\n\nWhat we'd add: the teams that get real mileage from these tools usually have one thing in common. They've already done the slower work \u2014 defining a tight ICP, building a clean sending infrastructure, and writing copy that earns a reply. The platform becomes a multiplier at that point, not a fix.\n\nIf you're evaluating tooling and want to think through the outbound setup around it, feel free to reach out at https://salesmake.agency/contact.\n\n#B2BSales #Outbound"
+        },
+        "twitter": {
+          "content": "New tool won't fix a bad list or weak copy.\n\nInstantly Blog compared top AI prospecting platforms \u2014 useful if you're shopping. But the fundamentals still come first.\n\nIf you're working on outbound, salesmake.agency #B2BSales #Outbound"
+        },
+        "bluesky": {
+          "content": "Instantly Blog compared the main AI prospecting tools on deliverability and pricing \u2014 useful reference. Our take: tooling multiplies what's already working. If the ICP or messaging isn't solid, a better platform just scales the noise. Get the basics right first.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Better tools \u2260 better results \u2014 not on their own.\n\nThe Instantly Blog dropped a detailed comparison of AI sales prospecting platforms (Instantly, Apollo, Clay, Lemlist) \u2014 useful reading if you're evaluating infrastructure.\n\nBut here's the thing we keep coming back to:\n\u2192 A sharper tool on a blurry ICP still misses\n\u2192 Deliverability features don't rescue flat copy\n\u2192 The platform is a multiplier, not a foundation\n\nSort the fundamentals first. Then let the tooling do its job.\n\n(Source linked via Instantly Blog \u2014 find it through the link in bio alongside salesmake.agency)\n\nIf you're figuring out your outbound setup, happy to help \u2014 link in bio.\n\n#OutboundSales #B2BSales #SalesProspecting #ColdEmail #GTM #SalesDevelopment #EmailOutreach #B2BMarketing #SalesTools #LeadGeneration"
+        },
+        "pinterest": {
+          "content": "Compare AI sales prospecting tools with purpose \u2014 Instantly Blog reviewed Instantly, Apollo, Clay, and Lemlist on deliverability, pricing, and domain health. Before you choose a platform, make sure your ICP is tight, your sending infrastructure is clean, and your messaging earns a reply. Tooling works best as a multiplier, not a starting point. Read the full comparison at https://instantly.ai/blog/best-ai-sales-prospecting-tools/ \u2014 and if you're building out your outbound approach, get in touch at SalesMake.",
+          "title": "AI Sales Prospecting Tools: What the Comparisons Don't Tell You",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Best AI sales prospecting tools for B2B teams in 2026",
+        "url": "https://instantly.ai/blog/best-ai-sales-prospecting-tools/",
+        "published": "2026-08-28T10:00:03+00:00",
+        "summary": "Best AI sales prospecting tools for B2B teams compared on deliverability, pricing, and team controls to scale outreach safely. This guide evaluates Instantly, Apollo, Clay, and Lemlist so sales leaders can choose reliable infrastructure that protects domain health without billing surprises.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 5.0
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
