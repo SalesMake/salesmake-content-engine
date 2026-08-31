@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-31T12:23:22.917378+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Clay's internal GTM Engineering setup reveals a lesson most teams miss: prioritization and measurement discipline matter more than the tools themselves.",
+      "variants": {
+        "linkedin": {
+          "content": "Clay uses Clay. That's a given. But what's more interesting is *how* they decide what to build next \u2014 and how they know if it worked.\n\nThe GTM Engineering Newsletter published a recap of an AMA with Clay's internal GTM Engineer, and the parts worth sitting with aren't the tool stack. They're the operational questions: How do you prioritize use cases when everything feels urgent? What does 'success' actually mean for a GTM system you just shipped?\n\nMost teams sprint to automate something, then move on before they've confirmed it moved a number. Clay's approach \u2014 at least as described here \u2014 treats scoping and measurement as part of the build, not an afterthought.\n\nIf you're running outbound or building GTM infrastructure, that's the habit worth copying before you copy anyone's workflow.\n\nFull recap via The GTM Engineering Newsletter: https://newsletter.gtmengineering.ai/p/gtm-engineering-ama-recap-1-how-clay\n\nIf you're working through how to structure or sharpen your outbound systems, feel free to reach out at https://salesmake.agency/contact.\n\n#GTM #OutboundSales #SalesOps"
+        },
+        "twitter": {
+          "content": "Clay's GTM Engineer AMA is worth reading \u2014 not for the tool tips, but for the prioritization + measurement discipline behind it.\n\nMost teams automate first, measure never.\n\nSource: The GTM Engineering Newsletter | salesmake.agency\n\n#GTM #Outbound"
+        },
+        "bluesky": {
+          "content": "The Clay GTM Engineering AMA is less about Clay-the-tool and more about how to decide what to build and whether it worked. Discipline before automation. Via The GTM Engineering Newsletter.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The real lesson from how Clay does GTM Engineering internally? Prioritization beats tooling every time.\n\n\u2192 They don't just build workflows \u2014 they scope them carefully\n\u2192 Success gets defined before the system goes live\n\u2192 Measurement is part of the build, not a follow-up thought\n\nThe GTM Engineering Newsletter published an AMA recap with Clay's internal GTM Engineer \u2014 it's a practical read if you're thinking about how outbound systems should actually be structured.\n\nLink in bio to reach us at salesmake.agency if you're figuring out your own outbound setup.\n\n#GTMEngineering #OutboundSales #SalesAutomation #ColdOutreach #B2BSales #GTM #RevenueOps #SalesOps #LeadGen #SalesTech"
+        },
+        "pinterest": {
+          "content": "Explore how Clay structures its internal GTM Engineering \u2014 from use case prioritization to measuring what actually worked. The GTM Engineering Newsletter's AMA recap with Clay's GTM Engineer cuts through the tool hype and focuses on the operational discipline most teams skip. Worth a read if you're building or refining outbound sales systems. Get in touch at salesmake.agency/contact if you're working on your own outbound setup.",
+          "title": "How Clay Builds GTM Systems: Prioritization & Measurement Lessons",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "GTM Engineering AMA Recap #1: How Clay builds GTM systems at Clay",
+        "url": "https://newsletter.gtmengineering.ai/p/gtm-engineering-ama-recap-1-how-clay",
+        "published": "2026-08-30T12:01:47+00:00",
+        "summary": "A recap of the 1st GTM AMA on Reddit with Clay's internal GTM Engineer. How does Clay do GTM Engineering? How are use cases prioritized? How is success measured?",
+        "source": "The GTM Engineering Newsletter",
+        "category": "gtm_engineering",
+        "score": 2.6
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
