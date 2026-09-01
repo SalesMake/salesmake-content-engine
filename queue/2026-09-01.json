@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-01T10:55:26.173944+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "The real takeaway isn't the ROI number \u2014 it's that audience data driving ad targeting is now an outbound workflow, not just a media-buying one.",
+      "variants": {
+        "linkedin": {
+          "content": "Paid ads and outbound used to be separate motions. The Clay team's recent post on their growth workflow is a good signal that the line is blurring.\n\nWhat they describe \u2014 pulling audience data, enriching it, syncing it directly into ad platforms \u2014 is essentially the same logic as a well-built outbound sequence. You identify who matters, enrich the signal, and deliver a message at the right moment. The channel (ad auction vs. cold email) is almost secondary.\n\nFor outbound teams, this is worth sitting with: if your prospecting data is good enough to drive a cold sequence, it's probably good enough to run a matched audience campaign alongside it. The two motions reinforce each other in ways that neither channel gets credit for individually. Is your outbound data doing double duty yet?\n\nFull workflow breakdown over at Clay Blog: https://www.clay.com/blog/paid-ads-playbooks\n\nIf you're thinking through how outbound and paid might work together for your go-to-market, feel free to reach out at https://salesmake.agency/contact.\n\n#outbound #gtm #salesops"
+        },
+        "twitter": {
+          "content": "Outbound data and paid audiences are the same asset \u2014 most teams just use them in separate silos.\n\nClay Blog just showed what it looks like when you don't. Worth a read.\n\nIf you're working on cold outreach, salesmake.agency\n\n#outbound #gtm"
+        },
+        "bluesky": {
+          "content": "The Clay Blog's paid ads playbook is really an outbound data playbook in disguise. Same enriched audience logic \u2014 different delivery channel. Worth reading if you run any kind of targeted outreach.\n\nHappy to talk cold outreach if that's on your plate.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Your prospecting data can work harder than one channel.\n\nThe Clay Blog just broke down how their growth team syncs enriched audience data directly into ad campaigns \u2014 and the mechanic is almost identical to a cold outbound workflow.\n\n\u2192 Identify the right accounts\n\u2192 Enrich with signal\n\u2192 Deliver at the right moment\n\u2192 Repeat across channels\n\nThe channel changes. The underlying data logic doesn't.\n\nFull breakdown on Clay Blog (link in bio or search Clay paid ads playbook).\n\nIf you need help thinking through cold outreach, find us at salesmake.agency \u2014 link in bio.\n\n#outbound #gtm #b2bsales #salesstrategy #coldoutreach #demandgen #prospecting #salesops #b2bmarketing"
+        },
+        "pinterest": {
+          "content": "Discover how enriched outbound data can drive paid ad campaigns \u2014 not just cold sequences. The Clay Blog breaks down a workflow for syncing audience data across Meta, LinkedIn, and Google. The underlying logic mirrors a well-run outbound motion: identify, enrich, deliver. Learn from the Clay Blog playbook and apply the same thinking to your go-to-market approach. If you're exploring outbound strategy, visit SalesMake to get in touch.",
+          "title": "Use Your Outbound Data Across Every Channel \u2014 GTM Workflow",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How we turned a few thousand ad dollars into $1.3 million in pipeline - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/paid-ads-playbooks",
+        "published": "2026-08-31T23:18:03+00:00",
+        "summary": "Inside the workflow our growth team uses to turn Clay audience data into synced ad campaigns across Meta, LinkedIn, Google, and more.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 4.8
+      }
+    },
+    {
+      "usable": true,
+      "angle": "A long tool list is useful, but the real question for outbound teams is whether they're adding AI where it compounds \u2014 not just where it's easy to plug in.",
+      "variants": {
+        "linkedin": {
+          "content": "More AI sales tools doesn't mean better outbound.\n\nExpandi just published a roundup of 18 AI-powered sales platforms worth knowing about in 2026 \u2014 covering prospecting, personalization, and pipeline prioritization. It's a solid reference if you're evaluating your stack.\n\nBut here's the thing we see repeatedly: teams add tools at the top of the funnel (finding prospects, enriching data) before they've sorted out what happens to those prospects once they're found. AI automates volume fast. If the targeting logic or the message quality isn't there, you just get rejections faster.\n\nThe highest-leverage place to apply AI in outbound isn't always the most obvious one. Sometimes it's in deciding who *not* to contact, or in tightening the three-line email that follows a trigger event \u2014 not in generating 500 new leads to blast.\n\nWorth a read if you're mid-stack audit: https://expandi.io/blog/ai-sales-tools/\n\nIf you're working through how outbound fits into your GTM right now, feel free to reach out at https://salesmake.agency/contact.\n\n#outbound #salesops #GTM"
+        },
+        "twitter": {
+          "content": "AI tools can automate bad outbound at scale just as easily as good outbound.\n\nExpandi rounded up 18 worth considering \u2014 useful reference. But tool choice matters less than the logic behind who you're reaching and why.\n\nHappy to talk it through: salesmake.agency\n\n#outbound #GTM"
+        },
+        "bluesky": {
+          "content": "Expandi mapped out 18 AI sales tools for 2026. Useful list. The harder question: are you adding AI where it actually compounds, or just where it's easiest to plug in? Tool choice follows strategy, not the other way around.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "More tools \u2260 better outbound. \ud83c\udfaf\n\nExpandi just dropped a roundup of 18 AI sales tools worth knowing in 2026 \u2014 prospecting, personalization, pipeline prioritization, all covered.\n\nBut the pattern we see:\n\u2192 Teams automate volume before they've nailed targeting\n\u2192 AI speeds up the wrong actions just as fast as the right ones\n\u2192 The message still has to earn a reply \u2014 no tool fixes that\n\nThe real question isn't which tool. It's where in your outbound motion AI actually changes the outcome.\n\nFull article from Expandi Blog linked at salesmake.agency (link in bio).\n\nIf you're thinking through your outbound setup, we're easy to reach \u2014 link in bio.\n\n#outboundsales #salestools #GTM #coldoutreach #salesstrategy #B2Bsales #salesops #prospecting"
+        },
+        "pinterest": {
+          "content": "Explore 18 AI sales tools shaping outbound in 2026 \u2014 curated by Expandi Blog \u2014 covering prospecting, personalization, and deal prioritization. Before expanding your stack, consider where AI compounds your existing motion versus where it just adds noise. Smart outbound starts with clear targeting logic, not more automation. Read the full breakdown at the Expandi Blog, and get in touch with SalesMake if you're refining your cold outreach approach.",
+          "title": "18 AI Sales Tools for 2026 \u2014 And What to Consider Before Adding Them",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "The Best 18 AI Sales Tools of 2026",
+        "url": "https://expandi.io/blog/ai-sales-tools/",
+        "published": "2026-08-31T19:06:11+00:00",
+        "summary": "The best AI sales tools in 2026 take over the work that used to eat a rep\u2019s day: finding prospects, personalizing outreach, and flagging the deals worth chasing.&#160; To figure out which platforms deliver, I analyzed 18 AI-powered sales tools for this article, combining hands-on testing with independent reviews and real insights from experts \u2014 [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 2.2
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
