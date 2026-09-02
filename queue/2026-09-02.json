@@ -1,0 +1,115 @@
+{
+  "date": "2026-09-02T10:22:17.046110+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Collapsing the gap between data and send is the real unlock \u2014 Clay Sequencer matters not because it adds another tool, but because it removes the handoff where stale data kills deliverability and relevance.",
+      "variants": {
+        "linkedin": {
+          "content": "The messiest part of outbound isn't writing the email. It's the gap between when you pull the data and when the email actually goes out.\n\nLead lists go stale fast. Job titles change, companies pivot, funding rounds close. By the time a sequence fires, the 'personalization' is already wrong. Clay Sequencer addresses this by keeping sourcing, enrichment, and sending inside one loop \u2014 so the data powering the email is current at send time, not at list-build time.\n\nThat's a quiet but meaningful shift. Most teams treat list-building and sequencing as separate phases with a handoff in between. That handoff is where relevance leaks out.\n\nWorth reading if you're evaluating how your current stack handles data freshness: Clay Blog \u2192 https://www.clay.com/blog/clay-email-sequencer\n\nIf you're working on cold outreach and want a second set of eyes on how your stack fits together, feel free to reach out at https://salesmake.agency/contact\n\n#outbound #GTM #coldoutreach"
+        },
+        "twitter": {
+          "content": "The problem with most outbound stacks: data is pulled at list-build time, email sends weeks later. Clay Sequencer closes that gap \u2014 source, enrich, send in one loop.\n\nVia Clay Blog. If you're thinking through cold outreach infrastructure \u2192 salesmake.agency\n\n#outbound #GTM"
+        },
+        "bluesky": {
+          "content": "List-build and send are usually separate phases with a handoff in between \u2014 that's where stale data sneaks in. Clay Sequencer keeps sourcing, enrichment, and sequencing in one loop. Via Clay Blog.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The gap between pulling a list and sending the email is where outbound quietly breaks. \ud83d\udccb\u27a1\ufe0f\ud83d\udce7\n\nBy the time a sequence fires, job titles have changed, companies have pivoted, context has shifted.\n\nClay Sequencer keeps it all in one loop:\n\u2192 Source\n\u2192 Enrich\n\u2192 Send \u2014 on current data\n\nSmall infrastructure change, real relevance difference. Full breakdown on the Clay Blog (link in bio).\n\nHappy to help if you're thinking through your cold outreach setup \u2014 find us at salesmake.agency (link in bio).\n\n#outbound #coldoutreach #GTM #salestech #leadgeneration #b2bsales #emailoutreach #salesops #prospecting #outboundsales"
+        },
+        "pinterest": {
+          "content": "Understand why collapsing the gap between lead sourcing, enrichment, and email sequencing matters for outbound relevance. Clay Sequencer keeps data current at send time \u2014 not just at list-build time. Read the full breakdown on the Clay Blog, then reach out to SalesMake if you're sorting out your cold outreach approach.",
+          "title": "Clay Sequencer: Why Data Freshness at Send Time Changes Outbound",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Clay Sequencer: the cold outbound email sequencer - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/clay-email-sequencer",
+        "published": "2026-09-01T15:00:47+00:00",
+        "summary": "Clay Sequencer brings lead sourcing, enrichment, and sequencing into one tool, so every email sends on current data. Now generally available in Clay.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 7.2
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The Clay-vs-ZoomInfo question is really a workflow question: static data export vs. dynamic enrichment pipeline \u2014 and most teams pick the wrong one because they conflate data coverage with data utility.",
+      "variants": {
+        "linkedin": {
+          "content": "Most teams shopping between Clay and ZoomInfo are actually asking the wrong question.\n\nThey compare contact coverage and price tiers \u2014 reasonable things to check \u2014 but the real fork in the road is how your team uses data. ZoomInfo is built around bulk exports into a CRM. Clay is built around building enrichment logic that runs at the moment you need it. One is a warehouse; the other is closer to a pipeline with conditionals.\n\nIf your outbound motion is 'pull a list, upload to a sequencer, send,' ZoomInfo's coverage and intent signals may be all you need. If your motion involves waterfall enrichment, personalization at scale, or layering multiple data sources before a rep ever touches a record \u2014 Clay's architecture fits that work better.\n\nNeither is universally right. The question worth asking before you sign anything: do you need better data, or do you need better decisions about which data to act on?\n\nClay Blog published a detailed breakdown of both platforms worth reading before your next renewal: https://www.clay.com/blog/clay-vs-zoominfo\n\nIf you're working through how your outbound stack should actually be structured, feel free to reach out at https://salesmake.agency/contact"
+        },
+        "twitter": {
+          "content": "Clay vs ZoomInfo isn't really a data question \u2014 it's a workflow question.\n\nWarehouse vs. pipeline. Bulk export vs. enrichment logic that runs on demand.\n\nPick the wrong mental model and you'll buy the wrong tool.\n\n(Clay Blog has the breakdown \u2014 source: Clay Blog) #outbound #GTM\n\nNeed help thinking through your stack? salesmake.agency"
+        },
+        "bluesky": {
+          "content": "Clay vs ZoomInfo: less a data-coverage debate, more a workflow architecture question. Bulk export vs. enrichment logic that runs when you need it. Clay Blog breaks it down. Worth a read before your next renewal.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Clay vs ZoomInfo \u2014 the comparison that keeps coming up in every outbound stack conversation.\n\nHere's the frame that actually helps:\n\n\u2192 ZoomInfo: data warehouse, bulk export, intent signals baked in\n\u2192 Clay: enrichment pipeline, conditional logic, waterfall data sources\n\u2192 One suits 'pull list \u2192 sequence \u2192 send'\n\u2192 The other suits 'build smart records before a rep ever touches them'\n\nNeither wins by default. The right one depends on how your team actually works \u2014 not on which logo looks better in a vendor comparison.\n\nClay Blog published a solid side-by-side worth bookmarking (link in bio \u2014 or search Clay Blog on clay.com). Check it before your next renewal decision.\n\n#outboundsales #gtm #salesstack #b2bsales #leadgeneration #salesops #revenueoperations #coldoutreach #salesdevelopment\n\nIf you're figuring out how your outbound stack should be set up, we're happy to talk \u2014 link in bio at salesmake.agency"
+        },
+        "pinterest": {
+          "content": "Compare Clay vs ZoomInfo the right way: understand the workflow difference before choosing your GTM data platform. Clay Blog breaks down data coverage, enrichment logic, intent signals, pricing, and automation so you can match the tool to your actual outbound motion \u2014 not just a feature checklist. Read the full comparison on Clay Blog at clay.com/blog/clay-vs-zoominfo. If you need a hand thinking through cold outreach or outbound sales setup, reach out via the link.",
+          "title": "Clay vs ZoomInfo: Pick the Right GTM Platform for Your Outbound Motion",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Clay vs ZoomInfo: Choosing the Right GTM Platform for Your Growth Plays - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/clay-vs-zoominfo",
+        "published": "2026-09-01T22:50:10+00:00",
+        "summary": "Compare Clay vs ZoomInfo on data coverage, intent signals, AI research, workflow automation, pricing, and more.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 6.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The real lesson isn't the ROI number \u2014 it's that syncing enriched audience data directly into ad platforms collapses the wall between outbound and paid, and most GTM teams haven't wired that up yet.",
+      "variants": {
+        "linkedin": {
+          "content": "Outbound and paid ads usually live in separate rooms. Different teams, different tools, different feedback loops.\n\nThe Clay Blog recently shared how their growth team synced enriched audience data directly into Meta, LinkedIn, and Google campaigns \u2014 and attributed $1.3M in pipeline to a relatively modest ad spend. The mechanism matters more than the number: when the same signal that triggers an outbound sequence also updates your ad audiences in real time, you stop wasting impressions on people who've already converted or gone cold.\n\nMost outbound teams we talk to haven't connected these two motions yet. They're running sequences and running ads, but the data isn't moving between them. That's the gap worth closing before optimising either channel individually.\n\nWorth a read if you're thinking about how your GTM data actually flows: https://www.clay.com/blog/paid-ads-playbooks\n\nIf you're working on tightening up your outbound motion and want a second pair of eyes, feel free to reach out at https://salesmake.agency/contact.\n\n#GTM #OutboundSales #DemandGeneration"
+        },
+        "twitter": {
+          "content": "Outbound and paid ads pulling from the same live data \u2014 that's the unlock most GTM teams are missing.\n\nClay Blog breaks down how synced audience workflows change the equation. Worth finding and reading.\n\nThinking through your outbound setup? salesmake.agency\n\n#GTM #OutboundSales"
+        },
+        "bluesky": {
+          "content": "Outbound sequences and paid ads, but the data never talks to each other \u2014 that's the gap.\n\nClay Blog shows what changes when enriched audience data syncs live into your ad platforms. Less waste, tighter targeting.\n\nWorth the read.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Your outbound list and your ad audiences \u2014 are they actually in sync? \ud83e\udd14\n\nThe Clay Blog broke down how their team wired enriched audience data directly into Meta, LinkedIn, and Google campaigns.\n\nThe practical takeaway for GTM teams:\n\u2192 The same signal that fires a sequence can refresh your ad audiences\n\u2192 That means fewer wasted impressions on stale or already-converted contacts\n\u2192 Outbound and paid stop being separate motions\n\nMost teams haven't built this bridge yet. It's a simpler structural fix than it looks.\n\nFull article linked at salesmake.agency \u2014 or find it via Clay Blog.\n\nIf you're building out your outbound approach and want to talk it through, the link in bio will get you to us. \ud83d\udd17\n\n#OutboundSales #GTM #SalesOps #DemandGen #B2BSales #ColdOutreach #RevenueOperations #SalesStrategy #GrowthMarketing"
+        },
+        "pinterest": {
+          "content": "Sync outbound data with paid ad audiences to eliminate wasted spend and stale targeting. The Clay Blog details how enriched audience signals \u2014 the same ones powering outbound sequences \u2014 can update Meta, LinkedIn, and Google campaigns in real time. A practical read for GTM and revenue teams looking to connect their outbound and paid motions. Source: Clay Blog (clay.com/blog/paid-ads-playbooks). Happy to help if you're thinking through your outbound setup \u2014 get in touch via SalesMake.",
+          "title": "Connect Your Outbound Data to Paid Ads: A GTM Workflow Worth Copying",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How we turned a few thousand ad dollars into $1.3 million in pipeline - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/paid-ads-playbooks",
+        "published": "2026-09-01T14:55:50+00:00",
+        "summary": "Inside the workflow our growth team uses to turn Clay audience data into synced ad campaigns across Meta, LinkedIn, Google, and more.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 4.8
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
