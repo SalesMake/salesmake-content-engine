@@ -1,0 +1,117 @@
+{
+  "date": "2026-09-03T10:31:00.025568+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "The Clay vs ZoomInfo question is really about workflow philosophy \u2014 one is a database you query, the other is a research layer you build around \u2014 and most teams conflate the two before they've figured out what they actually need.",
+      "variants": {
+        "linkedin": {
+          "content": "The Clay vs ZoomInfo debate misses the real question.\n\nZoomInfo is a data warehouse with a seat licence. Clay is closer to a programmable enrichment layer \u2014 you pull from dozens of sources, run AI research steps on top, and route the output wherever you want. Comparing them head-to-head is a bit like comparing a spreadsheet to a data pipeline.\n\nBefore picking either, the more useful question is: where does your list-building process actually break down? If it's data freshness or coverage, a richer source mix (which Clay facilitates) helps. If it's intent signals and CRM hygiene at scale, ZoomInfo's native integrations might matter more. Many teams end up using both for different parts of the workflow \u2014 but paying for both without a clear remit is where budget quietly disappears.\n\nClay Blog has a thorough side-by-side if you're in the middle of this decision: https://www.clay.com/blog/clay-vs-zoominfo\n\nIf you're working through your outbound stack and want a second opinion on the setup, feel free to reach out at https://salesmake.agency/contact"
+        },
+        "twitter": {
+          "content": "Clay vs ZoomInfo isn't really a fair fight \u2014 one is a database, one is a workflow layer. Most teams need to answer \"where does list-building break?\" before choosing either. (Clay Blog breaks it down.) #GTM #outbound\n\nIf you're sorting your outbound stack \u2192 salesmake.agency"
+        },
+        "bluesky": {
+          "content": "Clay vs ZoomInfo is the wrong frame. One is a data warehouse, one is an enrichment workflow. Figure out where your list-building actually breaks before buying either. Clay Blog has a solid comparison \u2192 link attached. #GTM",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Clay vs ZoomInfo \u2014 teams argue about which one to buy before they know what's actually broken in their outbound process. \ud83e\udd14\n\nHere's a more useful frame:\n\u2192 ZoomInfo = database with native CRM integrations\n\u2192 Clay = programmable enrichment layer across many sources\n\u2192 The real question: where does your list-building fall apart?\n\nClay Blog just published a detailed breakdown (link in bio alongside ours).\n\nHappy to talk through your outbound setup if you're in the middle of a stack decision \u2014 find us at salesmake.agency, link in bio.\n\n#outboundsales #GTM #salestech #leadgeneration #salesops #coldoutreach #revenueoperations #b2bsales #salesdevelopment"
+        },
+        "pinterest": {
+          "content": "Understand the Clay vs ZoomInfo decision before committing budget. Clay functions as a programmable enrichment workflow pulling from multiple data sources; ZoomInfo is a structured database with deep CRM integrations. Choosing between them \u2014 or combining both \u2014 depends on where your list-building process actually fails. Clay Blog published a detailed feature-by-feature comparison worth reading before you decide. If you need a hand thinking through your outbound stack, reach out to SalesMake.",
+          "title": "Clay vs ZoomInfo: What to Ask Before You Decide",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Clay vs ZoomInfo: Choosing the Right GTM Platform for Your Growth Plays - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/clay-vs-zoominfo",
+        "published": "2026-09-02T17:24:03+00:00",
+        "summary": "Compare Clay vs ZoomInfo on data coverage, intent signals, AI research, workflow automation, pricing, and more.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 6.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Mobile data quality varies wildly by region, and most outbound teams find out the hard way \u2014 picking a provider should start with coverage testing, not pricing.",
+      "variants": {
+        "linkedin": {
+          "content": "Most teams pick a mobile data provider based on price or brand familiarity. The coverage gaps only show up later \u2014 in bounce rates, wrong numbers, and reps burning time on dead dials.\n\nClay Blog ran a structured test across 9,806 numbers and 10 B2B mobile data providers, comparing accuracy and coverage across NAMER, EMEA, and APAC. The results aren't uniform \u2014 there's no single winner in every region, which matters a lot if your outbound motion crosses borders.\n\nIf you're running any meaningful volume of cold calling, the provider decision is worth treating like a data hygiene question, not just a vendor preference. Worth a read before your next contract renewal.\n\nFull breakdown: https://www.clay.com/blog/best-mobile-phone-data (Clay Blog)\n\nIf you're working on the data side of your outbound stack and want a second set of eyes, feel free to reach out at https://salesmake.agency/contact.\n\n#outbound #salesops #GTM"
+        },
+        "twitter": {
+          "content": "Most teams pick a mobile data provider on price. The coverage gaps show up later in dead dials and bounce rates.\n\nClay Blog tested 9,806 numbers across 10 providers \u2014 no single winner in every region.\n\nIf you're sorting your outbound data stack \u2192 salesmake.agency\n\n#outbound #GTM"
+        },
+        "bluesky": {
+          "content": "Clay Blog tested 9,806 numbers across 10 B2B mobile data providers. No single winner in every region \u2014 which matters if your outbound crosses NAMER, EMEA, or APAC. Worth checking before your next renewal.\n\nHappy to help if you're figuring out your outbound data setup.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Your mobile data provider might be costing you more than you think \u2014 just not on the invoice.\n\nClay Blog tested 9,806 numbers across 10 B2B providers and broke down accuracy, coverage, and cost by region.\n\n\u2192 No single provider wins everywhere\n\u2192 NAMER, EMEA, and APAC results differ significantly\n\u2192 The gap shows up in dead dials and wasted rep time\n\nIf you're building or auditing your outbound stack, this is the kind of benchmark worth bookmarking.\n\nFull breakdown linked at salesmake.agency (link in bio) \u2014 and if you need a hand thinking through your cold outreach setup, we're easy to reach.\n\n#outbound #salesops #GTM #coldcalling #b2bsales #leadgeneration #salesdata #prospecting #revenueops",
+          "content_note": "Remind the designer: pair with a clean data/table visual or a world-map coverage graphic."
+        },
+        "pinterest": {
+          "content": "Compare the top B2B mobile phone data providers before your next contract renewal. Clay Blog benchmarked 9,806 numbers across 10 providers \u2014 testing accuracy, coverage, and cost in NAMER, EMEA, and APAC. Results vary significantly by region, so picking purely on price is a risky shortcut for outbound teams running cross-border sequences. Read the full breakdown at clay.com/blog/best-mobile-phone-data. If you're thinking through your outbound data stack, reach out via the link.",
+          "title": "Best B2B Mobile Data Providers: Regional Coverage Benchmarked (2026)",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Best Mobile Phone Data Providers for B2B in 2026 - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/best-mobile-phone-data",
+        "published": "2026-09-02T17:43:36+00:00",
+        "summary": "We tested 9,806 numbers across 10 B2B mobile phone data providers. See which wins on accuracy, coverage, and cost for NAMER, EMEA, and APAC.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Most lead gen businesses fail not on tactics but on sequencing \u2014 niche and pricing model have to be locked before the outreach engine is even built.",
+      "variants": {
+        "linkedin": {
+          "content": "Most lead gen operations don't fail because of bad tools. They fail because they built the machine before they knew what it was supposed to produce.\n\nExpandi's breakdown of eight agencies doing a combined $200M+ in revenue makes one thing clear: the ones that stuck around locked their niche and their pricing model first \u2014 then built outreach around that decision. The sequencing isn't a detail, it's the whole thing. Picking a target vertical after you've already bought a sending tool and hired a copywriter is backwards, and it shows up in the results.\n\nIt's a useful read if you're either starting out or trying to figure out why an existing setup isn't converting at the rate it should. Worth the time.\n\nhttps://expandi.io/blog/how-to-start-a-lead-generation-business/\n\nIf you're working through how to structure your own outbound operation, feel free to reach out at https://salesmake.agency/contact\n\n#outbound #leadgeneration #GTM"
+        },
+        "twitter": {
+          "content": "Lead gen businesses don't fail on tactics \u2014 they fail on sequencing.\n\nNiche + pricing model first. Outreach engine second. In that order.\n\n(Good breakdown on this from Expandi Blog \u2014 find it via salesmake.agency)\n\n#leadgen #outbound"
+        },
+        "bluesky": {
+          "content": "The lead gen agencies that scale lock niche and pricing before touching tools or copy. Per Expandi Blog's look at 8 agencies doing $200M+, sequencing is the thing most people get backwards.\n\nhttps://expandi.io/blog/how-to-start-a-lead-generation-business/",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The lead gen businesses that fail usually built the machine before deciding what it should produce. \ud83d\udd27\n\nExpandi Blog studied 8 agencies with $200M+ in combined revenue \u2014 the pattern in what worked:\n\n\u2192 Nail the niche first\n\u2192 Lock the pricing model second\n\u2192 Build the outreach engine third\n\nMost people do it in reverse. Then wonder why the numbers don't move.\n\nFull article linked at salesmake.agency (link in bio) \u2014 worth reading if you're setting up or auditing an outbound operation.\n\nHappy to talk through your outbound setup \u2014 link in bio to get in touch.\n\n#leadgeneration #outboundsales #GTM #salesstrategy #coldoutreach #B2Bsales #salesops #demandgeneration #outboundmarketing",
+          "link": "https://salesmake.agency/contact"
+        },
+        "pinterest": {
+          "content": "Sequence your lead generation business correctly: define your niche and pricing model before building any outreach engine. Expandi Blog analyzed eight lead gen agencies with $200M+ in combined revenue and found that getting this order right separates the ones that scale from the ones that stall. A practical read for anyone starting or restructuring a B2B outbound operation. Source: https://expandi.io/blog/how-to-start-a-lead-generation-business/ \u2014 If you need help thinking through your cold outreach approach, reach out via the link.",
+          "title": "Start a Lead Gen Business Right: Niche and Pricing Before Outreach",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How To Start a Lead Generation Business in 2026: Lessons From Lead Gen Agencies Doing $200m in Revenue",
+        "url": "https://expandi.io/blog/how-to-start-a-lead-generation-business/",
+        "published": "2026-09-02T17:59:59+00:00",
+        "summary": "Figuring out how to start a lead generation business comes down to sequencing: lock the niche and the pricing model before you spend a cent on tools, then build an outreach engine that delivers leads on a schedule.&#160; To ground the advice, we broke down how eight lead generation agencies with a combined $200M+ in [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 2.2
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
