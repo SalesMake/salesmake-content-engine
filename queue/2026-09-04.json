@@ -1,0 +1,115 @@
+{
+  "date": "2026-09-04T10:20:07.394690+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "The real question isn't which Sales Navigator alternative wins on features \u2014 it's whether your team's prospecting workflow actually needs LinkedIn-native data at all, or just good-enough signals from cheaper, combinable sources.",
+      "variants": {
+        "linkedin": {
+          "content": "Most teams shopping for a Sales Navigator alternative are solving the wrong problem.\n\nThey're comparing feature checklists \u2014 coverage, filters, intent data \u2014 when the real question is: what does your outbound motion actually need from a data layer? For a lot of teams, the answer isn't one premium tool. It's a lighter data source plus enrichment layered on top, scoped to the exact signals that matter for their ICP.\n\nClay Blog put together a solid rundown of ten alternatives worth knowing: https://www.clay.com/blog/linkedin-sales-navigator-alternatives \u2014 useful if you're actively re-evaluating your stack or trying to justify the Sales Nav line item.\n\nThe piece covers the usual suspects and some less obvious picks. What it can't tell you is which option fits your sequence logic, your data hygiene standards, or the way your reps actually work a list. That part is always bespoke.\n\nIf you're rethinking your prospecting data setup and want a second opinion, feel free to reach out at https://salesmake.agency/contact.\n\n#OutboundSales #GTM #SalesDevelopment"
+        },
+        "twitter": {
+          "content": "Sales Nav alternatives are everywhere. The harder question: does your outbound motion need LinkedIn-native data, or just reliable signals from cheaper, stackable sources?\n\nClay Blog mapped out 10 options worth knowing (source: Clay Blog).\n\nThinking through your stack? salesmake.agency #Outbound #GTM"
+        },
+        "bluesky": {
+          "content": "Shopping for a Sales Nav alternative? The list of options is long. The short question: does your workflow actually need LinkedIn-native data, or just good signals at lower cost?\n\nClay Blog breaks down 10 alternatives worth a look.\n\nIf you're sorting through stack decisions, happy to think it through \u2014 salesmake.agency/contact",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The Sales Nav alternative conversation misses the real question. \ud83d\udc47\n\nIt's not 'which tool has better filters?' It's 'does your outbound motion need LinkedIn-native data at all \u2014 or just reliable signals from a cheaper, combinable stack?'\n\n\u2192 Clay Blog mapped out 10 alternatives worth evaluating\n\u2192 Coverage, enrichment, intent data \u2014 all compared\n\u2192 But fit-to-workflow? That's always a separate call\n\nLink in bio (salesmake.agency) \u2014 if you're working through a prospecting data decision, feel free to reach out.\n\n#OutboundSales #SalesDevelopment #GTM #B2BSales #ProspectingTools #SalesStack #LeadGeneration #ColdOutreach #SalesOps #RevenueOperations"
+        },
+        "pinterest": {
+          "content": "Explore 10 LinkedIn Sales Navigator alternatives for B2B prospecting \u2014 then ask the smarter question: does your outbound workflow need LinkedIn-native data, or just reliable, affordable signals layered together? Clay Blog breaks down the options across coverage, enrichment, and intent data. Review the comparison before your next stack decision. If you need help thinking through your outreach setup, get in touch at salesmake.agency/contact",
+          "title": "10 LinkedIn Sales Navigator Alternatives \u2014 And the Real Question to Ask First",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "What are the 10 best alternatives to LinkedIn Sales Navigator? - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/linkedin-sales-navigator-alternatives",
+        "published": "2026-09-03T18:20:29+00:00",
+        "summary": "Discover the top 10 alternatives to LinkedIn Sales Navigator for enhanced lead generation and data enrichment.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 6.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The real lesson from Clay's waterfall test isn't which tool 'won' \u2014 it's that single-source email finding is a coverage problem, and most outbound teams still haven't structured around that.",
+      "variants": {
+        "linkedin": {
+          "content": "Most teams pick one email finder, trust it, and wonder why reply rates feel off. The actual problem is coverage, not copy.\n\nClay Blog ran a proper test \u2014 2,354 prospects, five tools, head-to-head. Per their findings, no single tool cracked 79% coverage on its own. That number only appeared when tools were stacked in a waterfall sequence. Meaning: the order you query providers matters as much as which providers you choose.\n\nThis is worth thinking about if you're building outbound sequences at volume. A gap in contact data isn't just a missed email \u2014 it's a prospect who never enters your pipeline at all. Waterfall enrichment isn't a nice-to-have; it's the architecture decision that determines your reachable universe before a single word of outreach is written.\n\nFull test results (accuracy, coverage, pricing breakdown) over at the Clay Blog: https://www.clay.com/blog/personal-email-finder\n\nIf you're thinking through how to structure your data layer for outbound, feel free to reach out at https://salesmake.agency/contact\n\n#outbound #GTM #salesops"
+        },
+        "twitter": {
+          "content": "One email finder \u2260 enough coverage.\n\nClay Blog tested 5 tools across 2,354 prospects. 79% coverage only showed up with a waterfall stack \u2014 not any single source.\n\nThe data layer is the strategy. salesmake.agency #outbound #GTM"
+        },
+        "bluesky": {
+          "content": "Clay Blog tested 5 email finders on 2,354 prospects. No single tool hit 79% coverage \u2014 that only came from a waterfall stack. If your outbound data comes from one source, your reachable universe is smaller than you think.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Your email finder has a coverage ceiling \u2014 and you probably don't know where it is yet. \ud83d\udcca\n\nClay Blog tested 5 personal email finder tools across 2,354 real prospects and published the full breakdown.\n\n\u2192 No single tool reached 79% coverage on its own\n\u2192 That number only appeared when tools were run in a waterfall sequence\n\u2192 Provider order matters \u2014 not just provider choice\n\nIf your outbound data comes from one source, a chunk of your prospect list is invisible before you even start.\n\nFull test at Clay Blog (link in bio). Happy to talk through how you're approaching data enrichment for outbound \u2014 find us at salesmake.agency\n\n#outbound #salesprospecting #GTM #b2bsales #coldemail #salesops #leadgeneration #revenueoperations #outboundsales"
+        },
+        "pinterest": {
+          "content": "Discover how stacking personal email finder tools in a waterfall sequence reached 79% prospect coverage \u2014 something no single tool achieved alone. Clay Blog tested five tools across 2,354 prospects and published accuracy, coverage, and pricing data. A practical read for anyone structuring outbound data enrichment. If you're working on your outbound contact data setup, get in touch via the link.",
+          "title": "Email Finder Tools Tested: Why a Waterfall Stack Beats Any Single Source",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Best Personal Email Finder Tools 2026: Tested & Ranked - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/personal-email-finder",
+        "published": "2026-09-03T18:20:41+00:00",
+        "summary": "We tested 5 personal email finder tools across 2,354 prospects. See accuracy, coverage, and pricing data \u2014 plus the waterfall order that hit 79% coverage.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 4.8
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The real GTM engineering insight isn't the tooling \u2014 it's building systems that get smarter with use, not systems you constantly have to maintain by hand.",
+      "variants": {
+        "linkedin": {
+          "content": "Most outbound systems degrade over time. Data goes stale, sequences stop landing, what worked in Q1 quietly stops working by Q3.\n\nThe more interesting framing \u2014 which Osman Sheikhnureldin touches on in this piece from The GTM Engineer (Clay) \u2014 is building systems that compound. Not just automating a workflow, but designing it so each run produces signal that makes the next one sharper. That's a different engineering problem than 'how do I get this to work once.'\n\nThe hacky MVP instinct is useful early. The discipline is knowing when to stop iterating on the hack and start building the thing that learns.\n\nWorth a read if you're thinking about GTM infrastructure seriously: https://thegtme.com/p/top-1-clay-osman-sheikhnureldin\n\nIf you're working on cold outreach infrastructure and want a second set of eyes, feel free to reach out at https://salesmake.agency/contact\n\n#GTM #OutboundSales #SalesEngineering"
+        },
+        "twitter": {
+          "content": "Most outbound systems decay. The better goal: build one that gets sharper with each run, not one you're constantly patching.\n\nGood read on this from The GTM Engineer (Clay) \u2014 Osman Sheikhnureldin on compound GTM problems.\n\nHappy to help if you're thinking through outbound systems \u2192 salesmake.agency #GTM #Outbound"
+        },
+        "bluesky": {
+          "content": "Outbound systems usually degrade. The more useful goal is building one that compounds \u2014 each run produces signal for the next.\n\nOsman Sheikhnureldin's piece in The GTM Engineer (Clay) is a clean articulation of why that's a different engineering problem entirely.\n\nIf you're figuring out outbound infrastructure, feel free to get in touch.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Most outbound systems get worse over time \u2014 not better. \ud83d\udcc9\n\nThe interesting shift: designing a system that generates signal on every run, so the next sequence is already smarter than the last.\n\n\u2192 That's a different build problem than 'get this automation working'\n\u2192 It's also why so many GTM stacks plateau fast\n\u2192 The MVP instinct is fine early \u2014 the discipline is knowing when to graduate beyond it\n\nOsman Sheikhnureldin (Head of GTM Engineering at Clay) breaks this down well in The GTM Engineer \u2014 link is worth your time.\n\nIf you're building out cold outreach and want some input, the link in bio points to salesmake.agency \u2014 we're happy to hear what you're working on.\n\n#GTMEngineering #OutboundSales #SalesOps #ColdOutreach #B2BSales #RevenueOperations #SalesStack #GTMStrategy #SalesDevelopment"
+        },
+        "pinterest": {
+          "content": "Build outbound systems that compound \u2014 not ones that need constant patching. Osman Sheikhnureldin, Clay's Head of GTM Engineering, shares a sharp take on designing GTM infrastructure that produces useful signal with every run, rather than decaying over time. Read the full piece in The GTM Engineer (Clay): https://thegtme.com/p/top-1-clay-osman-sheikhnureldin. If you're building or refining a cold outreach system, reach out to SalesMake for a conversation.",
+          "title": "GTM Systems That Get Smarter Over Time",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Top 1%: Inside GTM Engineering at the GTM Company",
+        "url": "https://thegtme.com/p/top-1-clay-osman-sheikhnureldin",
+        "published": "2026-09-03T18:45:27+00:00",
+        "summary": "Osman Sheikhnureldin, Clay&#8217;s Head of GTM Engineering, on compound problems, hacky MVPs, and building systems that improve as they run.",
+        "source": "The GTM Engineer (Clay)",
+        "category": "gtm_engineering",
+        "score": 2.8
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
