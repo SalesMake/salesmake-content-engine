@@ -1,0 +1,115 @@
+{
+  "date": "2026-09-10T10:22:47.453076+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Building signal infrastructure before headcount is a deliberate choice, not a constraint \u2014 and most early-stage teams get the order backwards.",
+      "variants": {
+        "linkedin": {
+          "content": "Most early-stage teams hire sellers first, then scramble to build the systems around them. depthfirst flipped that.\n\nMark Hardy, RevOps team of one at the AI security startup, spent time wiring up signal-based triggers and data workflows before scaling the sales org. The result: reps joined a machine that was already working, not one they had to wait on.\n\nIt's a sequencing choice that rarely gets talked about openly. Signals infrastructure \u2014 knowing which accounts are showing intent, what data enrichment looks like at scale, how leads get routed \u2014 is usually treated as a \"nice to have once we're bigger.\" Hardy's approach treats it as a prerequisite.\n\nIf you're early-stage and deciding whether to hire your next SDR or clean up your GTM foundation first, this case study from the Clay Blog is worth a read: https://www.clay.com/blog/top-1-depthfirst-mark-hardy\n\nIf you're working through how to structure outbound before your next hiring push, feel free to reach out at https://salesmake.agency/contact"
+        },
+        "twitter": {
+          "content": "Most startups hire sellers, then build the system.\n\ndepthfirst built the signal infrastructure first \u2014 then scaled the team into it.\n\nWorth reading (Clay Blog). If you're figuring out outbound sequencing, salesmake.agency #GTM #RevOps"
+        },
+        "bluesky": {
+          "content": "Hire sellers before your GTM is ready and you're just burning ramp time. depthfirst built signal infrastructure first, then scaled headcount into it. Solid case study via Clay Blog. If you're thinking through outbound sequencing, happy to help.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Build the machine before you hire people to run it. \ud83d\udd27\n\nMark Hardy, solo RevOps at depthfirst, wired up signal-based workflows *before* scaling the sales team \u2014 not after.\n\n\u2192 Signals infrastructure first\n\u2192 Enrichment and routing already working\n\u2192 Reps join a system, not a blank slate\n\nIt's a sequencing call most early-stage teams get backwards. Full case study on the Clay Blog \u2014 link in bio.\n\nIf you're working on outbound infrastructure before your next growth push, we're easy to reach at salesmake.agency (link in bio).\n\n#revops #gtm #outboundsales #salesops #b2bsales #demandgeneration #salessystems #startupgrowth #coldoutreach"
+        },
+        "pinterest": {
+          "content": "Discover why building signal infrastructure before scaling your sales team leads to faster ramp and better outbound results. depthfirst's Mark Hardy shares how a RevOps-first approach shaped their GTM motion \u2014 case study via Clay Blog. Explore the sequencing logic and reach out to SalesMake if you need a hand thinking through your outbound setup.",
+          "title": "Build Signals Before Headcount: A RevOps-First GTM Approach",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Top 1%: How depthfirst Built RevOps on Signals Before Scaling Its Sales Team - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/top-1-depthfirst-mark-hardy",
+        "published": "2026-09-09T21:24:29+00:00",
+        "summary": "Mark Hardy, Head of Revenue Operations at depthfirst, on building the AI security startup\u2019s go-to-market systems as a RevOps team of one.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 6.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The real story isn't the time saved \u2014 it's that one engineer's research workflow became the whole team's repeatable playbook, which is exactly how good outbound infrastructure should work.",
+      "variants": {
+        "linkedin": {
+          "content": "One GTM engineer built a research workflow. Now the entire sales team runs it.\n\nThat's the part worth paying attention to in Clay's recent post about how they run cold outbound to enterprise accounts. Per the Clay Blog, Sabrina Glaser reduced account research from 85 minutes to five using four AI agents \u2014 but the more durable outcome is that her process became a shared company play.\n\nMost teams treat research as individual effort. Each rep has their own approach, their own shortcuts, their own definition of 'ready to reach out.' The result is inconsistent pipeline quality and no real way to improve systematically.\n\nWhen one person's rigorous workflow gets codified and handed to everyone, you stop relying on the best rep to carry the team. You raise the floor.\n\nThe question worth asking: which of your team's best outbound habits exist only in one person's head right now?\n\nFull breakdown from Clay Blog: https://www.clay.com/blog/cold-outbound-enterprise-accounts\n\nIf you're thinking through how to build more consistent outbound processes, feel free to reach out at https://salesmake.agency/contact\n\n#OutboundSales #GTM #SalesOperations"
+        },
+        "twitter": {
+          "content": "One GTM engineer cut 85min of research to 5. Then her whole team adopted the play.\n\nThat's the real win \u2014 not the time saved, but the workflow becoming infrastructure.\n\nVia Clay Blog. If you're working on outbound consistency \u2192 salesmake.agency\n\n#GTM #OutboundSales"
+        },
+        "bluesky": {
+          "content": "Per Clay Blog: one engineer cut enterprise account research from 85min to 5 using AI agents \u2014 then the whole sales team adopted her process.\n\nThe time saving is nice. The repeatability is the actual asset.\n\nIf you're working on outbound workflows, happy to help.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "85 minutes of research \u2192 5 minutes. One workflow \u2192 the whole team's playbook.\n\nClay's GTM team published how they run cold outbound to enterprise accounts, and the detail that stood out isn't the AI or the speed \u2014 it's that one engineer's process got adopted company-wide.\n\n\u2192 That's what outbound infrastructure actually looks like\n\u2192 Not every rep doing it differently\n\u2192 One solid system, shared and repeatable\n\nMost teams still treat research as individual effort. It doesn't have to be.\n\nFull piece from Clay Blog \u2014 link in bio (salesmake.agency).\n\nIf you're building out your outbound process, feel free to reach out \u2014 link in bio.\n\n#OutboundSales #GTM #SalesProcess #ColdOutreach #B2BSales #SalesOps #RevenueOperations #EnterpriseSales #SalesDevelopment"
+        },
+        "pinterest": {
+          "content": "Discover how Clay's GTM team turned one engineer's account research workflow \u2014 trimmed from 85 minutes to five using AI agents \u2014 into a repeatable play for the entire sales team. Per the Clay Blog, the real gain wasn't speed alone: it was codifying a rigorous process so every rep benefits, not just the best one. Apply this thinking to your own outbound motion: identify your strongest research habits, systematize them, and raise the floor across the team. Read the full breakdown on the Clay Blog, and get in touch at SalesMake if you're working on building more consistent cold outreach.",
+          "title": "How to Turn One Rep's Research Workflow Into a Team-Wide Outbound Play",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How Clay Runs Cold Outbound to Enterprise Accounts - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/cold-outbound-enterprise-accounts",
+        "published": "2026-09-09T17:26:51+00:00",
+        "summary": "Clay GTM engineer Sabrina Glaser cut 85 minutes of account research down to five with four agents, and now the entire sales team runs her play.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 3.6
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Clay's $115M raise is less about Clay and more about what it signals: data enrichment and AI-driven research are now considered core infrastructure, not a nice-to-have, for GTM teams.",
+      "variants": {
+        "linkedin": {
+          "content": "Clay just raised $115M at a $7.1B valuation. That's a software number, not a services number \u2014 and it says something worth sitting with.\n\nWhen 80% of the Forbes AI50 and names like Stripe, Anthropic, and Visa are all running on the same data enrichment and research layer, it means the tooling question has largely been settled. The harder question \u2014 and the one most outbound teams are still fumbling \u2014 is how you actually use that infrastructure to generate pipeline, not just cleaner spreadsheets.\n\nThe gap between 'we have Clay' and 'we have a working outbound motion' is where most effort is still being lost. Data quality is table stakes now. What you do with it is the differentiator.\n\nFull announcement via the Clay Blog: https://www.clay.com/blog/series-d\n\nIf you're thinking through how to turn your enrichment stack into actual outbound results, feel free to reach out at https://salesmake.agency/contact\n\n#OutboundSales #GTM #SalesOps"
+        },
+        "twitter": {
+          "content": "Clay raised $115M. Data enrichment is officially infrastructure.\n\nThe real gap now: teams with great data but no working outbound motion. That's where the work is.\n\n(Via Clay Blog) #GTM #Outbound\n\nIf you're working on that gap \u2014 salesmake.agency"
+        },
+        "bluesky": {
+          "content": "Clay's $115M raise confirms it: enrichment tooling is settled infrastructure. The open problem is turning clean data into actual pipeline. That part isn't solved by funding rounds. (Via Clay Blog)",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Clay just raised $115M. Here's what that actually means for outbound teams. \ud83d\udc47\n\n\u2192 Data enrichment is now table stakes, not a competitive edge\n\u2192 The Forbes AI50, Stripe, Anthropic, Visa \u2014 all using the same infrastructure layer\n\u2192 The gap that still matters: going from clean data to real pipeline\n\nTooling is largely solved. Execution is still the hard part.\n\nFull story from the Clay Blog \u2014 link in bio (salesmake.agency).\n\nHappy to help if you're figuring out how to build the outbound motion around your stack \u2014 link in bio.\n\n#OutboundSales #GTM #SalesDevelopment #ColdOutreach #RevenueOperations #SalesOps #B2BSales #LeadGeneration #SalesEnablement"
+        },
+        "pinterest": {
+          "content": "Explore what Clay's $115M Series D signals for B2B outbound teams \u2014 data enrichment has become core GTM infrastructure, and the real challenge is now building the outbound motion on top of it. Per the Clay Blog, 80% of the Forbes AI50 run on Clay alongside companies like Stripe and Anthropic. Clean data is table stakes. Execution is still the differentiator. Get in touch about your outbound strategy at the link.",
+          "title": "What Clay's $115M Raise Means for Outbound Teams",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Clay raises $115M to be the AI growth engine for every company - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/series-d",
+        "published": "2026-09-09T12:30:51+00:00",
+        "summary": "Clay has raised $115M in Series D funding at a $7.1B valuation, following 4x revenue growth in 2025. More than 17k customers, including 80% of the Forbes AI50 and companies like Anthropic, Google, OpenAI, Stripe, ElevenLabs, Visa, Siemens, and UPS, use Clay as their infrastructure for growth",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
