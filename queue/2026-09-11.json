@@ -1,0 +1,115 @@
+{
+  "date": "2026-09-11T10:24:02.467835+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Building signal-based RevOps before hiring salespeople is the move most startups get backwards \u2014 depthfirst's story is a useful case study in sequencing.",
+      "variants": {
+        "linkedin": {
+          "content": "Most early-stage teams hire salespeople first, then try to figure out the signals and systems later. depthfirst flipped that order.\n\nMark Hardy, RevOps team of one at the AI security startup, built the signal infrastructure before scaling the sales headcount. The Clay Blog write-up on how he did it is worth a read \u2014 not because it's a playbook you copy wholesale, but because the sequencing question it raises matters for almost every founder or GTM leader: are you adding reps to a system that's ready for them, or are you asking reps to compensate for a system that isn't?\n\nSignal-led outbound only works if someone owns the logic upstream. That's a RevOps job, not a sales job.\n\nFull piece via Clay Blog: https://www.clay.com/blog/top-1-depthfirst-mark-hardy\n\nIf you're thinking through how to structure outbound before (or while) building out your team, feel free to reach out at https://salesmake.agency/contact\n\n#RevOps #OutboundSales #GTM"
+        },
+        "twitter": {
+          "content": "Most startups hire reps, then bolt on the signal layer.\n\ndepthfirst did it the other way \u2014 built RevOps on signals before scaling sales. (Via Clay Blog)\n\nSequencing matters more than headcount.\n\nIf you're sorting out outbound structure: salesmake.agency #GTM #RevOps"
+        },
+        "bluesky": {
+          "content": "Hire reps before your signal layer is ready and you're just paying people to compensate for missing infrastructure.\n\ndepthfirst built RevOps on signals first, sales team second. Good read via Clay Blog.\n\nLink attached.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The startup instinct: hire salespeople fast.\nThe smarter move: build the signal layer first.\n\n\u2192 depthfirst's Mark Hardy ran RevOps as a team of one\n\u2192 Signals and systems in place before scaling sales headcount\n\u2192 The result: outbound with actual infrastructure behind it\n\nThe Clay Blog write-up on how he sequenced it is worth your time (link in bio for the piece, and for salesmake.agency if you want to talk outbound).\n\n#RevOps #OutboundSales #GTM #SalesOps #B2BSales #SignalBasedSelling #StartupGTM #SalesStrategy #ColdOutreach"
+        },
+        "pinterest": {
+          "content": "Discover how depthfirst's Head of RevOps built a signal-based go-to-market system before adding a single sales rep \u2014 a practical sequencing lesson for early-stage B2B teams. Featured on the Clay Blog. If you're working on your outbound motion and want a sounding board, get in touch at salesmake.agency/contact",
+          "title": "Build RevOps on Signals Before You Scale Your Sales Team",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Top 1%: How depthfirst Built RevOps on Signals Before Scaling Its Sales Team - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/top-1-depthfirst-mark-hardy",
+        "published": "2026-09-10T19:22:16+00:00",
+        "summary": "Mark Hardy, Head of Revenue Operations at depthfirst, on building the AI security startup\u2019s go-to-market systems as a RevOps team of one.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 6.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "23 examples is useful, but the real question is whether personalization is doing signal work or just decoration \u2014 and most teams can't tell the difference.",
+      "variants": {
+        "linkedin": {
+          "content": "Most AI personalization isn't personalization. It's decoration.\n\nReferencing someone's LinkedIn bio or recent post isn't a signal \u2014 it's a pattern. Prospects have seen it. The icebreaker that name-drops their company podcast or congratulates them on a funding round reads as automated the moment it lands, because everyone else is running the same Clay workflow with the same ChatGPT prompt.\n\nThe Clay Blog just published 23 AI email personalization examples worth scanning (link below). It's a genuinely useful reference. But what it can't tell you is whether your personalization is tied to a real reason to reach out \u2014 or just bolted on to make a template feel warmer. That distinction is where open rates stop mattering and replies start.\n\nBefore scaling a sequence, it's worth asking: does the personalized detail *justify* the outreach, or does it just acknowledge the recipient exists? The former earns a reply. The latter earns an unsubscribe.\n\nClay Blog: https://www.clay.com/blog/ai-email-personalization-examples\n\nIf you're thinking through your cold outreach approach and want a second perspective, feel free to reach out at https://salesmake.agency/contact\n\n#outbound #coldoutreach #GTM"
+        },
+        "twitter": {
+          "content": "AI personalization \u2260 mentioning someone's job title in line one.\n\nReal personalization ties the detail to a reason to reach out. Most sequences skip that step entirely.\n\n(Clay Blog has 23 examples worth reading \u2014 source: salesmake.agency)\n\n#coldoutreach #outbound"
+        },
+        "bluesky": {
+          "content": "AI email personalization is easy to add and easy to get wrong. The question isn't \"does it reference something real?\" \u2014 it's \"does that detail justify the outreach?\" Most sequences don't pass that test. Clay Blog's 23 examples are worth a look.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Personalization that doesn't earn the reply is just noise at scale. \ud83c\udfaf\n\nClay Blog put together 23 AI email personalization examples \u2014 solid reference if you're building outbound sequences.\n\nBut here's the filter worth applying before you ship any of them:\n\u2192 Does this detail explain *why* you're reaching out?\n\u2192 Or does it just prove you did your homework?\n\nOne starts a conversation. The other gets archived.\n\nIf you're working on cold outreach and want a sounding board, link in bio \u2192 salesmake.agency\n\n#coldoutreach #outboundsales #GTM #salesprospecting #emailoutreach #b2bsales #salesdevelopment #coldEmail"
+        },
+        "pinterest": {
+          "content": "Explore 23 AI email personalization examples from Clay Blog \u2014 then apply this filter before using any of them: does the personalized detail justify the outreach, or just decorate it? That single question separates sequences that get replies from ones that get ignored. Practical reference for anyone building cold outreach at scale. Get in touch about your outbound approach at the link.",
+          "title": "AI Email Personalization: The One Question to Ask Before You Scale",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "23 AI Email Personalization Examples for 2026 - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/ai-email-personalization-examples",
+        "published": "2026-09-10T19:41:12+00:00",
+        "summary": "Get 23 AI email personalization examples for cold outreach, with ChatGPT prompts you can run at scale in Clay. Learn how to write emails that actually convert.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 4.8
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Search operators are a free, underused research layer that sharpens list-building before you touch any paid tool \u2014 worth knowing before you automate anything.",
+      "variants": {
+        "linkedin": {
+          "content": "Most people jump to expensive data tools before squeezing what Google already gives them for free.\n\nSearch operators \u2014 site:, intitle:, inurl:, filetype: and a handful of others \u2014 let you slice the public web with surgical precision. Finding companies hiring for a specific role, job boards indexing your ICP, or directories you didn't know existed: all of that is available before you spend a dollar on enrichment. Clay's recent primer on the basics is a solid starting point if your team hasn't built this habit yet.\n\nThe real value isn't the individual operators \u2014 it's treating Google as a structured data source rather than a search box. That mental shift changes how you build prospect lists from scratch.\n\nAre search operators part of your team's research stack, or something that still lives in someone's personal toolkit?\n\nFull guide from Clay Blog: https://www.clay.com/blog/basics-of-google-search-operators\n\nIf you're working on improving how your team researches and builds outbound lists, feel free to reach out at https://salesmake.agency/contact\n\n#Prospecting #OutboundSales #GTM"
+        },
+        "twitter": {
+          "content": "Google search operators are free list-building infrastructure most teams ignore.\n\nsite:, intitle:, filetype: \u2014 used right, they surface ICP companies before you touch any paid tool.\n\nGood primer on this from Clay Blog. For outbound help: salesmake.agency\n\n#Prospecting #Outbound"
+        },
+        "bluesky": {
+          "content": "Search operators turn Google into a structured prospecting layer \u2014 free, fast, and most teams barely use them. Clay Blog has a clean breakdown of the basics worth bookmarking.\n\nHappy to help if you're thinking through your outbound research process.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Google is a free prospecting database. Most outbound teams barely scratch the surface of what search operators unlock.\n\n\u2192 site: finds prospects on specific platforms\n\u2192 intitle: surfaces niche directories and lists\n\u2192 filetype: pulls spreadsheets and docs hiding in plain sight\n\u2192 Combine them and you have a targeting layer before you touch any paid tool\n\nClay Blog published a solid basics guide \u2014 link in bio alongside salesmake.agency if you want to dig in.\n\nIf you're building out your outbound research process, we're easy to reach \u2014 link in bio.\n\n#OutboundSales #Prospecting #SalesOps #GTM #ListBuilding #B2BSales #SalesDevelopment #ColdOutreach #RevenueOperations"
+        },
+        "pinterest": {
+          "content": "Master Google search operators to build sharper B2B prospect lists without expensive tools. Operators like site:, intitle:, inurl:, and filetype: let sales and GTM teams find ICP companies, relevant directories, and hidden data sources directly from Google. Clay Blog covers the fundamentals in a practical guide worth saving. Get in touch at SalesMake if you need support with cold outreach or outbound list-building strategy.",
+          "title": "Google Search Operators for B2B Prospecting: Practical Basics",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Basics of Google Search Operators: 2026 Guide - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/basics-of-google-search-operators",
+        "published": "2026-09-10T19:23:51+00:00",
+        "summary": "Learn the basics of Google Search Operators and how to use them in Clay for prospecting, list building, and company research. See how it works.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 3.6
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
