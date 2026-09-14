@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-14T11:26:45.075838+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "The SDR vs. agent distinction matters less than understanding what autonomy level your pipeline can actually absorb right now.",
+      "variants": {
+        "linkedin": {
+          "content": "The label 'AI SDR' and 'AI sales agent' are being used almost interchangeably right now \u2014 but the difference has real buying implications.\n\nThe short version: an AI SDR automates discrete tasks (sequencing, personalization, follow-up). An AI agent orchestrates the whole workflow \u2014 deciding what happens next, not just executing a step you defined. That scope of autonomy changes how you think about deliverability controls, CRM hygiene, and where a human needs to stay in the loop.\n\nBefore evaluating any of these tools, the more useful question is: what level of autonomy does your current pipeline setup actually support? Most teams buy the agent and run it like an SDR tool \u2014 which wastes the capability and sometimes creates blind spots in reporting.\n\nInstantly Blog put together a clear breakdown of both categories mapped to throughput limits and pipeline tracking: https://instantly.ai/blog/ai-sales-agent-vs-ai-sdr/\n\nIf you're figuring out where AI tooling fits into your outbound motion, feel free to reach out at https://salesmake.agency/contact \u2014 happy to think through it with you.\n\n#OutboundSales #SalesDevelopment"
+        },
+        "twitter": {
+          "content": "\"AI SDR\" vs \"AI sales agent\" \u2014 they're not the same category.\n\nSDR = automates steps. Agent = decides what happens next.\n\nBuying the wrong one for your pipeline stage is a common miss. (Source: Instantly Blog)\n\nIf you're sorting through this, salesmake.agency #OutboundSales #AISales"
+        },
+        "bluesky": {
+          "content": "AI SDR automates steps. AI agent decides what happens next \u2014 full workflow orchestration. The autonomy gap matters when you're buying. Good breakdown of both categories from Instantly Blog. If you're working through where this fits your outbound setup, get in touch.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "AI SDR vs AI sales agent \u2014 not the same thing, and buying the wrong one for your pipeline can create real blind spots. \u2b07\ufe0f\n\n\u2192 AI SDR: automates discrete tasks (sequences, follow-ups, personalization)\n\u2192 AI agent: orchestrates the full workflow end to end \u2014 it decides what happens next\n\u2192 The autonomy level you choose changes your deliverability controls, CRM hygiene, and where humans stay in the loop\n\nInstantly Blog mapped both categories clearly \u2014 worth a read if you're evaluating tools right now.\n\nIf you need help thinking through your outbound setup, link in bio \u2014 salesmake.agency\n\n#OutboundSales #SalesDevelopment #AIDR #SalesAutomation #ColdOutreach #GTM #SalesLeadership #B2BSales #SalesTools"
+        },
+        "pinterest": {
+          "content": "Understand the real difference between an AI SDR and an AI sales agent before buying either. AI SDRs automate tasks; AI agents orchestrate entire workflows autonomously \u2014 and that distinction affects deliverability, pipeline tracking, and where your team stays in the loop. Instantly Blog maps both categories in detail: https://instantly.ai/blog/ai-sales-agent-vs-ai-sdr/ \u2014 and if you're working on your outbound motion, reach out via SalesMake.",
+          "title": "AI SDR vs AI Sales Agent: What Sales Leaders Need to Know",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "AI sales agent vs AI SDR: what's the difference? (2026 category guide for sales leaders)",
+        "url": "https://instantly.ai/blog/ai-sales-agent-vs-ai-sdr/",
+        "published": "2026-09-14T08:40:51+00:00",
+        "summary": "AI sales agent vs AI SDR: scope of autonomy separates them. SDRs automate tasks, agents orchestrate full workflows end to end. This guide maps both categories to deliverability controls, throughput limits, and pipeline tracking so you can evaluate tools under the correct label.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 4.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "AI research agents are most valuable not for the data they find, but for the decision they eliminate \u2014 whether to spend an hour on a prospect before you even know if they're worth a call.",
+      "variants": {
+        "linkedin": {
+          "content": "The real win with AI research agents isn't speed. It's removing the judgment call nobody talks about.\n\nBefore any outbound rep writes a first touch, there's an invisible tax: deciding whether a prospect is even worth researching. That 30-second gut check, repeated across a list of 200 accounts, becomes hours of quiet friction that never shows up in a pipeline report.\n\nAI agents that automate firmographic and intent data gathering don't just compress research time \u2014 they lower the threshold for what gets researched at all. More accounts get a proper look. Fewer slip through because someone didn't have bandwidth on a Tuesday afternoon.\n\nFor agencies running outbound across multiple client verticals, this compounds fast. The Instantly Blog has a practical breakdown of how these agents actually work in practice: https://instantly.ai/blog/ai-sales-agents-b2b-company-research/\n\nAre you using AI research in your prospecting workflow, or is it still a manual step?\n\nIf you're working on outbound process and want a second set of eyes, feel free to reach out at https://salesmake.agency/contact\n\n#outbound #B2Bsales #GTM"
+        },
+        "twitter": {
+          "content": "AI research agents don't just save time \u2014 they lower the bar for which accounts even get looked at. That quiet shift matters more than the speed gains.\n\nGood breakdown on this from Instantly Blog. salesmake.agency\n\n#outbound #B2B"
+        },
+        "bluesky": {
+          "content": "AI research agents make the 'is this worth my time?' question cheaper to answer. More accounts get evaluated, fewer fall through. Instantly Blog breaks down how it works in practice. Happy to chat outbound if it's relevant.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The hidden cost in outbound research isn't the research itself \u2014 it's deciding what's worth researching.\n\n\u2192 AI sales agents lower that threshold\n\u2192 More accounts get a proper look\n\u2192 Less slips through due to bandwidth\n\u2192 Compounds fast across multiple client accounts\n\nInstantly Blog has a solid walkthrough of how AI agents handle B2B company research in practice \u2014 worth a read if you run outbound at any volume.\n\nIf you need help thinking through your outbound process, link in bio \u2014 salesmake.agency\n\n#outbound #b2bsales #salesprospecting #gtm #coldoutreach #salesops #outboundsales #b2bmarketing #salesagency"
+        },
+        "pinterest": {
+          "content": "Discover how AI sales agents change B2B company research for outbound teams \u2014 not just by saving hours, but by making it practical to evaluate more accounts than any manual process allows. Instantly Blog covers the mechanics in detail. If you're exploring how to structure outbound research for better coverage, reach out via the link.",
+          "title": "AI Research Agents: What They Actually Change for Outbound Teams",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "AI sales agents for B2B company research: the complete guide for outbound teams",
+        "url": "https://instantly.ai/blog/ai-sales-agents-b2b-company-research/",
+        "published": "2026-09-14T08:41:29+00:00",
+        "summary": "AI sales agents automate B2B company research, cutting manual prospecting from hours to minutes with firmographic and intent data. For agencies managing dozens of client accounts, this time saving compounds fast and can mean the difference between launching a campaign this week or next.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 3.0
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
