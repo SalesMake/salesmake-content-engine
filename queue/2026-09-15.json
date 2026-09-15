@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-15T10:49:21.520054+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "The real story isn't the time saved \u2014 it's that one engineer's research workflow became the entire sales team's standard play, which is how good GTM tooling should work.",
+      "variants": {
+        "linkedin": {
+          "content": "85 minutes of account research down to five. That's the headline from Clay's own GTM team, per the Clay Blog (https://www.clay.com/blog/cold-outbound-enterprise-accounts).\n\nBut the more interesting detail is what happened after: a workflow one person built got adopted across the whole sales team. That's the part worth paying attention to.\n\nMost outbound tooling discussions stay at the individual level \u2014 save time, move faster, send more. The actual leverage is when a single well-designed process becomes the floor for everyone. That only happens when the workflow is legible enough for others to pick up without hand-holding.\n\nIf you're building out enterprise outbound right now, the question isn't just \"can we cut research time?\" It's \"can we build something the whole team will actually run consistently?\"\n\nIf you're working on that problem and want a second set of eyes, feel free to reach out \u2014 https://salesmake.agency/contact\n\n#outbound #GTM #salesops"
+        },
+        "twitter": {
+          "content": "One GTM engineer cut account research from 85 min to 5. Then the whole sales team adopted her workflow.\n\nThe time saving is nice. The repeatability is the point.\n\n(via Clay Blog) #outbound #GTM\n\nWorking on enterprise outbound? salesmake.agency"
+        },
+        "bluesky": {
+          "content": "Per the Clay Blog: one engineer's 5-minute research workflow replaced an 85-minute manual process \u2014 then the whole sales team picked it up.\n\nThe leverage isn't speed. It's when a solo build becomes the team standard.\n\nHappy to help if you're thinking through enterprise outbound.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "85 minutes of account research \u2192 5 minutes. One workflow. Adopted by the whole team.\n\nThat's what Clay's own GTM team pulled off, per the Clay Blog.\n\n\u2192 The time saving gets the attention\n\u2192 The repeatability is what actually scales\n\u2192 One person's system becoming the team standard \u2014 that's the real win\n\nMost outbound tooling conversations stay at the individual level. The compounding happens when a well-designed process becomes the floor, not the exception.\n\nIf you're figuring out how to make your outbound more consistent across the team, link in bio \u2014 salesmake.agency\n\n#outbound #coldoutbound #GTM #salesops #outboundsales #enterprisesales #salesprocess #b2bsales #revops #salestips"
+        },
+        "pinterest": {
+          "content": "Discover how Clay's GTM team reduced enterprise account research from 85 minutes to five \u2014 and turned one engineer's workflow into a team-wide standard. Per the Clay Blog (clay.com/blog/cold-outbound-enterprise-accounts), the real value wasn't just speed: it was building something repeatable enough for an entire sales team to adopt without hand-holding. If you're scaling cold outbound to enterprise accounts and want help thinking through the process, reach out via the link.",
+          "title": "How One Outbound Workflow Became a Team Standard",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How Clay Runs Cold Outbound to Enterprise Accounts - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/cold-outbound-enterprise-accounts",
+        "published": "2026-09-14T22:28:36+00:00",
+        "summary": "Clay GTM engineer Sabrina Glaser cut 85 minutes of account research down to five with four agents, and now the entire sales team runs her play.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 3.6
+      }
+    },
+    {
+      "usable": true,
+      "angle": "AI qualification tools save time, but without clean criteria and honest ICP definitions feeding them, you're just automating noise faster.",
+      "variants": {
+        "linkedin": {
+          "content": "AI lead qualification sounds like an easy win. Feed in your list, let the model score and route, move on.\n\nThe part that gets skipped: the criteria you give the AI reflect whatever assumptions were already baked into your ICP definition. If those are fuzzy \u2014 industry too broad, company size too wide, buying signals undefined \u2014 the automation just processes bad judgment at scale. Garbage in, garbage out hasn't changed because the middle step is now a language model.\n\nBefore plugging any AI qualification layer into your stack, it's worth spending time on the upstream question: what does a genuinely strong prospect actually look like for your offer, right now? That answer should be specific enough to feel uncomfortable. Once it is, automation becomes genuinely useful.\n\nGood read on the mechanics from the Instantly Blog: https://instantly.ai/blog/how-to-automate-lead-qualification-with-ai/\n\nIf you're working through how to tighten your qualification criteria or outbound process, feel free to reach out at https://salesmake.agency/contact.\n\n#outbound #salesops"
+        },
+        "twitter": {
+          "content": "AI qualification tools are only as good as the ICP definition feeding them.\n\nAutomate vague criteria \u2192 faster noise, not better pipeline.\n\nFix the inputs first, then add the tooling. (Via Instantly Blog)\n\n#outbound\n\nHappy to help if you're figuring out the criteria side \u2014 salesmake.agency"
+        },
+        "bluesky": {
+          "content": "AI lead qualification is worth exploring \u2014 but it amplifies whatever ICP assumptions you started with, good or bad. Worth reading the Instantly Blog breakdown, then asking whether your scoring criteria are actually tight enough to hand to a model.\n\nInstantly Blog: https://instantly.ai/blog/how-to-automate-lead-qualification-with-ai/",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Automating lead qualification with AI \u2014 useful, but only if the inputs are solid.\n\n\u2192 AI scores leads based on criteria YOU define\n\u2192 Fuzzy ICP = automated noise at scale\n\u2192 The real work is upstream: knowing what a strong prospect looks like before any tool touches the list\n\nInstantly Blog has a solid walkthrough on the mechanics (link in bio for their piece + our contact).\n\nIf you're sorting out your qualification logic or outbound approach, we're easy to reach \u2014 link in bio or salesmake.agency.\n\n#outbound #b2bsales #leadgeneration #salesops #coldoutreach #gtm #prospecting #salesdevelopment #demandgeneration"
+        },
+        "pinterest": {
+          "content": "Automate lead qualification thoughtfully \u2014 AI scoring tools route prospects faster, but they inherit every assumption in your ICP definition. Before adding an AI layer, sharpen your criteria: specific industry, company size, buying signals that actually correlate with closed deals. The Instantly Blog covers the mechanics of AI qualification and routing well. Read it, then pressure-test whether your inputs are specific enough to hand to a model. For help thinking through outbound qualification criteria or cold outreach strategy, get in touch with SalesMake.",
+          "title": "AI Lead Qualification: Fix the Criteria Before You Automate",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How to Automate Lead Qualification With AI",
+        "url": "https://instantly.ai/blog/how-to-automate-lead-qualification-with-ai/",
+        "published": "2026-09-14T14:48:26+00:00",
+        "summary": "Learn how to automate lead qualification with AI, prioritize stronger prospects and use AI sales agents to route leads through your sales process.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 2.0
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
