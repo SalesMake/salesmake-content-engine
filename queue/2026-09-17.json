@@ -1,0 +1,115 @@
+{
+  "date": "2026-09-17T10:47:08.197447+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Building signal infrastructure before headcount is the move most early-stage GTM teams get backwards \u2014 depthfirst's RevOps-of-one story is a useful case study in sequencing.",
+      "variants": {
+        "linkedin": {
+          "content": "Most early-stage teams hire sellers first, then scramble to figure out what signals actually matter. depthfirst did it the other way around.\n\nMark Hardy, their sole RevOps person, built the signal and data layer before the sales team scaled. The result: reps joined a system that already told them who to talk to and why \u2014 rather than inheriting a blank slate and a quota.\n\nThis sequencing matters more than the tooling. It doesn't take a big team to do it. It takes someone willing to sit with the uncomfortable question: \"What would we need to know about a prospect before we'd feel confident reaching out?\" \u2014 and then build backward from that answer.\n\nWorth a read if you're thinking about outbound infrastructure at an early stage: Clay Blog \u2014 https://www.clay.com/blog/top-1-depthfirst-mark-hardy\n\nIf you're working through how to structure your outbound motion before (or during) a hiring push, feel free to reach out at https://salesmake.agency/contact."
+        },
+        "twitter": {
+          "content": "Most early teams hire reps first, then figure out signals. depthfirst flipped it \u2014 RevOps-of-one built the data layer before scaling sales. Sequencing > headcount. (Via Clay Blog)\n\nThinking about outbound structure? salesmake.agency #GTM #RevOps"
+        },
+        "bluesky": {
+          "content": "Hire reps before you know your signals, and you're just giving people a quota and a guess. depthfirst built the data layer first. Smart sequencing. Via Clay Blog.\n\nHappy to help if you're sorting out outbound infrastructure early on.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Build the signal layer before you scale the sales team. \ud83c\udfaf\n\nMark Hardy ran RevOps solo at AI security startup depthfirst \u2014 and his approach was to get the data infrastructure right first, so that when reps arrived, they knew exactly who to call and why.\n\nMost early-stage teams do this in reverse. Worth rethinking the order.\n\n\u2192 Full story on the Clay Blog (link in bio)\n\u2192 If you're figuring out your outbound setup, reach out at salesmake.agency (link in bio)\n\n#RevOps #GTM #OutboundSales #SalesOps #B2BSales #SignalBasedSelling #EarlyStage #SalesStrategy #GotoMarket"
+        },
+        "pinterest": {
+          "content": "Discover how depthfirst's solo RevOps hire built a signal-based outbound system before scaling the sales team \u2014 a practical GTM sequencing lesson for early-stage B2B startups. Read the full case study on the Clay Blog. If you're mapping out your outbound approach, connect with SalesMake at salesmake.agency/contact.",
+          "title": "Build Signals Before Headcount: A RevOps-of-One GTM Case Study",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Top 1%: How depthfirst Built RevOps on Signals Before Scaling Its Sales Team - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/top-1-depthfirst-mark-hardy",
+        "published": "2026-09-16T13:18:27+00:00",
+        "summary": "Mark Hardy, Head of Revenue Operations at depthfirst, on building the AI security startup\u2019s go-to-market systems as a RevOps team of one.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 6.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The Clay vs 6sense choice is less about features and more about whether your team needs predictive scoring or flexible data enrichment \u2014 and most outbound teams haven't asked that question clearly enough before buying.",
+      "variants": {
+        "linkedin": {
+          "content": "Most ABM platform decisions get made backwards.\n\nTeams see a vendor comparison, latch onto a feature list, and pick the tool that sounds most sophisticated. The real question \u2014 what does your outbound motion actually need right now \u2014 comes later, usually after an expensive contract is signed.\n\nThe Clay Blog published a solid breakdown comparing Clay and 6sense across intent signals, account scoring, orchestration, and pricing: https://www.clay.com/blog/clay-vs-6sense. Worth a read. The honest takeaway for most outbound teams: 6sense is built around predictive intent and ad targeting at scale; Clay is built around flexible data enrichment and workflow automation. Those are different bets on where your bottleneck actually lives. If your SDRs are drowning in unqualified accounts, a scoring layer might not fix it if the underlying data feeding that score is thin. And if you already have strong signal, you may not need another enrichment layer \u2014 you need orchestration.\n\nBefore the next renewal conversation or platform evaluation: can you name the single biggest friction point in your current outbound process? The answer usually tells you which category of tool you need.\n\n#GTM #OutboundSales #ABM\n\nIf you're working through how to structure your outbound stack and want a second opinion, feel free to reach out at https://salesmake.agency/contact."
+        },
+        "twitter": {
+          "content": "Clay vs 6sense isn't a features race \u2014 it's a question of where your outbound is actually stuck.\n\nScoring layer or enrichment layer? Most teams buy the wrong one first.\n\n(Via Clay Blog) #GTM #Outbound\n\nIf this sounds familiar \u2014 salesmake.agency"
+        },
+        "bluesky": {
+          "content": "Clay vs 6sense: the real split isn't features, it's philosophy. One bets on predictive scoring; the other on flexible enrichment. Most outbound teams haven't named their actual bottleneck before picking.\n\nGood breakdown via Clay Blog.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Picking an ABM platform without naming your bottleneck first is how you end up with an expensive tool you barely use. \ud83c\udfaf\n\nThe Clay Blog breaks down Clay vs 6sense across intent signals, scoring, enrichment, and orchestration \u2014 and the differences matter a lot depending on where your outbound is actually stuck.\n\n\u2192 6sense: predictive intent + ad targeting at scale\n\u2192 Clay: flexible data enrichment + workflow automation\n\u2192 Neither fixes unclear ICP or weak messaging\n\u2192 The right choice depends on YOUR friction point \u2014 not feature counts\n\nLink in bio to find us (salesmake.agency) \u2014 and the article is worth finding too.\n\nHappy to help if you're trying to figure out which outbound tools actually fit your current stage \u2014 link in bio.\n\n#OutboundSales #ABM #GTM #SalesDevelopment #B2BSales #SalesStack #LeadGeneration #ColdOutreach #RevenueOperations"
+        },
+        "pinterest": {
+          "content": "Compare Clay vs 6sense before your next ABM platform decision \u2014 this Clay Blog breakdown covers intent signals, account scoring, data enrichment, orchestration, and pricing. The key distinction most teams miss: 6sense is built around predictive scoring and ad targeting; Clay is built around flexible enrichment and workflow automation. Identify your outbound bottleneck first, then choose. If you need help thinking through your outbound approach, reach out via the link.",
+          "title": "Clay vs 6sense: Pick the ABM Tool That Fits Your Actual Outbound Bottleneck",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Clay vs 6sense: Choosing the Right Platform for ABM Campaigns - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/clay-vs-6sense",
+        "published": "2026-09-16T15:52:07+00:00",
+        "summary": "Compare Clay vs 6sense on intent signals, data sources, account scoring, orchestration, ad targeting, pricing, and implementation.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 4.8
+      }
+    },
+    {
+      "usable": true,
+      "angle": "First-party signals are valuable not because they're exotic, but because most teams never systematically surface what's already sitting in their CRM \u2014 and that gap is the real competitive edge.",
+      "variants": {
+        "linkedin": {
+          "content": "Most teams are out shopping for better data when the edge is already in their own CRM.\n\nA piece on the Clay Blog featuring Verkada's Cody Leovic makes a point worth sitting with: call transcripts, reply threads, and rep notes contain intent signals that no data vendor can replicate \u2014 because they came from your specific conversations, with your specific buyers.\n\nThe catch is that almost nobody builds a process to pull those signals back into targeting and sequencing. They stay buried in Salesforce fields nobody queries, or in Gong recordings nobody revisits. The result is that teams keep buying third-party signals to approximate something they already own in first-party form.\n\nThe practical question isn't \"what signal should we add?\" It's \"what are we already capturing that we've never operationalised?\"\n\nWorth a read if your team is thinking about signal-led outbound: https://www.clay.com/blog/how-first-party-signals-become-your-gtm-moat\n\nIf you're working through how to turn first-party data into repeatable outbound motion, feel free to reach out at https://salesmake.agency/contact\n\n#OutboundSales #GTM #SalesStrategy"
+        },
+        "twitter": {
+          "content": "Your CRM notes, call transcripts, and reply threads are signals no vendor can sell your competitor.\n\nMost teams never surface them. That's the gap.\n\nGood read on this from Clay Blog \u2014 found via salesmake.agency\n\n#GTM #OutboundSales"
+        },
+        "bluesky": {
+          "content": "The signals worth acting on are often already in your CRM \u2014 buried in notes and transcripts nobody queries. Clay Blog has a good piece on why first-party data beats rented signals for outbound. If you need help thinking through this, salesmake.agency/contact is open.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The GTM edge isn't always a new tool or a better data vendor.\n\nSometimes it's what's already sitting in your CRM that nobody's querying.\n\n\u2192 Call transcripts with real objections\n\u2192 Reply threads showing actual timing\n\u2192 Rep notes capturing context no enrichment tool can fake\n\nThe Clay Blog published a solid take on why first-party signals build a moat that rented data simply can't match \u2014 link in bio to read it, and to find us at salesmake.agency if you want to talk outbound.\n\n#OutboundSales #GTM #SalesOps #ColdOutreach #B2BSales #SalesSignals #RevenueOps #SalesDevelopment #GTMStrategy"
+        },
+        "pinterest": {
+          "content": "Discover why first-party data \u2014 CRM notes, call transcripts, reply threads \u2014 gives outbound teams a repeatable edge that purchased signals can't replicate. The Clay Blog breaks down the thinking behind signal-led GTM with a practical lens from Verkada's sales team. Read the full piece, then get in touch via the link if you're building a more signal-driven outbound approach.",
+          "title": "First-Party Signals: The Outbound Edge Already in Your CRM",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "The GTM Signal Your Competitors Can't Buy - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/how-first-party-signals-become-your-gtm-moat",
+        "published": "2026-09-16T23:30:37+00:00",
+        "summary": "Verkada's Cody Leovic explains why first-party data \u2014 CRM notes, replies, call transcripts \u2014 builds a GTM edge that rented signals can't match.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 3.6
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
