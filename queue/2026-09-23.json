@@ -1,0 +1,115 @@
+{
+  "date": "2026-09-23T10:35:30.307307+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Speed-to-lead isn't a nice-to-have \u2014 most companies are simply invisible to their own inbound pipeline, and that's a solvable process problem.",
+      "variants": {
+        "linkedin": {
+          "content": "Someone filled out your demo form. Then waited. Then moved on.\n\nClay Blog ran an experiment that's hard to ignore: their team submitted 6,346 B2B demo and contact forms and tracked response times. The results show most companies either replied slowly, inconsistently, or not at all. The full breakdown is worth reading: https://www.clay.com/blog/claygent-experiment-speed-to-lead\n\nThe uncomfortable truth is that most outbound teams spend real energy getting someone to raise their hand \u2014 and then drop them at the moment of highest intent. A form fill from a qualified prospect is the warmest signal you'll generate. Treating it like a ticket in a queue is a costly habit.\n\nIf you're doing outbound, speed-to-lead on inbound signals deserves the same rigor you put into cold sequences. Same prospect, much shorter path. Are your response workflows actually keeping pace with buyer attention spans?\n\nIf you're working on outbound or inbound follow-up and want a second perspective, feel free to reach out at https://salesmake.agency/contact"
+        },
+        "twitter": {
+          "content": "Per Clay Blog: 6,346 demo forms filled out. Most companies never replied.\n\nYou work hard to get a prospect to raise their hand. Don't let a slow follow-up process undo it.\n\nSpeed-to-lead is a process problem \u2014 and it's fixable. #outbound #GTM\n\nHappy to think through it: salesmake.agency"
+        },
+        "bluesky": {
+          "content": "Clay Blog submitted 6,346 demo forms and tracked who replied \u2014 and how fast. Most didn't.\n\nIf you do outbound, warm inbound signals deserve the same discipline as cold sequences. Speed-to-lead is a process gap, not a motivation gap.\n\n#GTM #outbound",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "You got them to raise their hand. Then no one answered the door. \ud83d\udeaa\n\nClay Blog filled out 6,346 B2B demo forms and measured response times. Most companies were slow \u2014 or silent.\n\n\u2192 Inbound intent is the warmest signal in your pipeline\n\u2192 Slow follow-up erases the work your outbound already did\n\u2192 Speed-to-lead is a process issue, not a people issue\n\nWorth reading the full experiment (link in bio \u2014 also at salesmake.agency).\n\nIf you're thinking through how outbound and inbound follow-up fit together, feel free to reach out \u2014 link in bio.\n\n#outbound #salesprocess #GTM #b2bsales #leadresponse #salesoperations #demandgeneration #coldoutreach #salestips #revops"
+        },
+        "pinterest": {
+          "content": "Discover what happens when 6,346 B2B demo forms go unanswered \u2014 Clay Blog's speed-to-lead experiment reveals a costly gap most sales teams overlook. If your outbound motion generates inbound signals, your follow-up process needs to match buyer attention spans. Read the original research at Clay Blog, then visit SalesMake if you'd like to talk through your outbound approach.",
+          "title": "Speed-to-Lead: What 6,346 Demo Form Submissions Reveal About B2B Follow-Up",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "We asked 6,346 companies for a demo. Most never wrote back. - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/claygent-experiment-speed-to-lead",
+        "published": "2026-09-22T19:41:30+00:00",
+        "summary": "A team of Claygents filled out thousands of B2B demo and contact forms and timed how long it took anyone to respond.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    },
+    {
+      "usable": true,
+      "angle": "MCP matters for outbound not because AI can write messages, but because it can read live campaign state before acting \u2014 closing the gap between automation and actual context-awareness.",
+      "variants": {
+        "linkedin": {
+          "content": "Most AI outbound tools are still operating blind.\n\nThey can draft a follow-up, but they don't know whether the connection request was accepted. They can personalize a message, but they can't check where the prospect actually sits in your sequence right now. That gap \u2014 between what the model knows and what's actually happening in your campaign \u2014 is where bad outreach slips through.\n\nThat's the problem MCP (Model Context Protocol) is designed to close. Instead of an AI agent working from static inputs, MCP lets it query live campaign data before taking any action. The Expandi Blog has a clear write-up on what this looks like in practice for LinkedIn outbound: https://expandi.io/blog/mcp-for-outbound/\n\nThe honest question for anyone running outbound at scale: how much of your automation is acting on stale context? Because the tooling is catching up to that problem faster than most teams realize.\n\n#outbound #salestech\n\nIf you're thinking through how to tighten up your outreach stack, feel free to reach out at https://salesmake.agency/contact"
+        },
+        "twitter": {
+          "content": "AI that writes your outreach but can't check if the connection was accepted is still flying blind.\n\nMCP fixes that \u2014 live campaign context, not just static inputs. Worth reading on the Expandi Blog.\n\n#outbound #GTM\n\nBuilding out cold outreach? salesmake.agency"
+        },
+        "bluesky": {
+          "content": "The real MCP unlock for outbound: an agent that reads live campaign state before acting, not just one that drafts messages. Expandi Blog breaks down why that distinction matters. Worth a look if you're scaling LinkedIn outreach.\n\nhttps://expandi.io/blog/mcp-for-outbound/",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Your AI outbound tool can write the message. But does it know if the connection request was even accepted yet? \u2b07\ufe0f\n\nThat's the gap MCP (Model Context Protocol) is closing for outbound teams \u2014 giving AI agents access to live campaign context before they act, not just static prompts.\n\n\u2192 The Expandi Blog just published a solid breakdown of what this means for LinkedIn outreach in practice\n\u2192 The short version: automation without live state-awareness is still guesswork\n\u2192 The tools are catching up to this problem fast\n\nWorth reading if you're thinking about where AI fits in your actual sequence logic \u2014 link in bio (salesmake.agency).\n\nIf you're working on your outbound setup, happy to help \u2014 link in bio.\n\n#outbound #b2bsales #linkedinoutreach #salestech #gtm #coldoutreach #outboundsales #salesautomation #prospecting"
+        },
+        "pinterest": {
+          "content": "Understand MCP for outbound sales: the Model Context Protocol gives AI agents access to live campaign data \u2014 like whether a connection request was accepted \u2014 before taking action. This moves outbound automation from static prompts to real context-awareness. The Expandi Blog explains how it applies to LinkedIn outreach at scale. Read the breakdown and explore smarter outbound approaches. Reach out via the link if you need help thinking through cold outreach strategy.",
+          "title": "What MCP Means for Outbound Sales Automation",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "What Is MCP, and Why Does Your Outbound Stack Need One?",
+        "url": "https://expandi.io/blog/mcp-for-outbound/",
+        "published": "2026-09-22T21:17:46+00:00",
+        "summary": "MCP for outbound is the difference between an AI agent that writes your LinkedIn message and one that can check whether the connection request was accepted before it sends.&#160; On September 2, we opened the Expandi MCP beta, and the hard part of building it was deciding which live campaign context an agent needs that [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 2.2
+      }
+    },
+    {
+      "usable": true,
+      "angle": "LinkedIn's fuzzy connection limits push practitioners toward quality-over-volume outreach \u2014 and most people are burning their weekly quota on the wrong prospects.",
+      "variants": {
+        "linkedin": {
+          "content": "LinkedIn doesn't publish a hard rule, but the working consensus \u2014 covered well by Expandi Blog \u2014 is to stay under roughly 100 connection requests per week to avoid restrictions.\n\nThe limit itself isn't the real problem. The real problem is what most people fill that quota with: generic invites to anyone who vaguely fits a persona, sent in bulk, with no context. You've spent a scarce resource and created noise instead of a conversation.\n\nA tighter weekly allowance is actually a forcing function: if you can only reach ~100 people, you should be able to say exactly why each one made the list. Relevance, timing, a specific reason to connect \u2014 those decisions belong before you hit send, not after you've burned through your allocation.\n\nAre you treating your weekly invite budget like a limited resource, or burning through it and hoping something sticks?\n\nhttps://expandi.io/blog/linkedin-connections-limit/\n\nIf you're thinking through how to build a tighter LinkedIn outreach approach, feel free to reach out at https://salesmake.agency/contact"
+        },
+        "twitter": {
+          "content": "LinkedIn's ~100/week connection limit isn't the constraint \u2014 burning that quota on untargeted invites is.\n\nFewer sends, sharper targeting, better reasons to connect.\n\n(via Expandi Blog) #LinkedInOutreach #Outbound\n\nsalesmake.agency"
+        },
+        "bluesky": {
+          "content": "LinkedIn's invite limit is a forcing function, not a ceiling to mourn. If you can't explain why each person made your list, the quota isn't your problem. Via Expandi Blog: https://expandi.io/blog/linkedin-connections-limit/",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "LinkedIn gives you roughly 100 connection requests a week \u2014 and most people waste them. \ud83d\udc47\n\n\u2192 Bulk invites to vague personas burn your quota fast\n\u2192 No context = no conversation\n\u2192 A tight limit forces the right question: why THIS person, why NOW?\n\nTreat your weekly invite budget like a scarce resource. It is one.\n\n(Prompted by a solid breakdown on Expandi Blog \u2014 link in bio for the full read.)\n\nIf you're working on sharpening your LinkedIn outreach, we're easy to reach \u2014 salesmake.agency (link in bio).\n\n#LinkedInOutreach #Outbound #B2BSales #SalesProspecting #ColdOutreach #OutboundSales #GTM #SalesTips #LinkedInMarketing #LeadGeneration"
+        },
+        "pinterest": {
+          "content": "Discover why LinkedIn's weekly connection limit matters less than how you use it. Most outreach burns the quota on untargeted invites with no context \u2014 leaving conversion rates flat. Learn to treat every connection request as a deliberate choice: right person, right reason, right timing. Prompted by Expandi Blog's breakdown of LinkedIn's 2026 invite limits. If you're rethinking your LinkedIn outreach strategy, get in touch via salesmake.agency/contact.",
+          "title": "LinkedIn Connection Limits: Use Your Weekly Quota Wisely",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "LinkedIn Weekly Invitation Limit for 2026 (+ 5 Outreach Tips)",
+        "url": "https://expandi.io/blog/linkedin-connections-limit/",
+        "published": "2026-09-22T20:22:03+00:00",
+        "summary": "If you\u2019re a business professional, LinkedIn is your go-to platform for connecting with other decision-makers and individuals who can advance your business\u2019s growth. But it can be frustrating to hit a connection limit when attempting to communicate, especially since LinkedIn doesn\u2019t publish a fixed weekly or daily connection-request allowance. Staying within 100 connection invitations per [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 2.2
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
