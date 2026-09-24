@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-24T10:54:47.121409+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Automation compresses the time cost of LinkedIn outreach, but the real leverage comes from what you do with that saved time \u2014 better targeting and message logic, not just higher send volume.",
+      "variants": {
+        "linkedin": {
+          "content": "Automation on LinkedIn is mostly a time argument, not a quality argument.\n\nPer the Expandi Blog, manually working through 1,000 prospects \u2014 profile review, personalisation, send \u2014 can eat roughly 83 hours. A tool collapses that. But the hours you recover only matter if the underlying message logic is sound. Most LinkedIn outreach at volume fails because the sequencing and targeting decisions stay the same while the send rate goes up.\n\nThe better use of saved time: tighten your ICP, write fewer template variants that actually match different buying situations, and slow down the follow-up cadence. Automation handles repetition. It doesn't fix a weak offer or a misread audience.\n\nWhat's your current approach \u2014 building sequences manually, using a tool, or somewhere in between?\n\nhttps://expandi.io/blog/mass-message-on-linkedin/\n\nIf you're thinking through your LinkedIn outreach setup and want a second pair of eyes, feel free to reach out at https://salesmake.agency/contact.\n\n#LinkedInOutreach #OutboundSales"
+        },
+        "twitter": {
+          "content": "Automating LinkedIn outreach saves ~83hrs per 1,000 prospects (via Expandi Blog). That time is only worth recovering if your targeting and message logic are solid first. More sends on a weak sequence is just faster failure. #Outbound #LinkedInSales\n\nWorking on cold outreach? salesmake.agency"
+        },
+        "bluesky": {
+          "content": "Automation compresses the time cost of LinkedIn outreach. But it doesn't fix bad targeting or weak sequences \u2014 it just runs them faster. Worth reading: Expandi Blog's breakdown of mass messaging on LinkedIn.\n\nHappy to help if you're figuring out your outbound setup.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Automating LinkedIn outreach saves real time \u2014 but time savings only matter if the foundations are right.\n\n\u2192 Per Expandi Blog, 1,000 manual LinkedIn touchpoints can run to ~83 hours of work\n\u2192 A tool compresses that \u2014 but it won't fix a weak ICP or a generic sequence\n\u2192 The actual leverage is what you do with the recovered time: better targeting, sharper messages, smarter follow-up timing\n\nMore volume on a broken approach just means faster rejection.\n\nFull article linked at expandi.io \u2014 worth a read if you're running LinkedIn sequences.\n\nIf you're working on your outbound motion, reach out via the link in bio \u2014 salesmake.agency\n\n#LinkedInOutreach #OutboundSales #B2BSales #SalesAutomation #ColdOutreach #GTM #SalesStrategy #LeadGeneration #OutboundMarketing"
+        },
+        "pinterest": {
+          "content": "Discover why LinkedIn outreach automation is a time tool, not a quality fix. Expandi Blog breaks down how 1,000 manual LinkedIn prospects can consume ~83 hours \u2014 and what mass messaging tools actually solve (and don't). Before scaling sends, tighten your ICP, simplify your sequences, and match messages to real buying situations. Automation runs your logic at volume; it doesn't improve it. Read the full guide at expandi.io/blog/mass-message-on-linkedin/ \u2014 and if you need help thinking through your outbound approach, get in touch at salesmake.agency/contact.",
+          "title": "LinkedIn Mass Messaging: What Automation Actually Fixes (and What It Doesn't)",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Mass Messaging & Automation on LinkedIn (2026 Guide)",
+        "url": "https://expandi.io/blog/mass-message-on-linkedin/",
+        "published": "2026-09-23T19:20:25+00:00",
+        "summary": "Suppose you intend to message 1,000 prospects on LinkedIn. Five minutes per prospect on the whole cycle from profile lookup to send adds up to about 83 hours of manual work. Repeating that at volume makes it harder to keep messages accurate and consistent. A LinkedIn mass messaging tool won&#8217;t override LinkedIn&#8217;s account restrictions or [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 3.3
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The Clay Agent Plugin matters less as a feature and more as a signal: GTM tooling is shifting toward teams that can wire their own workflows, and reps who can't will depend on those who can.",
+      "variants": {
+        "linkedin": {
+          "content": "GTM tooling is quietly splitting into two camps: teams that configure off-the-shelf sequences, and teams that build their own workflows on top of APIs.\n\nThe Clay Blog just published a round-up of nine ways Clay team members are using their Agent Plugin \u2014 connecting Clay's API and CLI directly to coding agents to build custom prospecting tools, enrichment pipelines, and rep-facing utilities. It's a useful read not because every use case is immediately portable, but because it shows the direction: outbound infrastructure is becoming something you construct, not just subscribe to.\n\nFor revenue teams, the practical question is: where does your current stack leave you dependent on a vendor's roadmap versus where can you actually control the logic? That gap is worth mapping now, before it becomes a competitive one.\n\nClay Blog: https://www.clay.com/blog/clay-agent-plugin-use-cases\n\nIf you're thinking through how your outbound setup fits together and want a second pair of eyes, feel free to reach out at https://salesmake.agency/contact.\n\n#outbound #GTM #salestechnology"
+        },
+        "twitter": {
+          "content": "Outbound infra is splitting: teams that subscribe to tools vs. teams that build their own workflows on top of APIs.\n\nClay Blog shows 9 real examples of the latter. Worth a look.\n\n(Source: Clay Blog) \u2014 salesmake.agency\n\n#GTM #outbound"
+        },
+        "bluesky": {
+          "content": "GTM tooling is becoming something you construct, not just subscribe to. Clay Blog's Agent Plugin round-up is a good illustration of where this is heading \u2014 9 real internal use cases.\n\nWorth reading if you care about owning your outbound logic.\n\nclay.com/blog/clay-agent-plugin-use-cases",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Outbound infrastructure is becoming something you build, not just buy. \ud83d\udd27\n\nThe Clay Blog shared how 9 of their own team members are using the Agent Plugin to wire custom GTM workflows \u2014 connecting APIs, CLIs, and coding agents to do prospecting work that no off-the-shelf sequence tool handles.\n\nThe takeaway for sales teams:\n\u2192 Knowing your stack's limits matters\n\u2192 Custom workflow logic is a real competitive edge now\n\u2192 The gap between 'using tools' and 'building with tools' is widening\n\nFull piece from the Clay Blog \u2014 link in bio (salesmake.agency).\n\nHappy to help if you're working on your outbound setup \u2014 link in bio.\n\n#outbound #GTM #salesdevelopment #salesops #coldoutreach #prospecting #revops #salestech #b2bsales"
+        },
+        "pinterest": {
+          "content": "Explore how GTM teams are building custom outbound workflows using Clay's Agent Plugin \u2014 connecting APIs and coding agents to automate prospecting logic that off-the-shelf tools can't handle. The Clay Blog walks through 9 real internal use cases worth studying if you run outbound at any scale. If you're mapping out your own cold outreach setup, get in touch via salesmake.agency/contact.",
+          "title": "How GTM Teams Are Building Custom Outbound Workflows with Clay's Agent Plugin",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "9 Ways to Use Clay\u2019s Agent Plugin to Build GTM Workflows and Tools - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/clay-agent-plugin-use-cases",
+        "published": "2026-09-23T20:06:41+00:00",
+        "summary": "See how nine Clay team members use the Clay Agent Plugin to build GTM workflows and rep tools with Clay\u2019s API and CLI from their coding agents.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
