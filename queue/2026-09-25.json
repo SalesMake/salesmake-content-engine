@@ -1,0 +1,47 @@
+{
+  "date": "2026-09-25T10:56:22.278120+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "AI prompts are only as good as the context you feed them \u2014 most sales teams skip that step and wonder why the output sounds generic.",
+      "variants": {
+        "linkedin": {
+          "content": "AI prompts for prospecting are everywhere right now. Lists of ten, lists of twenty. Most of them share the same problem: they treat the prompt as the hard part.\n\nIt isn't. The hard part is the input \u2014 the specific context about the prospect, their role, their company's recent moves, and what actually makes your offer relevant to them right now. Feed a sharp prompt vague context and you get polished-sounding fluff. Feed a mediocre prompt precise context and you get something usable.\n\nThe Instantly Blog has a solid roundup of 10 prompts worth knowing \u2014 good starting point if you're building or refining your AI-assisted workflow: https://instantly.ai/blog/ai-prompts-for-sales-prospecting/\n\nThe question worth sitting with: how much of your prospecting time goes into gathering quality context versus crafting the prompt itself?\n\n#outbound #salesprospecting\n\nIf you're working on making your outbound motion more consistent, feel free to reach out at https://salesmake.agency/contact"
+        },
+        "twitter": {
+          "content": "AI prospecting prompts aren't the bottleneck.\n\nThe context you feed them is.\n\nVague input \u2192 polished fluff. Precise input \u2192 something you can actually send.\n\n(Good prompt list on Instantly Blog if you need a starting point)\n\n#outbound #sales\n\nHappy to help if cold outreach is on your mind \u2014 salesmake.agency"
+        },
+        "bluesky": {
+          "content": "The prompt isn't the hard part of AI-assisted prospecting. The context you feed it is. Vague input returns generic output, no matter how clever the prompt. Instantly Blog has a useful list to start from.\n\n#outbound",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "AI prompts won't save a lazy brief.\n\nEvery 'AI for prospecting' list skips the same step:\n\u2192 The context you put IN determines the quality you get OUT\n\u2192 Prospect role, recent triggers, specific relevance \u2014 that's the work\n\u2192 The prompt is just the template around it\n\nInstantly Blog put together 10 prompts worth bookmarking (link: instantly.ai/blog/ai-prompts-for-sales-prospecting) \u2014 but pair them with sharp research and they actually land.\n\nIf you're figuring out your outbound workflow, link in bio \u2014 salesmake.agency\n\n#outbound #salesprospecting #coldoutreach #b2bsales #salesstrategy #gtm #prospecting #saas #b2bmarketing #outboundsales"
+        },
+        "pinterest": {
+          "content": "Discover why AI prompts for sales prospecting only work when paired with precise prospect context \u2014 not just clever wording. Instantly Blog outlines 10 useful prompts as a starting framework. The real leverage is in what you feed the model: role specifics, recent company signals, and a clear reason to reach out. Start there, then apply the prompts. If you're refining your outbound approach, reach out at salesmake.agency/contact",
+          "title": "AI Prospecting Prompts: The Context Problem Nobody Talks About",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "AI Prompts for Sales Prospecting: 10 Best Prompts to Try",
+        "url": "https://instantly.ai/blog/ai-prompts-for-sales-prospecting/",
+        "published": "2026-09-24T11:16:00+00:00",
+        "summary": "Discover 10 practical AI prompts for sales prospecting to research prospects, qualify leads, personalize outreach, write follow-ups, and prepare for sales calls.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 3.0
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
