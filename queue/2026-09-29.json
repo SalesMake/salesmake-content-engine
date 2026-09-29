@@ -1,0 +1,82 @@
+{
+  "date": "2026-09-29T11:56:17.781200+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Buying one AI tool to handle all five LinkedIn jobs (outreach, data, content, scheduling, engagement) is exactly how teams end up with bloated stacks and messages that read like they were written by a bot \u2014 because they were.",
+      "variants": {
+        "linkedin": {
+          "content": "Most teams shop for LinkedIn AI tools the wrong way.\n\nThey look for one platform that does everything \u2014 writes the message, finds the prospect, schedules the send, and tracks the reply. On paper, that sounds efficient. In practice, you get a tool that's mediocre at five things instead of sharp at one.\n\nExpandi Blog mapped out the landscape across five distinct jobs: outreach, prospect data, content, scheduling, and engagement. Worth reading if you're evaluating your stack \u2014 not to find the 'best' tool, but to clarify which job you actually need solved first. Per their H2 2026 outreach data across 118 campaigns, AI-generated messages carry a real performance warning that teams are still underestimating.\n\nThe cleaner question to ask before buying anything: what's the weakest link in your current outbound motion? Fix that first. A great sequencing tool won't rescue a bad message. A great AI writer won't fix a prospect list that's off-target.\n\nFull breakdown from Expandi Blog: https://expandi.io/blog/linkedin-ai-tools/\n\nIf you're sorting through your outbound stack and want a second set of eyes, feel free to reach out at https://salesmake.agency/contact.\n\n#LinkedInSales #OutboundSales #GTM"
+        },
+        "twitter": {
+          "content": "One AI tool for all five LinkedIn jobs = mediocre at everything.\n\nExpandi Blog mapped the stack properly \u2014 outreach, data, content, scheduling, engagement are separate problems needing separate answers.\n\nFix the weakest link first. (Source: Expandi Blog) salesmake.agency\n\n#OutboundSales #B2BSales"
+        },
+        "bluesky": {
+          "content": "Buying one LinkedIn AI tool to do everything is how you end up with messages that feel like they were written by a bot.\n\nExpandi Blog breaks down the five jobs properly. Worth a read before your next tool decision.\n\nExpandi Blog: https://expandi.io/blog/linkedin-ai-tools/",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "One AI tool to rule all five LinkedIn jobs? That's how you get a stack that's mediocre at everything. \ud83e\udd16\n\nExpandi Blog laid it out cleanly \u2014 there are five separate jobs in a LinkedIn outbound motion:\n\u2192 Outreach\n\u2192 Prospect data\n\u2192 Content\n\u2192 Scheduling\n\u2192 Engagement\n\nEach one needs a different solution. Bundling them sounds efficient. It usually isn't.\n\nBefore you buy the next shiny tool, ask: what's actually the weakest link in your current motion?\n\nFull breakdown at Expandi Blog (link in bio). If you're working through your outbound setup, we're easy to reach \u2014 salesmake.agency (link in bio).\n\n#LinkedInOutreach #OutboundSales #B2BSales #SalesTools #GTM #ColdOutreach #SalesStack #LinkedInMarketing #B2BMarketing #SalesDevelopment"
+        },
+        "pinterest": {
+          "content": "Evaluate LinkedIn AI tools by job, not by feature count. Expandi Blog identifies five distinct roles in a LinkedIn outbound stack \u2014 outreach, prospect data, content, scheduling, and engagement \u2014 and explains why bundling them into one platform usually backfires. Per their H2 2026 data across 118 campaigns, AI-generated messages carry performance risks teams consistently underestimate. Read the full breakdown at https://expandi.io/blog/linkedin-ai-tools/ before your next tool purchase. Happy to help if you're thinking through your outbound approach \u2014 reach out via the link.",
+          "title": "5 LinkedIn AI Tool Jobs You Shouldn't Combine Into One Platform",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "15+ Best LinkedIn AI Tools for Outreach, Content & Engagement (2026)",
+        "url": "https://expandi.io/blog/linkedin-ai-tools/",
+        "published": "2026-09-28T19:56:30+00:00",
+        "summary": "The best LinkedIn AI tools for a sales team cover five jobs: outreach, prospect data, content, scheduling, and engagement.&#160; Buying one tool for all five is how a team ends up with an AI writer that also fires off connection requests.&#160; Our own H2 2026 outreach data adds a warning: across 118 campaigns, AI-generated messages [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 3.3
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Tool architecture matters less than account behavior \u2014 slow ramp-up and consistent usage patterns are the real safety levers LinkedIn automation articles gloss over.",
+      "variants": {
+        "linkedin": {
+          "content": "Everyone asks which LinkedIn automation tool is safest. Fewer people ask whether their usage patterns would flag a human recruiter doing the same volume manually.\n\nThe Expandi Blog ran through the leading tools for 2026 and landed on a point worth sitting with: the architecture (dedicated IP, cloud-based session, slow warm-up) is table stakes. The real risk lives in behavior \u2014 connection request velocity, message cadence, how quickly a fresh account ramps up activity. LinkedIn's own restriction notices have been pointing at this for a while.\n\nIf you're building an outbound motion on LinkedIn, the question isn't just 'which tool?' It's 'does our daily activity look like a real person having real conversations?' That's a workflow and sequence design problem as much as a software one.\n\nFull breakdown worth reading: https://expandi.io/blog/safest-linkedin-automation-tools/\n\nIf you're thinking through how to structure a LinkedIn outreach program that stays inside sensible limits, feel free to reach out at https://salesmake.agency/contact."
+        },
+        "twitter": {
+          "content": "The safest LinkedIn automation tool is whichever one you use at a sane volume.\n\nExpandi Blog's 2026 roundup makes the right call: architecture (fixed IP, slow ramp) is table stakes. Behavior is the real flag.\n\nPattern > platform. #LinkedInOutreach #Outbound\n\nIf you're mapping out a LinkedIn sequence, salesmake.agency"
+        },
+        "bluesky": {
+          "content": "LinkedIn automation safety in 2026 comes down to behavior more than tool choice. Per Expandi Blog, fixed IP + slow ramp is baseline \u2014 but daily activity patterns are what actually trigger restrictions. Worth a read.\n\nHappy to help if you're working through a LinkedIn outreach setup: salesmake.agency/contact",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The LinkedIn automation question nobody asks enough: does your activity look like a real person?\n\n\u2192 Tool architecture (dedicated IP, cloud session) is baseline, not a moat\n\u2192 Connection velocity and message cadence are the actual risk factors\n\u2192 A fresh account ramping too fast is a flag regardless of which tool you use\n\nExpandi Blog's 2026 safety roundup gets this right \u2014 link in bio to read it.\n\nIf you're working on a LinkedIn outbound program and want to think through the structure, find us at salesmake.agency (link in bio).\n\n#LinkedInOutreach #Outbound #SalesProspecting #B2BSales #ColdOutreach #OutboundSales #GTM #SalesAutomation #LinkedInMarketing",
+          "content_note": "Pin the Expandi Blog article link as the 'link in bio' option, or use salesmake.agency/contact."
+        },
+        "pinterest": {
+          "content": "Understand what actually keeps LinkedIn automation accounts safe in 2026 \u2014 it's less about which tool you pick and more about usage behavior. Per Expandi Blog, a dedicated IP and slow account warm-up are the starting point, but connection volume, message pacing, and ramp speed are what LinkedIn's restriction systems watch most closely. Read the full tool comparison on the Expandi Blog, then map your outreach cadence accordingly. If you're building a LinkedIn outbound program and want to talk through the setup, reach out via the link.",
+          "title": "LinkedIn Automation Safety in 2026: Behavior Matters More Than Tool Choice",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "7 Safest LinkedIn Automation Tools in 2026 (and How to Avoid a Ban)",
+        "url": "https://expandi.io/blog/safest-linkedin-automation-tools/",
+        "published": "2026-09-28T17:54:18+00:00",
+        "summary": "The safest LinkedIn automation tools in 2026 share an architecture: they run from a server you never touch, log in from one fixed IP, and ramp a new account up slowly. Tool choice is only half the risk, though.&#160; The other half is how the account is used, and LinkedIn&#8217;s own restriction notices say as [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 2.2
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
