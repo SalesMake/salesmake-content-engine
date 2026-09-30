@@ -1,0 +1,115 @@
+{
+  "date": "2026-09-30T11:44:07.435562+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "More integrations expand what's possible in Clay, but the real question for outbound teams is whether they're using the signals they already have \u2014 not just adding more sources.",
+      "variants": {
+        "linkedin": {
+          "content": "Clay just dropped 24 new and updated integrations \u2014 EMEA/APAC data coverage, buying signals, new industry sources, dialers, CRMs, warehouse connectors. It's a meaningful expansion of the toolkit.\n\nBut here's the thing most teams skip: adding a new enrichment source doesn't automatically improve outbound. The value is in how you act on what comes back. A buying signal sitting unused in a table is just noise with a nicer label.\n\nBefore layering in more integrations, it's worth asking \u2014 do your current Clay workflows actually change what gets sent, to whom, and when? Or are they mostly making the spreadsheet look more impressive?\n\nFull list via the Clay Blog: https://www.clay.com/blog/clay-integrations-september-2026\n\nIf you're working through how to turn Clay data into actual outbound sequences, feel free to reach out at https://salesmake.agency/contact"
+        },
+        "twitter": {
+          "content": "Clay added 24 integrations \u2014 signals, EMEA/APAC data, dialers, CRMs, warehouses.\n\nMore sources help. But the gap for most teams isn't data. It's doing something deliberate with it.\n\nVia Clay Blog. #outbound #GTM\n\nsalesmake.agency"
+        },
+        "bluesky": {
+          "content": "Clay added 24 integrations \u2014 more signals, broader geo coverage, new CRM and dialer connections.\n\nUseful. Though for most teams, the bottleneck isn't the data source \u2014 it's knowing what to do once the enrichment lands.\n\nVia Clay Blog.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "More Clay integrations dropped \u2014 and they're worth paying attention to. \ud83e\udde9\n\n\u2192 EMEA & APAC data coverage\n\u2192 Buying signal sources\n\u2192 New CRM and dialer connections\n\u2192 Warehouse and enrichment updates\n\nPer the Clay Blog, 24 new and updated integrations landed this round. That's a lot of new inputs.\n\nThe honest take: most outbound teams aren't bottlenecked on data. They're bottlenecked on what they do with it. A signal only matters if it changes who you reach out to, or how.\n\nIf you're figuring out how to build that logic \u2014 link in bio, or find us at salesmake.agency\n\n#outbound #salesops #GTM #claydotcom #coldemail #salesenablement #b2bsales #revops #prospecting"
+        },
+        "pinterest": {
+          "content": "Explore 24 new Clay integrations for outbound and GTM teams \u2014 covering EMEA and APAC data, buying signals, CRM connectors, dialers, and data warehouses. Expanding your enrichment stack is only useful if the signals feed into deliberate outreach decisions. Learn what's new via the Clay Blog, and think through how each integration changes your actual workflow \u2014 not just your table. If you're thinking through cold outreach strategy, get in touch at salesmake.agency/contact",
+          "title": "24 New Clay Integrations: What GTM Teams Should Actually Do With Them",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "24 New Clay Integrations for GTM Data & Signals - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/clay-integrations-september-2026",
+        "published": "2026-09-29T17:21:09+00:00",
+        "summary": "Clay adds 24 new and updated integrations for EMEA and APAC coverage, buying signals, new industries, enrichment, dialers, CRMs, and warehouses.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 4.8
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Self-serve analytics agents reduce the data-team bottleneck that slows GTM decisions \u2014 but the real lesson for outbound teams is that waiting on internal queues is a solvable problem, not a fixed constraint.",
+      "variants": {
+        "linkedin": {
+          "content": "Most GTM teams don't have a data problem. They have a queue problem.\n\nThe data team is busy. Your question about reply rates by persona, or which accounts converted after a sequence change, sits in a backlog for days. By the time you get an answer, the campaign has moved on.\n\nClay built an internal Slack agent called monty that lets anyone query their data warehouse in plain English \u2014 no SQL, no ticket, no wait. The Clay Blog write-up on how they built it is worth a read if you're thinking about how AI fits into a GTM org: https://www.clay.com/blog/building-everyones-personal-data-scientist\n\nThe broader point: outbound decisions that depend on clean, fast feedback loops shouldn't be held hostage to analyst availability. Whether it's tooling like this, better reporting setup, or just tighter sequence instrumentation, reducing that lag changes how quickly you can iterate.\n\nHow does your team currently handle the gap between running outbound and actually understanding what's working?\n\n#GTM #OutboundSales #SalesOps\n\nIf you're working on outbound and want to talk through how to build better feedback loops into your process, feel free to reach out at https://salesmake.agency/contact"
+        },
+        "twitter": {
+          "content": "Most GTM teams don't have a data problem \u2014 they have a queue problem.\n\nClay built an internal agent so anyone can query the warehouse without waiting on analysts. Lesson for outbound: slow feedback kills iteration.\n\n(via Clay Blog) #GTM #Outbound\n\nHappy to help if you're building this out \u2014 salesmake.agency"
+        },
+        "bluesky": {
+          "content": "Outbound iteration speed dies in analyst queues. Clay built a plain-English Slack agent to cut that wait internally. The real GTM takeaway: feedback loops shouldn't depend on ticket backlogs. Via Clay Blog.\n\nIf you're thinking through outbound ops, feel free to reach out.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Your outbound data isn't the bottleneck. The queue to access it is. \ud83d\udcca\n\nClay built an internal Slack agent \u2014 monty \u2014 so any team member can ask questions of their data warehouse in plain English, no SQL, no analyst ticket required.\n\nThe write-up on the Clay Blog is a good one for GTM operators thinking about AI tooling.\n\nThe bigger idea for outbound teams:\n\u2192 Slow feedback = slow iteration\n\u2192 Slow iteration = campaigns that drift instead of improve\n\u2192 Fixing the access problem matters as much as fixing the data problem\n\nFull link in bio \u2014 and if you want to talk outbound strategy or ops, find us at salesmake.agency (link in bio).\n\n#OutboundSales #GTM #SalesOps #B2BSales #ColdOutreach #SalesEnablement #RevenueOps #AITools #SalesStrategy #Prospecting"
+        },
+        "pinterest": {
+          "content": "Discover how Clay built a self-serve analytics agent to eliminate internal data request queues \u2014 and what it means for outbound sales teams who need faster feedback loops to iterate on campaigns. Read the full breakdown on the Clay Blog, then explore how tighter GTM operations can improve cold outreach performance. Reach out via the link to connect with SalesMake about your outbound process.",
+          "title": "Faster GTM Feedback Loops: What Clay's Analytics Agent Teaches Outbound Teams",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Building monty: Clay's Self-Serve Analytics Agent - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/building-everyones-personal-data-scientist",
+        "published": "2026-09-30T08:56:15+00:00",
+        "summary": "Data teams have endless request queues. Here's how Clay built monty, a Slack-based analytics agent, so anyone can query the warehouse in plain English.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    },
+    {
+      "usable": true,
+      "angle": "A community skills marketplace in Clay lowers the barrier to custom enrichment and automation, but it also raises the question of who on your team is actually equipped to operationalize it inside a real outbound motion.",
+      "variants": {
+        "linkedin": {
+          "content": "Clay just opened a community skills marketplace \u2014 free, installable, and built to run inside Claude Code, Codex, or Cursor.\n\nThat's a meaningful shift. For a while, building custom Clay skills meant either writing your own code or waiting on a developer. Now there's a browsable library of community-built options ready to drop in. The ceiling for what a non-engineer can automate in an outbound workflow just got a bit higher.\n\nThe practical question, though, isn't 'does this exist?' \u2014 it's 'does your team have enough context around their own GTM process to know which skills are worth installing, and how to wire them into something coherent?' The tools are moving fast. The workflows still require judgment.\n\nWorth a look if you're deep in Clay: https://www.clay.com/blog/introducing-clay-skills-marketplace (Clay Blog)\n\nIf you're working on outbound infrastructure and want a second perspective, feel free to reach out at https://salesmake.agency/contact\n\n#OutboundSales #GTM #Clay"
+        },
+        "twitter": {
+          "content": "Clay now has a community skills marketplace \u2014 free, installable, runs in Cursor/Codex/Claude Code.\n\nThe tools keep getting easier. The judgment on *which* workflows to build still matters.\n\n(via Clay Blog) #GTM #outbound\n\nBuilding out cold outreach? salesmake.agency"
+        },
+        "bluesky": {
+          "content": "Clay launched a community skills marketplace \u2014 free to install, runs in Claude Code, Codex, or Cursor.\n\nLower barrier to custom enrichment is good. Knowing which skills actually fit your outbound motion is the harder part.\n\nVia Clay Blog. If you need a hand with cold outreach, salesmake.agency/contact",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Clay just opened a community skills marketplace \u2014 and it changes what's possible for outbound teams without a dev on speed dial.\n\n\u2192 Free to install\n\u2192 Built by the Clay community\n\u2192 Runs inside Claude Code, Codex, or Cursor\n\u2192 Drops the floor on custom enrichment and automation\n\nThe tools are moving fast. The part that still takes work: knowing which automations actually serve your specific outbound process \u2014 and which ones are just cool to look at.\n\nWorth bookmarking. Full post from Clay Blog \u2014 link in bio.\n\nHappy to help if you're figuring out your outbound setup \u2014 salesmake.agency (link in bio)\n\n#outboundsales #salesops #GTM #coldoutreach #claycrm #salesautomation #b2bsales #revops #salestech #prospecting"
+        },
+        "pinterest": {
+          "content": "Explore Clay's new community skills marketplace \u2014 free, installable enrichment and automation skills built to run in Claude Code, Codex, or Cursor. A useful development for outbound teams looking to extend Clay without writing everything from scratch. The real work is still knowing which skills map to a coherent GTM workflow. Read the full breakdown on the Clay Blog: https://www.clay.com/blog/introducing-clay-skills-marketplace \u2014 and if you're thinking through your cold outreach stack, reach out at the link.",
+          "title": "Clay Community Skills Marketplace: What It Means for Outbound Teams",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "The Clay Skills Marketplace Is Open - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/introducing-clay-skills-marketplace",
+        "published": "2026-09-30T01:47:06+00:00",
+        "summary": "We\u2019ve launched a place to find skills built by the Clay community, free to install and ready to run in Claude Code, Codex, or Cursor.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
