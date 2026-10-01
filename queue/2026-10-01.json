@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-01T12:12:57.035006+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Self-serve analytics inside Slack is really a story about reducing bottlenecks to action \u2014 and that same bottleneck problem shows up constantly in outbound, where reps wait on data before they can move.",
+      "variants": {
+        "linkedin": {
+          "content": "The data team bottleneck is one of the quieter killers of outbound momentum.\n\nClay's engineering team built an internal Slack agent called monty so that anyone on the team can query the data warehouse in plain English \u2014 no ticket, no wait, no analyst required. The write-up is a clear-eyed look at the architecture and the tradeoffs.\n\nWhat struck me reading it isn't the tooling. It's the underlying assumption: that speed of access to data directly shapes speed of action. That's true in analytics. It's equally true in GTM. When reps have to wait two days for a list pull or a segment refresh, the window on a trigger often closes before they can use it.\n\nThe question worth asking on your own team: where do people queue up waiting for data before they can run an outbound motion? That queue is usually longer than anyone admits.\n\nFull piece from Clay Blog: https://www.clay.com/blog/building-everyones-personal-data-scientist\n\nIf you're thinking through how your team gets from data to outreach faster, feel free to reach out at https://salesmake.agency/contact\n\n#outbound #GTM #salesops"
+        },
+        "twitter": {
+          "content": "The data team queue is a hidden GTM bottleneck.\n\nClay built an internal Slack agent so anyone can pull warehouse data in plain English \u2014 no ticket needed.\n\nSame principle applies to outbound: slow access to data = closed windows on triggers.\n\nSource: Clay Blog. salesmake.agency #GTM #outbound"
+        },
+        "bluesky": {
+          "content": "Clay built a Slack agent so anyone can query their data warehouse in plain English. The real lesson for GTM: wherever your reps queue for data, your outbound timing suffers. Worth a read from the Clay Blog.\n\nIf you're working on tightening that loop, drop us a line.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The data queue nobody talks about \ud83d\udc47\n\nClay's team built an internal Slack bot so anyone can pull warehouse data in plain English \u2014 no analyst, no ticket, no wait.\n\nThe GTM parallel is real:\n\u2192 Reps waiting on list pulls = missed trigger windows\n\u2192 Slow data access = slow outbound\n\u2192 Speed of information shapes speed of action\n\nGreat behind-the-scenes piece from Clay Blog (link in bio to find it).\n\nIf you're thinking through outbound sequencing or data-to-outreach workflows, we're easy to reach \u2014 salesmake.agency (link in bio).\n\n#outbound #salesops #GTM #coldoutreach #b2bsales #revenueoperations #salesenablement #prospecting"
+        },
+        "pinterest": {
+          "content": "Explore how reducing data access bottlenecks can accelerate outbound sales timing. Clay Blog shares how they built an internal Slack analytics agent \u2014 a useful model for any GTM team that loses momentum waiting on data pulls. Apply the same thinking to your outreach workflow. Reach out via salesmake.agency/contact if you're working on outbound efficiency.",
+          "title": "Data Bottlenecks Are a GTM Problem Too",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Building monty: Clay's Self-Serve Analytics Agent - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/building-everyones-personal-data-scientist",
+        "published": "2026-09-30T17:49:43+00:00",
+        "summary": "Data teams have endless request queues. Here's how Clay built monty, a Slack-based analytics agent, so anyone can query the warehouse in plain English.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Connecting your outbound tool to your AI assistant matters less than knowing what to ask it \u2014 the interface is only as useful as the operator behind it.",
+      "variants": {
+        "linkedin": {
+          "content": "Integrations like this are useful. But they move the bottleneck, not remove it.\n\nExpandi + ChatGPT in one workflow means you're not copy-pasting between tabs anymore \u2014 fair enough. The friction that kills most outbound campaigns, though, isn't the tooling. It's the thinking upstream: who gets the message, why now, and what the sequence is actually trying to do.\n\nWhen you hand that thinking to an AI without a clear brief, you get fluent-sounding outreach that doesn't land. The interface gets smoother; the results don't necessarily follow.\n\nWorth reading for the setup mechanics if you're already in the Expandi ecosystem \u2014 but pair it with a clear view of your targeting logic and message strategy before you automate anything further.\n\nExpandi Blog: https://expandi.io/blog/connect-expandi-to-chatgpt/\n\nIf you're working on cold outreach and want a second pair of eyes on the strategy side, feel free to reach out at https://salesmake.agency/contact\n\n#outbound #salesops"
+        },
+        "twitter": {
+          "content": "AI + outbound tool integrations are useful \u2014 but they shift the bottleneck, not remove it.\n\nThe thinking upstream (who, why now, what the sequence does) still has to be sharp.\n\nSource: Expandi Blog. Thoughts? salesmake.agency #outbound #GTM"
+        },
+        "bluesky": {
+          "content": "Connecting Expandi to ChatGPT is a real workflow win. But fluent outreach \u2260 effective outreach. The targeting logic and message strategy still need to be right before you automate anything.\n\nVia Expandi Blog.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Smoother tools don't fix fuzzy strategy.\n\nExpandi + ChatGPT in one workflow cuts the tab-switching \u2014 genuinely useful. But the questions that actually determine whether outbound works:\n\n\u2192 Who are you reaching, and why them?\n\u2192 Why are you reaching out now?\n\u2192 What is the sequence supposed to do?\n\nAutomate before those are answered and you just get faster mediocre outreach.\n\nGood read on the setup side from Expandi Blog (link in bio for the article).\n\nIf you're thinking through cold outreach, happy to help \u2014 salesmake.agency (link in bio).\n\n#outbound #b2bsales #salesops #coldemail #linkedinoutreach #gtm #salestips #outboundstrategy #salesautomation"
+        },
+        "pinterest": {
+          "content": "Connect outbound tools to AI assistants the right way \u2014 read how Expandi integrates with ChatGPT for smoother campaign workflows, via Expandi Blog. The real unlock isn't the integration itself; it's having sharp targeting logic and message strategy in place before automating. Get the setup details, then make sure the thinking behind your outreach is equally solid. Reach out about cold outreach strategy at SalesMake.",
+          "title": "Expandi + ChatGPT: What the Integration Does (and Doesn't) Solve",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How to Connect Expandi to ChatGPT",
+        "url": "https://expandi.io/blog/connect-expandi-to-chatgpt/",
+        "published": "2026-09-30T20:34:12+00:00",
+        "summary": "If ChatGPT is open all day, your outbound is probably the one thing you keep leaving it for: building the list, setting up the sequence, figuring out why a campaign went quiet on Tuesday. Connect Expandi to ChatGPT and you can do that work by asking, in the same conversation, while you still decide what [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 2.2
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
