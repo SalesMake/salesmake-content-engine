@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-02T11:42:31.455748+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Tracking 18 KPIs sounds thorough, but most outbound teams need a short list tied to pipeline stages \u2014 not a dashboard that reports activity while revenue stays flat.",
+      "variants": {
+        "linkedin": {
+          "content": "Most outbound dashboards are full of numbers that don't answer the one question leadership actually asks: is this producing pipeline?\n\nExpandi's guide on lead generation KPIs (link below) lays out 18 metrics across the full funnel. Worth a read \u2014 but the practical takeaway is simpler than the list: pick one or two metrics per stage, compare them against the right segment, and resist the urge to optimize for the numbers that are easiest to move. Open rates and connection accepts feel like progress. Meetings held and pipeline created are the ones that matter.\n\nThe danger isn't tracking too little. It's tracking activity volume and mistaking it for outbound health.\n\nWhat metric do you actually use to decide whether an outbound sequence is working?\n\nExpandi Blog: https://expandi.io/blog/how-to-measure-lead-generation/\n\nIf you're working on tightening up your outbound measurement or just figuring out where to start, feel free to reach out at https://salesmake.agency/contact\n\n#OutboundSales #LeadGeneration #GTM"
+        },
+        "twitter": {
+          "content": "A full dashboard of activity metrics and still no clear answer on pipeline health \u2014 that's the real outbound measurement problem.\n\nExpandi Blog breaks down 18 lead gen KPIs worth knowing. The short version: fewer metrics, right stage, right segment.\n\n#OutboundSales #LeadGen\n\nIf you need help thinking through outbound measurement \u2014 salesmake.agency"
+        },
+        "bluesky": {
+          "content": "18 KPIs sounds like a lot \u2014 and it is. The Expandi Blog's lead gen metrics guide is solid, but the real point is simpler: stop optimizing for easy numbers and start tying metrics to actual pipeline stages.\n\nMore on this from Expandi: expandi.io/blog/how-to-measure-lead-generation/",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Your outbound dashboard looks busy. But is it actually tracking pipeline? \ud83d\udcca\n\nExpandi Blog published a solid breakdown of 18 lead gen KPIs \u2014 from first touch to revenue. The honest takeaway:\n\n\u2192 Most teams track too many activity metrics\n\u2192 And too few pipeline-stage metrics\n\u2192 Open rates \u2260 outbound health\n\u2192 Meetings held + pipeline created = what actually counts\n\nPick one or two numbers per stage. Compare against the right segment. Use benchmarks as a sanity check, not a target.\n\nLink in bio to read the Expandi piece \u2014 and if you're rethinking how you measure cold outreach, you can find us at salesmake.agency (link in bio).\n\n#OutboundSales #LeadGeneration #SalesMetrics #B2BSales #ColdOutreach #GTM #SalesOps #PipelineMetrics #OutboundMarketing"
+        },
+        "pinterest": {
+          "content": "Measure outbound sales the right way: Expandi Blog outlines 18 lead generation KPIs to track across the full funnel \u2014 from first connection to closed revenue. The key takeaway for B2B teams is to focus on one or two metrics per pipeline stage rather than chasing easy activity numbers. Per Expandi, comparing outreach data against the right segment matters as much as the metrics themselves. If you're thinking through how to structure outbound measurement for your team, visit salesmake.agency/contact.",
+          "title": "Lead Generation KPIs: What Outbound Teams Should Actually Measure",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Lead Generation KPIs: 18 Metrics to Track, How to Calculate Them, and What \u201cGood\u201d Looks Like in 2026",
+        "url": "https://expandi.io/blog/how-to-measure-lead-generation/",
+        "published": "2026-10-01T20:28:41+00:00",
+        "summary": "A dashboard can show hundreds of activity numbers and still leave one question unanswered: is outbound producing pipeline? The lead generation KPIs in this guide trace the answer from first connection to revenue.&#160; Track one or two at each stage, compare outreach with the right segment, and use platform averages as a check rather than [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 4.4
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The real story in 'AI GTM agency' growth isn't the AI \u2014 it's that RevOps-rooted operators already understood the levers; AI just removed the headcount bottleneck.",
+      "variants": {
+        "linkedin": {
+          "content": "The 'AI GTM agency' story everyone's excited about is mostly a headcount story.\n\nWhen a former VP RevOps strips out the coordination layer \u2014 researchers, ops coordinators, junior SDRs \u2014 and replaces it with well-scoped AI tooling, the margin math changes fast. That's the actual insight buried in a recent AMA recap from The GTM Engineering Newsletter (link: https://newsletter.gtmengineering.ai/p/ama-recap-how-to-start-a-1m-ai-gtm).\n\nBut here's what the framing misses: most GTM teams aren't starting from RevOps fluency. They're starting from a stack of disconnected tools and a mandate to do more with less. Before AI makes you leaner, you need clarity on what the motion actually is \u2014 ICP, sequencing logic, handoff points. The tooling amplifies the motion. It doesn't replace building one.\n\nWhat's the part of your outbound motion you'd most want to remove human hours from right now?\n\nIf you're working through that question and want a sounding board on outbound structure, feel free to reach out at https://salesmake.agency/contact."
+        },
+        "twitter": {
+          "content": "\"AI GTM agency\" growth is mostly a headcount story.\n\nRevOps operators knew the levers. AI removed the coordination tax. That's the real mechanic \u2014 per The GTM Engineering Newsletter.\n\nWhat's your motion without the headcount excuse? salesmake.agency #GTM #outbound"
+        },
+        "bluesky": {
+          "content": "The 'AI GTM agency' pitch is really a margin story: same RevOps levers, fewer people in the middle.\n\nBefore AI makes you leaner, you need a motion worth scaling. Per The GTM Engineering Newsletter's AMA recap.\n\nHappy to help if you're figuring out the outbound foundation first.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Everyone's chasing the \"$1M AI GTM agency\" playbook. Here's the part worth slowing down on. \ud83d\udc47\n\n\u2192 The people winning aren't winning because of AI tools\n\u2192 They're winning because they already understood the GTM levers\n\u2192 AI removed the headcount cost \u2014 it didn't replace the underlying motion\n\nBuild the motion first. Then figure out where AI buys back hours.\n\nGood read in The GTM Engineering Newsletter \u2014 link in bio for more, and find us at salesmake.agency if you're thinking through your outbound setup.\n\n#GTM #OutboundSales #SalesStrategy #RevenueOperations #AIinSales #ColdOutreach #B2BSales #SalesOps #GTMstrategy"
+        },
+        "pinterest": {
+          "content": "Explore what's actually driving 'AI GTM agency' growth \u2014 and what most teams miss before adding AI to their outbound stack. Per The GTM Engineering Newsletter's AMA recap, the edge comes from RevOps clarity first, tooling second. Discover the practical framing for building an outbound motion that scales. Reach out about cold outreach strategy at salesmake.agency/contact.",
+          "title": "What AI GTM Agency Growth Is Really About (It's Not the Tools)",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "AMA Recap: How to start a $1M AI GTM Agency",
+        "url": "https://newsletter.gtmengineering.ai/p/ama-recap-how-to-start-a-1m-ai-gtm",
+        "published": "2026-10-01T17:22:11+00:00",
+        "summary": "Insights from a former VP RevOps and how he got started building an AI GTM agency that has taken off. An org chart generator skill you can copy + a newsletter to help GTM leaders skill up on AI.",
+        "source": "The GTM Engineering Newsletter",
+        "category": "gtm_engineering",
+        "score": 3.9
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Real-time AI monitoring of live campaigns is a meaningful shift \u2014 but the approval layer humans still hold is where judgment actually matters.",
+      "variants": {
+        "linkedin": {
+          "content": "Most outreach reviews happen after the damage is done \u2014 campaign stalled, reply rate dropped, no one noticed for a week.\n\nExpandi's new MCP (covered on the Expandi Blog) connects an AI agent directly to live campaigns: it can flag slowdowns, compare sequence performance, and draft follow-up copy in real time. You still approve before anything sends. That last part matters more than the automation piece.\n\nThe real question isn't whether AI can monitor a campaign \u2014 it's whether your team has a clear standard for what 'good' looks like before it hands the wheel back to a human. Tooling surfaces the signal. Judgment decides what to do with it.\n\nExpandi Blog: https://expandi.io/blog/expandi-mcp-for-outreach-campaigns/\n\nIf you're thinking through how to structure oversight in your outbound stack, feel free to reach out at https://salesmake.agency/contact.\n\n#outbound #salesops #GTM"
+        },
+        "twitter": {
+          "content": "AI monitoring live outreach campaigns in real time is useful. The approval step humans still hold? That's the actual leverage point.\n\nExpandi Blog covers their new MCP \u2014 worth a read.\n\nIf you're reworking outbound ops: salesmake.agency\n\n#outbound #GTM"
+        },
+        "bluesky": {
+          "content": "Real-time AI campaign monitoring is a genuine improvement over end-of-run reviews. But the human approval layer Expandi kept in their MCP is the part worth paying attention to. Good read from Expandi Blog.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Catching a stalled campaign after it's already dead isn't a review \u2014 it's a post-mortem.\n\nExpandi Blog just covered their MCP tool that connects an AI agent to live LinkedIn outreach campaigns:\n\u2192 Diagnoses slowdowns in real time\n\u2192 Compares sequence performance\n\u2192 Drafts next steps\n\u2192 Humans approve before anything goes out\n\nThat last point is where the real work sits. Automation surfaces the problem. Judgment calls the play.\n\nLink in bio (salesmake.agency) \u2014 happy to talk if you're figuring out your outbound setup.\n\n#outbound #linkedinoutreach #salesops #GTM #coldoutreach #b2bsales #sequencing #salesdevelopment #outboundmarketing"
+        },
+        "pinterest": {
+          "content": "Discover how real-time AI monitoring changes LinkedIn outreach campaign management \u2014 and why the human approval layer still determines outcomes. Expandi Blog walks through their MCP tool that flags live campaign issues, compares sequences, and drafts follow-ups without removing you from the decision. Get in touch via the link if you're working on your outbound process.",
+          "title": "Real-Time AI Campaign Monitoring: What the Expandi MCP Gets Right",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How to Use the Expandi MCP to Monitor and Improve Outreach Campaigns",
+        "url": "https://expandi.io/blog/expandi-mcp-for-outreach-campaigns/",
+        "published": "2026-10-01T18:37:34+00:00",
+        "summary": "The Expandi MCP connects your AI agent to your Expandi account. As a LinkedIn outreach MCP, it can diagnose live campaigns, compare results, review replies, and draft the next sequence. You approve replies and launch campaigns yourself. If you only review outreach after a campaign ends, a campaign can slow down or stop without anyone [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 3.3
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
