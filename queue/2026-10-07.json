@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-07T12:27:13.714675+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Non-engineers building internal AI tooling that saves 75+ hours a week is a signal about where GTM ops is heading \u2014 and what it means for outbound teams specifically.",
+      "variants": {
+        "linkedin": {
+          "content": "Most AI-in-GTM stories are about what the tool does. This one is about who built it \u2014 and that's the more interesting part.\n\nClay's ecosystem team (non-engineers) shipped an AI-powered training platform that, per the Clay Blog, saves 75+ hours a week across a 50,000+ person user base. The build itself is almost secondary. The real story is that the bottleneck between 'we have a GTM problem' and 'we have a working solution' no longer requires a dev queue.\n\nFor outbound teams, this matters more than it might look. The grunt work that eats SDR and ops hours \u2014 keeping playbooks current, onboarding new reps, maintaining sequence logic \u2014 is exactly the kind of structured, repeatable problem that no-code AI tooling is now genuinely good at. The question isn't whether your team could do this. It's whether you've given anyone the permission and the time to try.\n\nFull piece worth reading: https://www.clay.com/blog/ecosystem-build\n\nIf you're thinking through how to structure your outbound ops or cold outreach function, feel free to reach out at https://salesmake.agency/contact."
+        },
+        "twitter": {
+          "content": "Non-engineers at Clay built an AI training platform saving 75+ hrs/week \u2014 no dev queue needed.\n\nThe bottleneck between 'GTM problem' and 'working solution' keeps shrinking.\n\nSource: Clay Blog | salesmake.agency #GTM #OutboundSales"
+        },
+        "bluesky": {
+          "content": "Clay's non-engineer team built an AI platform saving 75+ hrs/week (per Clay Blog). The gap between GTM problem and working solution keeps closing. Worth thinking about what your outbound ops team could do with that same permission.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The GTM ops shift nobody's talking about enough \u2193\n\nClay's ecosystem team \u2014 no engineers \u2014 built an AI-powered training platform saving 75+ hours a week (per the Clay Blog).\n\n\u2192 The bottleneck isn't technology anymore\n\u2192 It's who has permission to build\n\u2192 Outbound teams with repetitive ops problems should be paying attention\n\nPlaybook maintenance, rep onboarding, sequence logic \u2014 these are exactly the structured problems no-code AI handles well now.\n\nFull article linked in bio. If you're working on your outbound setup, reach out \u2014 link in bio at salesmake.agency.\n\n#OutboundSales #GTM #SalesOps #ColdOutreach #SalesDevelopment #RevenueOperations #B2BSales #SalesEnablement #AIinSales #SDR"
+        },
+        "pinterest": {
+          "content": "Discover how Clay's non-engineer GTM team built an AI-powered training platform that saves 75+ hours per week \u2014 without a single developer. Per the Clay Blog, the project scaled to support 50,000+ users. For outbound and sales ops teams, this is a practical signal: the structured, repeatable work that drains SDR and ops hours is now buildable without a dev queue. Read the full breakdown at https://www.clay.com/blog/ecosystem-build \u2014 and if you're figuring out your own outbound operations, happy to help at salesmake.agency/contact.",
+          "title": "How Non-Engineers Are Rebuilding GTM Ops with AI",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How the Clay ecosystem team builds with AI for 50,000+ people - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/ecosystem-build",
+        "published": "2026-10-07T02:51:00+00:00",
+        "summary": "See how Clay\u2019s non-engineers built an AI-powered training platform that saves 75+ hours a week, and how they got teammates to use and improve it.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The real GTM data question isn't which tool beats ZoomInfo on paper \u2014 it's whether your team will actually use the enrichment in outbound workflows that move.",
+      "variants": {
+        "linkedin": {
+          "content": "Most 'ZoomInfo vs. X' comparisons stop at data coverage and price. The question that actually matters for outbound teams is: does the tool fit inside the workflow, or does your workflow have to bend around the tool?\n\nClay just published a thorough comparison of 10 ZoomInfo alternatives \u2014 covering data coverage, pricing models, and the drawbacks real users report. Worth a read if you're evaluating your data stack heading into 2026.\n\nWhat I'd add: enrichment quality is only half the equation. The other half is how fast a rep or a sequence can act on that data. A cheaper database that sits two exports away from your outreach tool isn't actually cheaper once you factor in friction and lag.\n\nIf you're mid-evaluation on your GTM data stack, what's the deciding factor you keep coming back to \u2014 coverage, integrations, or cost?\n\nFull comparison via Clay Blog: https://www.clay.com/blog/zoominfo-alternatives\n\nIf you're working through a data stack or outbound tooling decision, happy to think it through \u2014 https://salesmake.agency/contact\n\n#GTM #OutboundSales #SalesTech"
+        },
+        "twitter": {
+          "content": "The ZoomInfo alternatives debate usually focuses on price and coverage.\n\nThe real question: does it fit your outbound workflow, or does your workflow fit around it?\n\nClay Blog has a solid 2026 comparison worth reading.\n\nThinking through your stack? salesmake.agency\n\n#GTM #OutboundSales"
+        },
+        "bluesky": {
+          "content": "Enrichment tool comparisons love to debate coverage and price. The part they skip: friction between data and outreach is where deals stall. Clay Blog has a thorough 2026 ZoomInfo alternatives breakdown worth reading before your next renewal.\n\nReviewing your outbound stack? Reach out.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Every year the 'ZoomInfo alternatives' conversation gets louder \u2014 and every year it mostly stays on price and coverage. \ud83d\udcca\n\nThe part worth thinking about:\n\u2192 How many clicks from enrichment to outreach?\n\u2192 Does your team actually use the data, or export it once and forget it?\n\u2192 What does friction cost you over a full quarter?\n\nClay Blog just dropped a solid 2026 comparison of 10 alternatives with real user drawbacks included. Link in bio to find it.\n\nIf you're sorting out your outbound data setup, feel free to reach out \u2014 link in bio \u2192 salesmake.agency\n\n#GTM #OutboundSales #SalesDevelopment #ColdOutreach #B2BSales #SalesTech #LeadGeneration #SDR #RevenueOperations #DataEnrichment"
+        },
+        "pinterest": {
+          "content": "Explore the top ZoomInfo alternatives for GTM teams in 2026 \u2014 Clay Blog compares data coverage, pricing models, and workflow flexibility, plus the drawbacks real users flag. Before your next renewal, check whether your enrichment tool actually fits your outbound workflow or adds friction between data and action. If you're figuring out your cold outreach setup, get in touch at salesmake.agency/contact.",
+          "title": "ZoomInfo Alternatives for GTM & Outbound Teams (2026 Comparison)",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "10 ZoomInfo Alternatives for GTM Teams in 2026 - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/zoominfo-alternatives",
+        "published": "2026-10-06T22:27:58+00:00",
+        "summary": "Compare the top ZoomInfo alternatives, including Clay, on data coverage, pricing models, and workflow flexibility, plus the drawbacks real users report.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    },
+    {
+      "usable": true,
+      "angle": "ABM on LinkedIn fails not because of targeting gaps but because the ad layer and the outreach layer are never actually synchronized \u2014 and that coordination gap is where deals go quiet.",
+      "variants": {
+        "linkedin": {
+          "content": "ABM campaigns don't fail at the targeting stage. They fail at the handoff.\n\nYou can build a tight account list, serve ads to the right titles, and watch engagement metrics tick upward \u2014 and still end a quarter with no pipeline. The gap is almost always the same: the people seeing your ads and the people receiving your outreach are operating on separate tracks. No shared timing, no shared message, no one treating the ad impression as a signal to act on.\n\nThe Expandi Blog piece on LinkedIn ABM (link below) makes this point clearly: the outreach layer has to be as coordinated as the ad layer. That means knowing when an account is warm enough to contact, what angle to lead with, and who specifically to reach \u2014 not just the company, but the people who actually move deals forward.\n\nThe practical question isn't 'are we running ABM?' It's 'what happens the moment someone from a target account engages \u2014 and who owns that moment?'\n\nhttps://expandi.io/blog/abm-campaigns/\n\nIf you're working through how to connect your LinkedIn activity to actual outbound conversations, feel free to reach out at https://salesmake.agency/contact.\n\n#LinkedIn #B2BSales #ABM"
+        },
+        "twitter": {
+          "content": "ABM campaigns fill dashboards. Coordinated outreach fills pipelines.\n\nThe ad layer and the outreach layer need to run in sync \u2014 most don't. Good read on this from Expandi Blog.\n\nWorking on cold outreach? salesmake.agency\n\n#ABM #B2BSales"
+        },
+        "bluesky": {
+          "content": "ABM ads build awareness. Outreach builds pipeline. The problem: most teams run them as separate programs.\n\nExpandi Blog breaks down where LinkedIn ABM actually breaks down \u2014 worth a read.\n\nhttps://expandi.io/blog/abm-campaigns/",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Running LinkedIn ABM and still not booking meetings? The ads aren't the problem.\n\n\u2192 Target account list: solid\n\u2192 Ad impressions: climbing\n\u2192 Outreach timing and coordination: disconnected\n\nThat last one is where most ABM programs quietly stall. The Expandi Blog has a useful breakdown of what it takes to make the outreach layer match the ad layer \u2014 link in bio.\n\nIf you're thinking through outbound or cold outreach strategy, we're easy to find: salesmake.agency (link in bio).\n\n#LinkedInMarketing #ABM #B2BMarketing #OutboundSales #SalesStrategy #B2BSales #DemandGeneration #SalesProspecting #GTM #ColdOutreach"
+        },
+        "pinterest": {
+          "content": "Improve LinkedIn ABM results by synchronizing your ad layer with your outreach layer \u2014 the coordination gap is where most B2B pipeline opportunities go quiet. Expandi Blog outlines what coordinated LinkedIn ABM actually looks like in practice: https://expandi.io/blog/abm-campaigns/. Happy to help if you're exploring outbound or cold outreach approaches for your team.",
+          "title": "Why LinkedIn ABM Campaigns Stall \u2014 and What to Fix First",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How to Run LinkedIn ABM Campaigns That Convert (2026)",
+        "url": "https://expandi.io/blog/abm-campaigns/",
+        "published": "2026-10-06T21:08:57+00:00",
+        "summary": "An ABM campaign can run for months against a target account list, fill a dashboard with impressions, and still book zero meetings, because nobody turned that attention into conversations with the people who sign.&#160; LinkedIn ABM campaigns convert when the outreach layer is as coordinated as the ads. Across 13.2 million connection requests in our [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 2.2
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
