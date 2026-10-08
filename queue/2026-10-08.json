@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-08T12:36:50.913506+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Pairing an AI reasoning model with a data enrichment layer is less about automation novelty and more about compressing the research-to-sequence cycle that slows most outbound teams down.",
+      "variants": {
+        "linkedin": {
+          "content": "Most outbound bottlenecks aren't in the sending \u2014 they're in the research and prioritization that happen before any message gets written.\n\nThe Clay Blog recently published a walkthrough by Eric Nowoslawski on combining Grok with Clay for GTM plays: chat-built campaigns, lead magnet flows, and a daily learning loop baked into the process. Worth reading for the workflow logic, not just the tool names. Link: https://www.clay.com/blog/grok-bot-clay-use-cases\n\nThe pattern that stands out isn't the AI part \u2014 it's the idea of a tighter feedback loop between signal, research, and message construction. That compression is where most outbound programs have room to improve, regardless of which tools sit underneath.\n\nAre you finding the research step or the copy step is the bigger drag on your team's outbound cadence?\n\nIf you're working on improving your cold outreach process, feel free to reach out at https://salesmake.agency/contact\n\n#outbound #GTM #salesdevelopment"
+        },
+        "twitter": {
+          "content": "The research-to-sequence gap is where most outbound stalls \u2014 not the sending.\n\nClay Blog has a solid Grok + Clay walkthrough worth a look (via Eric Nowoslawski). Source: Clay Blog.\n\nIf you're figuring out cold outreach, find us at salesmake.agency\n\n#outbound #GTM"
+        },
+        "bluesky": {
+          "content": "The bottleneck in outbound is rarely the email \u2014 it's everything before it. Clay Blog's Grok + Clay walkthrough is a good look at compressing the research-to-message cycle. Worth 5 mins.\n\nHappy to help if cold outreach is something you're working through.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The outbound bottleneck most teams don't talk about: the gap between finding a signal and turning it into a message worth sending.\n\nClay Blog just published a practical walkthrough on using Grok + Clay to compress that cycle \u2014 chat-built campaigns, lead magnet flows, daily learning loops. The tool combo is interesting, but the workflow logic is the real takeaway.\n\n\u2192 Tighter research loop\n\u2192 Faster signal-to-sequence\n\u2192 Less manual triage before copy even starts\n\nFull piece by Eric Nowoslawski on the Clay Blog \u2014 link in bio alongside salesmake.agency\n\nIf you're building out your outbound motion, feel free to reach out \u2014 link in bio.\n\n#outbound #gtm #salesdev #coldoutreach #b2bsales #salesdevelopment #outboundsales #leadgeneration #salesops"
+        },
+        "pinterest": {
+          "content": "Explore how pairing an AI reasoning model with a data enrichment layer can compress the research-to-sequence cycle in outbound sales. Clay Blog's walkthrough by Eric Nowoslawski covers chat-built campaigns, GTM lead magnet flows, and a daily learning loop \u2014 practical workflow logic for any outbound team. Read the full piece at https://www.clay.com/blog/grok-bot-clay-use-cases and get in touch if outbound strategy is something you're working on.",
+          "title": "Compress Your Outbound Research Loop: Grok + Clay GTM Plays",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How to Use Grok Bot and Clay for Go-to-Market Plays - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/grok-bot-clay-use-cases",
+        "published": "2026-10-08T00:38:04+00:00",
+        "summary": "Explore real Grok Bot and Clay use cases from Eric Nowoslawski, including chat-built outbound campaigns, GTM Hub lead magnets, and a daily learning loop.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 6.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Automation's real job in LinkedIn outreach isn't volume \u2014 it's making sure the follow-up actually happens while your judgment still drives what gets said.",
+      "variants": {
+        "linkedin": {
+          "content": "The follow-up is where most LinkedIn outreach quietly dies.\n\nSomeone accepts your connection request. You mean to send the next message. Then a meeting runs long, your inbox takes over, and that prospect never hears from you again. Not because your pitch was bad \u2014 because your calendar won.\n\nThis is the case automation actually solves well: keeping a sequence moving so the human moment (a real reply, a warm signal, a booked call) doesn't get buried under operational noise. The Expandi Blog has a solid 2026 breakdown of how to structure that \u2014 worth reading if you're thinking about where to draw the line between automated steps and human judgment: https://expandi.io/blog/linkedin-message-automation/\n\nThe question worth sitting with: are your sequences dropping off because the targeting is wrong, or just because no one got around to following up?\n\n#LinkedInOutreach #OutboundSales\n\nIf you're working through how to structure a LinkedIn sequence that doesn't rely on volume to get results, feel free to reach out at https://salesmake.agency/contact"
+        },
+        "twitter": {
+          "content": "Most LinkedIn outreach doesn't fail on message one. It fails because message two never gets sent.\n\nAutomation's real job: protecting the follow-up, not replacing the thinking.\n\n(Good 2026 breakdown on this from Expandi Blog \u2014 salesmake.agency)\n\n#OutboundSales #LinkedInTips"
+        },
+        "bluesky": {
+          "content": "LinkedIn automation isn't about sending more \u2014 it's about not dropping the follow-up when your calendar fills up. Expandi Blog has a clear 2026 take on where the tool ends and the judgment begins.\n\nHappy to help if you're thinking through outbound sequencing.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The follow-up is where LinkedIn outreach actually dies. \ud83d\udc47\n\n\u2192 Prospect accepts your connection request\n\u2192 You plan to send message two\n\u2192 Your week happens\n\u2192 They never hear from you again\n\nAutomation's real job isn't blasting volume \u2014 it's making sure the sequence keeps moving while your judgment still shapes what gets said.\n\nExpandi Blog has a practical 2026 guide on structuring this right (link in bio \u2014 salesmake.agency).\n\nIf you're figuring out where to draw that line in your own outreach, we're easy to reach \u2014 link in bio.\n\n#LinkedInOutreach #B2BSales #OutboundSales #SalesAutomation #ColdOutreach #GTM #SalesDevelopment #SDR #LinkedInTips #OutboundStrategy"
+        },
+        "pinterest": {
+          "content": "Structure your LinkedIn outreach so the follow-up never falls through the cracks. Automation keeps sequences moving \u2014 your judgment still decides what gets said and when to hand off to a human conversation. Expandi Blog's 2026 guide covers benchmarks and sequencing logic worth reviewing before you build. Read it at expandi.io/blog/linkedin-message-automation \u2014 and if you need a hand thinking through your outbound approach, get in touch via the link.",
+          "title": "LinkedIn Message Automation: Where the Tool Ends and Your Judgment Begins",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "LinkedIn Message Automation: 2026 Guide + Benchmarks",
+        "url": "https://expandi.io/blog/linkedin-message-automation/",
+        "published": "2026-10-07T20:51:47+00:00",
+        "summary": "Most manual outreach stumbles on the follow-up. A prospect accepts your connection request, your calendar fills up, and that critical second message never gets sent. LinkedIn message automation keeps your outreach sequences moving effortlessly\u2014without putting your strategic judgment on autopilot. The key is building for a tightly targeted audience and letting a human take over [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 5.5
+      }
+    },
+    {
+      "usable": true,
+      "angle": "AI can assist LinkedIn prospecting, but the automation layer is only as good as the targeting and messaging strategy behind it \u2014 that's still human work.",
+      "variants": {
+        "linkedin": {
+          "content": "AI tools like Claude can genuinely reduce the grunt work in LinkedIn prospecting \u2014 drafting follow-ups, summarising profiles, scoring leads. That part is real and worth paying attention to.\n\nBut here's what tends to get skipped in the enthusiasm: the automation layer sits on top of your targeting logic, your ICP definition, and your message framework. If those are weak, Claude just helps you send weak outreach faster. The Expandi Blog recently walked through a practical setup for connecting Claude to LinkedIn workflows \u2014 worth a read for the mechanics: https://expandi.io/blog/linkedin-lead-generation-with-claude/\n\nThe question worth asking before you automate anything: have you validated the manual version? A sequence that works at low volume is worth scaling. One that doesn't, isn't.\n\n#LinkedInSales #OutboundSales\n\nIf you're figuring out how to structure outbound before adding automation, feel free to reach out at https://salesmake.agency/contact"
+        },
+        "twitter": {
+          "content": "AI won't fix bad targeting \u2014 it'll just speed it up.\n\nBefore automating LinkedIn outreach with Claude (solid piece on this from Expandi Blog), nail the ICP and message first. Automation rewards good foundations, punishes shaky ones.\n\n#OutboundSales salesmake.agency"
+        },
+        "bluesky": {
+          "content": "Claude can cut the manual grind in LinkedIn prospecting. Expandi Blog has a useful walkthrough on the setup.\n\nThe catch: automation scales whatever you've already built \u2014 good or bad. Sort the targeting and messaging first.\n\nHappy to help if you're working through the outbound basics.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Automating LinkedIn outreach with AI sounds like a shortcut \u2014 and it can be, but only if the foundations are solid first. \u2b07\ufe0f\n\n\u2192 Claude and similar tools can handle drafting, summarising, and follow-up logic\n\u2192 But your ICP, targeting, and message angle? Still human decisions\n\u2192 Automating a weak sequence just means more of the wrong thing, faster\n\nExpandi Blog put out a practical walkthrough on connecting Claude to LinkedIn workflows \u2014 link in bio to find it, and to reach us at salesmake.agency if you're working on getting outbound right before scaling it.\n\n#LinkedInOutreach #OutboundSales #B2BSales #SalesAutomation #LeadGeneration #ColdOutreach #GTM #SalesStrategy #B2BMarketing"
+        },
+        "pinterest": {
+          "content": "Discover how AI tools like Claude can support LinkedIn lead generation \u2014 and where human strategy still has to lead. Expandi Blog outlines the technical setup; the sharper question is whether your targeting and messaging are ready to scale. Automate what works, not what's still being figured out. Visit SalesMake to get in touch if you're working on outbound structure before adding automation layers.",
+          "title": "LinkedIn Lead Generation With AI: Automate What Already Works",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How to Automate LinkedIn Lead Generation With Claude (2026)",
+        "url": "https://expandi.io/blog/linkedin-lead-generation-with-claude/",
+        "published": "2026-10-07T20:24:46+00:00",
+        "summary": "With AI models like Claude and ChatGPT transforming sales workflows, team leads are naturally eager to put them to work where they shine\u2014like streamlining time-consuming LinkedIn outreach (with the right human guardrails, of course). The good news? You can automate LinkedIn lead generation with Claude without handing over the keys to your account. Connect it [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 3.3
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
