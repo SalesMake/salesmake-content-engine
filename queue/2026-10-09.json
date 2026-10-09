@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-09T12:24:12.571177+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "The real value of separating contact discovery from outreach isn't just cleaner data \u2014 it's protecting sender reputation and keeping margins intact as AI tooling multiplies.",
+      "variants": {
+        "linkedin": {
+          "content": "Most agencies bolt AI prospecting tools onto their stack without thinking about architecture first. The result: tool sprawl, bloated costs, and sender domains that quietly degrade.\n\nThe smarter move is to treat contact discovery, enrichment, verification, and outreach as distinct layers \u2014 not one undifferentiated workflow. Waterfall enrichment (hitting multiple data sources in sequence until you get a valid contact) only works cleanly when those layers don't bleed into each other. Mix them up and you're either paying to enrich contacts you'll never reach, or burning domain reputation on unverified addresses.\n\nInstantly Blog just published a solid category map for AI prospecting tools that's worth a read if you're evaluating this architecture for your agency: https://instantly.ai/blog/ai-prospecting-tools-for-lead-research/\n\nIf you're rethinking how your outbound stack is structured, feel free to reach out at https://salesmake.agency/contact \u2014 happy to think through it with you.\n\n#OutboundSales #LeadResearch #GTM"
+        },
+        "twitter": {
+          "content": "Mixing lead discovery + outreach in one tool looks efficient. It usually just means you're burning domain rep on bad data.\n\nInstantly Blog mapped the AI prospecting category well \u2014 worth a read.\n\nIf you're sorting out your outbound stack: salesmake.agency\n\n#OutboundSales #GTM"
+        },
+        "bluesky": {
+          "content": "Separating discovery, enrichment, and outreach isn't just tidy \u2014 it protects sender reputation and margins. Instantly Blog has a solid map of the AI prospecting tool category if you're building this architecture. Worth 10 mins.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Your AI prospecting stack might be costing you more than it saves \u2014 not in subscription fees, but in sender reputation.\n\n\u2192 Discovery, enrichment, verification, and outreach are four different jobs\n\u2192 Mixing them creates tool sprawl and burned domains\n\u2192 Waterfall enrichment only works when the layers stay separate\n\nInstantly Blog published a clear category map for agencies thinking through this architecture. Link in bio to find us, and check the article at instantly.ai/blog.\n\nIf you're working on your outbound setup, we're easy to reach \u2014 salesmake.agency (link in bio).\n\n#OutboundSales #LeadResearch #ColdEmail #SalesProspecting #GTM #B2BSales #SalesOps #AgencyGrowth #EmailOutreach"
+        },
+        "pinterest": {
+          "content": "Separate your prospecting layers before you add more AI tools. Contact discovery, enrichment, verification, and outreach each need their own place in the stack \u2014 mixing them burns sender reputation and margins. Instantly Blog maps the full AI prospecting tool category for agencies building this architecture: https://instantly.ai/blog/ai-prospecting-tools-for-lead-research/ \u2014 If you need help thinking through your cold outreach setup, get in touch via the link.",
+          "title": "How to Structure AI Prospecting Tools Without Killing Your Sender Reputation",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "AI prospecting tools for lead research: the complete guide for agencies",
+        "url": "https://instantly.ai/blog/ai-prospecting-tools-for-lead-research/",
+        "published": "2026-10-09T09:54:14+00:00",
+        "summary": "AI prospecting tools for lead research help agencies separate contact discovery from outreach to protect margins and sender reputation. This guide maps the category so you can pick the right architecture for waterfall enrichment, verification, and outreach without tool sprawl.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 5.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "AI prompt frameworks lower the barrier to writing cold outreach, but the real bottleneck is still the input quality \u2014 garbage context in, generic copy out.",
+      "variants": {
+        "linkedin": {
+          "content": "AI prompt templates for cold outreach are everywhere now. The Instantly Blog put together a solid roundup \u2014 openers, follow-ups, LinkedIn DMs, the lot.\n\nBut here's the thing most guides skip: the prompt is only as good as the context you feed it. Prospect pain points, your ICP's actual language, a specific trigger for the outreach \u2014 without that, even a well-structured prompt produces something that reads like it was written for everyone and lands with no one.\n\nThe four-input framework they outline is worth reading. Just remember that filling in those inputs is still a human job. That's where your research, your positioning, and your judgment about what matters to this particular buyer all live.\n\nFull guide from Instantly Blog: https://instantly.ai/blog/ai-prompts-for-sales-outreach-copy/\n\nIf you're working through how to build outbound copy that doesn't rely on templates alone, feel free to reach out at https://salesmake.agency/contact.\n\n#coldoutreach #salesprospecting"
+        },
+        "twitter": {
+          "content": "AI prompt templates don't fix weak context \u2014 they amplify it.\n\nThe Instantly Blog has a solid prompt framework for cold email + LinkedIn DMs. Worth a look. The hard part is still knowing your buyer well enough to fill the inputs.\n\nsalesmake.agency if you need a hand with outbound copy.\n\n#coldoutreach #GTM"
+        },
+        "bluesky": {
+          "content": "AI prompts for outreach are only as sharp as the context behind them. Instantly Blog has a practical framework worth reading. The real work is still knowing your buyer well enough to fill in the blanks.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "AI can write your cold outreach \u2014 but only if you give it something real to work with.\n\nThe Instantly Blog laid out a four-input prompt framework for cold email, follow-ups, and LinkedIn DMs. It's genuinely useful.\n\nThe catch nobody mentions:\n\u2192 Vague ICP = generic output\n\u2192 No trigger = no relevance\n\u2192 Weak positioning = forgettable opener\n\nThe prompts are the easy part. The context is still on you.\n\nFull guide linked at salesmake.agency (link in bio). Happy to help if you're figuring out your outbound copy approach \u2014 salesmake.agency, link in bio.\n\n#coldoutreach #salesprospecting #outboundsales #GTM #coldemail #b2bsales #salesstrategy #emailcopywriting #outboundmarketing #growthmarketing"
+        },
+        "pinterest": {
+          "content": "Build better AI prompts for cold outreach by starting with stronger inputs. The Instantly Blog outlines a four-input framework covering cold email openers, follow-ups, and LinkedIn DMs \u2014 useful starting point for any outbound team. The real leverage comes from the buyer context you bring to the prompt, not the template itself. Source: Instantly Blog (instantly.ai/blog/ai-prompts-for-sales-outreach-copy). If you're looking for support with cold outreach or outbound sales, get in touch at salesmake.agency/contact.",
+          "title": "AI Prompts for Sales Outreach: What the Frameworks Get Right (and What They Miss)",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "AI prompts for sales outreach copy: the complete guide for growth marketers",
+        "url": "https://instantly.ai/blog/ai-prompts-for-sales-outreach-copy/",
+        "published": "2026-10-09T09:52:41+00:00",
+        "summary": "AI prompts for sales outreach copy that move reply rates above 3.43% with a four-input framework and testable templates for growth. Get copy-pasteable prompt templates for cold email openers, follow-ups, and LinkedIn DMs that plug into A/B test matrices with deliverability guardrails.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 5.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Prompt libraries are useful starting points, but the real constraint in AI-assisted outreach isn't template variety \u2014 it's knowing which inputs make any prompt produce something worth sending.",
+      "variants": {
+        "linkedin": {
+          "content": "60 AI prompts for sales teams is a generous resource. The Instantly Blog published a thorough one recently, organized by buyer stage with word caps and spam-check steps baked in.\n\nBut here's the thing most prompt libraries don't address: the output is only as good as the context you feed in. A well-structured prompt given shallow lead research produces polished-sounding noise. The teams getting real replies aren't just running better prompts \u2014 they're doing the work to fill the brackets with signal that actually matters to the recipient.\n\nPrompt libraries shift the bottleneck from writing to research and judgment. That's progress. It's also worth being honest that the judgment part doesn't disappear just because the drafting does.\n\nWorth a read if you're building out an AI-assisted workflow: https://instantly.ai/blog/ai-llm-prompt-library-for-sales-teams/\n\nIf you're working through how to structure your outbound process around tools like these, feel free to reach out at https://salesmake.agency/contact.\n\n#outbound #salesops"
+        },
+        "twitter": {
+          "content": "AI prompt libraries for sales are useful. But the bottleneck was never writing speed \u2014 it was knowing what to put in the brackets.\n\nGood read from Instantly Blog on this.\n\nIf you're figuring out outbound, salesmake.agency #outbound #sales"
+        },
+        "bluesky": {
+          "content": "Prompt libraries move the bottleneck from writing to research. That's real progress \u2014 but the judgment about what actually belongs in those brackets still has to come from somewhere.\n\nSolid resource from Instantly Blog if you're building an AI-assisted sales workflow.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "60 AI prompts for your sales team sounds like a shortcut. It's more like a framework shift.\n\n\u2192 The writing bottleneck mostly goes away\n\u2192 The research and context bottleneck stays\n\u2192 What you put in the brackets decides whether it reads like signal or noise\n\nInstantly Blog put together a thorough prompt library organized by buyer stage \u2014 worth bookmarking if you're building this into your outreach workflow. (Link in bio to the article.)\n\nIf you're sorting out your outbound approach, happy to help \u2014 link in bio, or find us at salesmake.agency.\n\n#outboundsales #salesstrategy #coldoutreach #aitools #salesprospecting #gtm #b2bsales #salesprocess #sdr #salesdevelopment"
+        },
+        "pinterest": {
+          "content": "Explore a 60-template AI prompt library for sales teams from Instantly Blog \u2014 organized by buyer journey stage with word limits and deliverability checks built in. The real takeaway: prompt libraries shift the work from writing to deciding what context actually belongs in each message. That judgment is where outreach quality lives. Save this for your next outbound workflow review. Reach out via the link if you want to talk through cold outreach.",
+          "title": "AI Prompt Library for Sales Teams: Where the Real Bottleneck Lives",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "The essential AI and LLM prompt library for sales teams (60 templates, 2026)",
+        "url": "https://instantly.ai/blog/ai-llm-prompt-library-for-sales-teams/",
+        "published": "2026-10-09T09:53:11+00:00",
+        "summary": "60 AI prompts for sales teams organized by buyer journey stage with deliverability guardrails and context-dense templates. Each prompt includes bracketed placeholders for lead details, an 80-word cap, and spam-check instructions so founders can generate reply-ready outreach without hiring SDRs.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 4.0
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
