@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-12T14:06:56.126551+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Combining a conversational AI like Grok with Clay's data layer is less about novelty and more about collapsing the gap between 'idea for a campaign' and 'list ready to contact' \u2014 the practical workflow matters more than the tools.",
+      "variants": {
+        "linkedin": {
+          "content": "The part nobody talks about in AI-for-outbound hype: the bottleneck was never generating copy. It was always getting from 'I want to target X' to a clean, enriched, sequenceable list of actual humans.\n\nWhat's interesting about the Grok + Clay pairing Eric Nowoslawski walks through on the Clay Blog isn't the AI angle \u2014 it's that the workflow genuinely compresses the research-to-outreach loop. Chat your targeting logic, pipe it into Clay's enrichment, and you're working a campaign before you've opened a spreadsheet.\n\nThe harder question for most teams: do you have the data model and the playbook clarity to make that speed useful? Fast iteration on a vague ICP just gets you wrong answers faster.\n\nWorth a read if you're thinking about where AI actually fits in a GTM stack: https://www.clay.com/blog/grok-bot-clay-use-cases\n\nIf you're working through how to structure your outbound approach before bolting new tools onto it, feel free to reach out at https://salesmake.agency/contact.\n\n#outbound #GTM #salesops"
+        },
+        "twitter": {
+          "content": "Fast outbound isn't the same as good outbound.\n\nGrok + Clay can collapse the research-to-list loop \u2014 but only if your ICP is sharp enough to feed it. Garbage in, faster garbage out.\n\n(Clay Blog has a solid walkthrough) salesmake.agency #GTM #outbound"
+        },
+        "bluesky": {
+          "content": "Grok + Clay can speed up list-building fast. The real question: is your ICP definition sharp enough to make that speed useful? Worth reading the Clay Blog walkthrough. Happy to talk outbound structure if you're figuring that part out.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "AI won't fix a fuzzy ICP \u2014 it'll just surface the wrong people faster. \ud83c\udfaf\n\nThe Clay Blog has a genuinely useful walkthrough of how Eric Nowoslawski combines Grok with Clay to compress the research-to-campaign loop:\n\n\u2192 Chat-built outbound campaigns\n\u2192 Lead magnet plays via GTM Hub\n\u2192 A daily learning loop baked into the workflow\n\nThe tool combo is interesting. But the part worth stealing is the discipline of knowing exactly who you're targeting before you hit go.\n\nLink in bio (salesmake.agency) \u2014 and if you're thinking through your outbound setup, we're easy to reach.\n\n#outboundsales #GTM #salesprospecting #claycRM #AIforSales #coldoutreach #salesops #B2Bsales #leadgeneration"
+        },
+        "pinterest": {
+          "content": "Explore how combining Grok and Clay can compress the research-to-outreach loop for outbound sales campaigns. The Clay Blog walks through real use cases including chat-built campaigns and enriched lead lists. Key takeaway: speed only helps if your ICP is already clearly defined. Discover the workflow and think through whether your targeting is sharp enough to make AI-assisted prospecting actually pay off.",
+          "title": "Grok + Clay for Outbound: Where Speed Meets ICP Clarity",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How to Use Grok Bot and Clay for Go-to-Market Plays - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/grok-bot-clay-use-cases",
+        "published": "2026-10-12T01:30:49+00:00",
+        "summary": "Explore real Grok Bot and Clay use cases from Eric Nowoslawski, including chat-built outbound campaigns, GTM Hub lead magnets, and a daily learning loop.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 6.0
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
