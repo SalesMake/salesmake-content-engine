@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-13T13:19:12.516416+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Combining Grok's conversational AI with Clay's data enrichment lets you build outbound campaigns interactively \u2014 but the real unlock is treating the chat interface as a rapid prototyping layer, not a finished workflow.",
+      "variants": {
+        "linkedin": {
+          "content": "Most people use AI to write emails. Fewer use it to architect the whole outbound play while they're still figuring out the ICP.\n\nEric Nowoslawski's walkthrough on the Clay Blog is worth a read for that reason. The interesting part isn't Grok or Clay individually \u2014 it's the loop: use the chat interface to sketch a campaign logic, pull enriched data to pressure-test the assumptions, then refine. Iteration happens in minutes, not sprints.\n\nThe practical implication for outbound teams: your research and sequencing decisions don't have to be front-loaded anymore. You can build, check, and adjust in the same session. That changes how you staff the work and how fast you can test a new segment.\n\nWorth bookmarking if you're thinking about where AI actually fits in a GTM motion \u2014 not as a content generator, but as a thinking partner for campaign architecture.\n\nFull piece: https://www.clay.com/blog/grok-bot-clay-use-cases (Clay Blog)\n\nIf you're working through how to structure outbound for a new segment or market, feel free to reach out at https://salesmake.agency/contact.\n\n#outbound #gtm #salesops"
+        },
+        "twitter": {
+          "content": "AI for outbound isn't just email copy.\n\nUsing it to *design* the campaign logic \u2014 ICP, triggers, sequencing \u2014 while you're still in the research phase? That's the real shift.\n\nGood breakdown of this on Clay Blog. salesmake.agency #outbound #gtm"
+        },
+        "bluesky": {
+          "content": "The interesting part of the Grok + Clay use cases (Clay Blog) isn't the tools \u2014 it's using chat as a campaign prototyping layer before you've locked in the ICP. Fast iteration beats heavy upfront planning. Worth a read if you're building outbound plays.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "AI in outbound is more useful as a thinking partner than a copywriter.\n\n\u2192 Sketch your campaign logic in chat\n\u2192 Enrich data to pressure-test assumptions\n\u2192 Refine before you ever write a sequence\n\nEric Nowoslawski's Grok + Clay breakdown on Clay Blog shows what that loop actually looks like in practice \u2014 and it's faster than most teams' planning sprints.\n\nIf you're rethinking how you build outbound plays, the link's in bio. salesmake.agency\n\n#outbound #gtm #salesstrategy #b2bsales #coldoutreach #demandgen #salesops #clay #aitools"
+        },
+        "pinterest": {
+          "content": "Discover how to use AI chat as a campaign prototyping layer for outbound sales \u2014 sketching ICP logic, enriching data, and refining sequences in a single session. Eric Nowoslawski's Grok and Clay use cases (Clay Blog: https://www.clay.com/blog/grok-bot-clay-use-cases) show a faster way to build GTM plays without heavy upfront planning. Happy to help if you're mapping out a new outbound approach \u2014 visit SalesMake via the link.",
+          "title": "Build Outbound Campaigns Faster with AI + Data Enrichment",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How to Use Grok Bot and Clay for Go-to-Market Plays - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/grok-bot-clay-use-cases",
+        "published": "2026-10-12T18:58:51+00:00",
+        "summary": "Explore real Grok Bot and Clay use cases from Eric Nowoslawski, including chat-built outbound campaigns, GTM Hub lead magnets, and a daily learning loop.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 6.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "800k emails/month is an operational flex, but the real question for most B2B teams isn't volume \u2014 it's whether their workflow can hold signal quality at scale.",
+      "variants": {
+        "linkedin": {
+          "content": "Sending 800k+ emails a month is impressive infrastructure. It's also a useful reminder that most B2B teams fail long before they reach a volume problem.\n\nThe Clay Blog recently published a thorough breakdown of AI lead generation workflows \u2014 list building, enrichment, personalized cold email \u2014 worth reading if you're evaluating tooling: https://www.clay.com/blog/ai-lead-generation\n\nWhat the piece surfaces, even if it doesn't say it directly: the bottleneck for most outbound teams isn't sending capacity. It's data quality feeding into those sends. Enrichment workflows are only as good as the targeting logic upstream. And \"personalization at scale\" still requires someone to define what a relevant signal actually looks like for your ICP.\n\nThe tools have genuinely gotten better. But tool selection is the easy part. The harder question is: what does your team actually do between \"build a list\" and \"send a sequence\" \u2014 and is that middle layer tight enough to make volume matter?\n\n#outbound #GTM #B2Bsales"
+        },
+        "twitter": {
+          "content": "800k emails/month sounds like a volume win. Usually the real problem is upstream \u2014 bad targeting feeding good tooling.\n\nClay Blog breaks down the AI lead gen stack worth knowing. Source: Clay Blog\n\nIf you're rethinking outbound, salesmake.agency\n\n#outbound #GTM"
+        },
+        "bluesky": {
+          "content": "Volume isn't the bottleneck for most B2B teams \u2014 targeting logic is. Clay Blog's AI lead gen breakdown is a solid read on where the tooling actually sits now. Worth a look before you evaluate any new stack.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Sending at scale is solved. Sending to the right people still isn't.\n\n\u2192 Clay Blog just published a deep guide on AI lead generation workflows for B2B \u2014 list building, enrichment, cold email at volume\n\u2192 The tools are genuinely better now\n\u2192 But enrichment only works if your ICP logic is tight upstream\n\u2192 \"Personalization at scale\" still needs a human to define what a relevant signal looks like\n\nThe middle layer \u2014 between list and send \u2014 is where most outbound programs leak.\n\nFull guide from Clay Blog linked at salesmake.agency (link in bio).\n\nIf you're working through your outbound setup, feel free to reach out \u2014 salesmake.agency/contact in bio.\n\n#outbound #b2bsales #leadgeneration #coldoutreach #GTM #salesops #demandgeneration #revops #b2bmarketing #salesdevelopment"
+        },
+        "pinterest": {
+          "content": "Explore how AI lead generation workflows actually function in B2B outbound \u2014 from list building and enrichment to cold email at scale. Clay Blog outlines the full stack with real workflow logic. The key insight most teams miss: tooling quality only matters if the targeting upstream is solid. Read the Clay Blog guide, then build your workflow around signal quality first, volume second. For hands-on help with cold outreach strategy, visit SalesMake.",
+          "title": "AI Lead Gen Workflows for B2B: What the Tools Won't Tell You",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "AI Lead Generation Tools: Workflows & B2B Guide (2026) - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/ai-lead-generation",
+        "published": "2026-10-12T18:58:51+00:00",
+        "summary": "Compare AI lead generation tools for list building, enrichment, and personalized cold email, plus the B2B workflows Clay uses to send 800k+ emails a month.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 6.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "More follow-up messages hurt reply rates \u2014 sequences should earn each touchpoint, not just add more of them.",
+      "variants": {
+        "linkedin": {
+          "content": "Most outbound sequences are too long \u2014 and this data backs that up.\n\nPer the Expandi Blog's analysis of 2,966 LinkedIn campaigns, 3-message sequences outperformed longer ones. Campaigns with 5+ messages actually did worse than sending just one. The takeaway isn't 'send less.' It's 'send with purpose.' Every follow-up should have a reason to exist beyond 'just checking in.'\n\nIn practice, that means your second and third messages need to add something: a different angle, a relevant proof point, a question that shifts the frame. If you can't articulate why message four deserves to land in someone's inbox, it probably shouldn't.\n\nVolume isn't the lever. Relevance is.\n\nWhat's your current sequence length \u2014 and do each of those messages have a job to do?\n\nExpandi Blog: https://expandi.io/blog/linkedin-follow-up-message/\n\nIf you're thinking through your outbound sequencing approach, feel free to reach out at https://salesmake.agency/contact.\n\n#Outbound #LinkedInSales #SalesDevelopment"
+        },
+        "twitter": {
+          "content": "More follow-ups \u2260 more replies.\n\nPer Expandi Blog: 3-message LinkedIn sequences beat 5+. Each message needs a reason to exist \u2014 not just a 'bump.'\n\nIf you're rethinking your sequences \u2192 salesmake.agency\n\n#Outbound #SDR"
+        },
+        "bluesky": {
+          "content": "Per Expandi Blog: in 2,966 campaigns, 3-message sequences beat longer ones. 5+ messages actually performed worse than 1.\n\nThe lesson: each follow-up needs a reason to exist. 'Just checking in' isn't one.\n\nExpandi Blog: expandi.io/blog/linkedin-follow-up-message/",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Sending more follow-ups won't save a weak sequence.\n\nPer Expandi Blog's analysis of nearly 3,000 LinkedIn campaigns:\n\u2192 3-message sequences had the highest reply rates\n\u2192 5+ messages performed worse than sending just one\n\u2192 Persistence without purpose is just noise\n\nEvery touchpoint needs a job. A new angle. A useful data point. A question worth answering. If you can't say why message four deserves to exist, cut it.\n\nRelevance beats volume. Every time.\n\nSource link in bio \u2014 and if you're working on your outbound approach, you'll find us at salesmake.agency (link in bio).\n\n#OutboundSales #LinkedInOutreach #SalesDevelopment #ColdOutreach #SDR #B2BSales #SalesSequence #LeadFollowUp #GTM #SalesMake"
+        },
+        "pinterest": {
+          "content": "Improve LinkedIn follow-up sequences by focusing on relevance over volume. Per Expandi Blog's review of 2,966 campaigns, three-message sequences produced the best reply rates \u2014 and adding more messages beyond that hurt performance. Each follow-up touchpoint should introduce something new: a different angle, a proof point, or a sharper question. If a message can't earn its place, cut it. Discover practical outbound sequencing thinking at SalesMake.",
+          "title": "LinkedIn Follow-Up: Why 3 Messages Beat 5+",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Lead Follow Up on LinkedIn: When to Message, What to Say, and When to Stop",
+        "url": "https://expandi.io/blog/linkedin-follow-up-message/",
+        "published": "2026-10-12T18:39:22+00:00",
+        "summary": "Lead follow up works best when each message has a reason to exist. In Expandi\u2019s analysis of 2,966 campaigns, 3-message sequences produced the highest reply rate. More persistence didn&#8217;t mean more replies: campaigns with 5 or more messages performed worse than campaigns that sent only one. Glenn Miseroy, Co-Founder and CEO of Expandi, summarizes the [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 4.4
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
