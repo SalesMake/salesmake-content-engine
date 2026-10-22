@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-22T10:57:34.667836+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Treating sales plays as deployable code \u2014 with staging, testing, and rollback \u2014 changes how outbound teams should think about iteration speed and risk.",
+      "variants": {
+        "linkedin": {
+          "content": "Software teams don't push untested code straight to production. GTM teams do it every day.\n\nClay's blog introduces a concept worth sitting with: applying CI/CD principles \u2014 the way developers stage, test, and roll back releases \u2014 to sales plays and agentic GTM workflows. The idea is that if agents can improve their own sequences, you need a safety layer around that loop, not just a prompt and a prayer.\n\nThe practical implication for outbound isn't about AI agents specifically. It's about the habit of treating a new play like a hypothesis: small batch, controlled rollout, measurable signal, then scale. Most teams skip straight to scale and wonder why results are noisy.\n\nWorth reading if you're thinking about how to structure experimentation in your outbound motion: https://www.clay.com/blog/gtm-self-learning-loops (Clay Blog)\n\nIf you're working through how to bring more structure to your outbound testing, feel free to reach out at https://salesmake.agency/contact"
+        },
+        "twitter": {
+          "content": "Software ships in stages. Sales plays usually don't.\n\nClay Blog makes the case for CI/CD thinking in GTM \u2014 test before you scale, build in rollback, treat plays as hypotheses.\n\nThe discipline matters more than the AI part. #outbound #GTM\n\nIf that's something you're figuring out \u2192 salesmake.agency"
+        },
+        "bluesky": {
+          "content": "Clay Blog frames it as GTM CI/CD \u2014 staging and testing sales plays before full rollout, the way devs handle code releases. The underlying habit (small batch \u2192 signal \u2192 scale) is useful regardless of whether agents are involved. Worth a read.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Your sales plays go straight to production. Your dev team would never.\n\nClay Blog makes a sharp point: if GTM workflows are getting more automated, you need the same discipline devs use \u2014 staged rollouts, testing, rollback \u2014 before a bad play burns your whole list.\n\n\u2192 Small batch first\n\u2192 Measure the signal\n\u2192 Then scale what works\n\u2192 Build in a way to undo what doesn't\n\nNot a new idea, but outbound teams rarely apply it. Worth thinking about.\n\nFull article linked on Clay Blog \u2014 find it via link in bio alongside salesmake.agency\n\nHappy to help if you're building out a more structured cold outreach process \u2014 link in bio.\n\n#outboundsales #gtm #salesops #coldoutreach #salesenablement #b2bsales #demandgeneration #salesdevelopment #outbound"
+        },
+        "pinterest": {
+          "content": "Apply software release discipline to outbound sales plays \u2014 stage them, test in small batches, measure signal, then scale. Clay Blog's GTM CI/CD concept is a practical reminder that iteration speed means nothing without a rollback plan. Read the full post on the Clay Blog, then reach out to SalesMake if you're building a more structured cold outreach process.",
+          "title": "Treat Sales Plays Like Code: Staged Testing for Outbound GTM",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "In an Agentic GTM Era, Sales Plays Will Ship Like Software - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/gtm-self-learning-loops",
+        "published": "2026-10-21T17:18:21+00:00",
+        "summary": "Clay\u2019s go-to-market engineers adapted the way developers review and release code, calling it GTM CI/CD, to safely run learning loops where agents improve their own workflows.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 3.6
+      }
+    },
+    {
+      "usable": true,
+      "angle": "A full LinkedIn tool stack is only useful if the three layers \u2014 content, outreach, analytics \u2014 are actually connected; most teams pick tools without checking whether the layers talk to each other.",
+      "variants": {
+        "linkedin": {
+          "content": "A tool list isn't a strategy.\n\nExpandi published a solid breakdown of 14 LinkedIn marketing tools across content, outreach, and analytics \u2014 worth a read if you're auditing your stack. But the more useful question it raises isn't 'which tools?' It's whether your three layers are actually wired together.\n\nContent that builds an audience means nothing if your outreach sequences don't reference what that audience responded to. Analytics that track impressions but not replied conversations tell you about reach, not pipeline. Most teams we talk to have all three layers covered by tools \u2014 they're just running them in separate tabs, not as one system.\n\nBefore adding another tool, it's worth asking: does my outreach know what my content is doing? That one connection tends to move metrics faster than any new platform.\n\nExpandi Blog: https://expandi.io/blog/linkedin-marketing-tools/\n\nIf you're working on how your outbound fits into your broader LinkedIn presence, feel free to reach out at https://salesmake.agency/contact.\n\n#LinkedInMarketing #Outbound #GTM"
+        },
+        "twitter": {
+          "content": "A LinkedIn tool stack isn't the problem. Disconnected layers are.\n\nContent, outreach, analytics \u2014 most teams run all three. Few run them as one system.\n\n(Expandi Blog has a solid 14-tool breakdown worth checking)\n\nNeed help on the outreach side? salesmake.agency\n\n#Outbound #LinkedIn"
+        },
+        "bluesky": {
+          "content": "14 LinkedIn tools mapped by Expandi Blog \u2014 useful audit. The real gap: most teams have all three layers (content, outreach, analytics) but they don't talk to each other. Outreach that ignores what content is landing isn't a system, it's guesswork.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Your LinkedIn tool stack has three layers. Are they actually connected?\n\n\u2192 Content builds the audience\n\u2192 Outreach turns attention into conversations\n\u2192 Analytics shows what's earning pipeline\n\nExpandi Blog mapped 14 tools across all three \u2014 solid reference if you're auditing what you're running.\n\nBut the gap we see most often isn't missing tools. It's outreach that has no idea what the content side is doing. Two separate tabs, no shared signal.\n\nBefore you add anything to the stack, check whether the pieces talk to each other.\n\nHappy to help if you're figuring out how your outbound fits the bigger LinkedIn picture \u2014 link in bio or find us at salesmake.agency.\n\n#LinkedInMarketing #OutboundSales #GTM #B2BSales #SalesTools #ColdOutreach #LinkedInStrategy #SalesStack #Prospecting"
+        },
+        "pinterest": {
+          "content": "Audit your LinkedIn marketing stack before adding more tools. Expandi Blog breaks down 14 platforms covering content creation, outreach automation, scheduling, and analytics \u2014 useful for any B2B team reviewing what they're running. The key question: are your content, outreach, and analytics layers connected, or running in isolation? Disconnected tools give you data without direction. Get the full breakdown at the Expandi Blog, and if you're sorting out the outbound piece of your LinkedIn strategy, reach out via the link on this pin.",
+          "title": "LinkedIn Tool Stack: Are Your Content, Outreach & Analytics Actually Connected?",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "14 Best LinkedIn Marketing Tools in 2026: Content, Outreach, Scheduling + Analytics",
+        "url": "https://expandi.io/blog/linkedin-marketing-tools/",
+        "published": "2026-10-21T17:45:59+00:00",
+        "summary": "The best LinkedIn marketing tools in 2026 work as one system: content builds the audience, outreach turns that attention into conversations, and analytics shows which parts earn pipeline. We mapped the stack job by job, checked every price on the vendor&#8217;s own pricing page, and pulled numbers from our own outreach data to show where [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 3.3
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Non-profits get strong connection and note-reply rates but lose momentum after acceptance \u2014 the follow-through message is where the sequence actually needs work.",
+      "variants": {
+        "linkedin": {
+          "content": "Non-profit outreach on LinkedIn has a quiet problem hiding inside decent headline numbers.\n\nPer the Expandi Blog's 2026 industry benchmarks, non-profit accounts accept connections at 29.7% and reply to connection notes at 5.0% \u2014 both above platform average, ranking 9th and 3rd respectively across 38 industries. Solid. But the post-acceptance message reply rate drops to 8.0%, which is 2.4 points below average and ranks 36th of 38.\n\nThat gap tells a specific story: the opening is working, the positioning after the door opens is not. Most sequences treat acceptance as the finish line and send a generic follow-up that doesn't match why the person connected in the first place. The warmth that earned the acceptance evaporates.\n\nIf you're running outreach to or within the non-profit sector, the lever isn't the connection request \u2014 it's the message that comes right after. That's where sequence design actually matters.\n\nSource: Expandi Blog \u2014 https://expandi.io/industry-benchmarks/non-profit-organization-management/\n\nIf you're working on cold outreach in this space and want a second set of eyes, feel free to reach out at https://salesmake.agency/contact."
+        },
+        "twitter": {
+          "content": "Non-profits rank 3rd on LinkedIn note replies but 36th on post-acceptance messages. The door opens \u2014 then the sequence drops the ball. That's a copywriting problem, not a targeting one. (Via Expandi Blog) #LinkedInOutreach #B2BSales\n\nWorking on something similar? salesmake.agency"
+        },
+        "bluesky": {
+          "content": "Non-profits rank 3rd of 38 industries on LinkedIn note replies \u2014 but 36th on post-acceptance messages. The warm open isn't the problem. What you send after is. (Via Expandi Blog)",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Your LinkedIn connection note is working. Your follow-up isn't. \ud83d\udcc9\n\nPer Expandi Blog's 2026 benchmarks, non-profit accounts on LinkedIn:\n\u2192 Accept connections at 29.7% (above average)\n\u2192 Reply to connection notes at 5.0% (3rd of 38 industries)\n\u2192 But reply to post-acceptance messages at just 8.0% (36th of 38)\n\nThe warm entry earned. The follow-through lost it.\n\nThe sequence gap isn't in who you're reaching \u2014 it's in what you say once they've let you in. That message needs to match the reason they connected, not pivot to a pitch.\n\nLink in bio to reach us at salesmake.agency if you're thinking through your outreach approach.\n\n#LinkedInOutreach #OutboundSales #NonProfitMarketing #B2BSales #SalesSequence #ColdOutreach #GTM #SalesDevelopment #OutreachStrategy"
+        },
+        "pinterest": {
+          "content": "Benchmark your LinkedIn outreach against non-profit industry data \u2014 and find the exact drop-off point most sequences miss. Per Expandi Blog's 2026 benchmarks, non-profit accounts rank 3rd for connection-note replies but fall to 36th for post-acceptance message replies. Fixing that gap means rethinking what you send after the door opens, not how you knock. Explore outbound strategy at SalesMake.",
+          "title": "LinkedIn Outreach Drop-Off: Where Non-Profit Sequences Lose Momentum",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "LinkedIn Outreach Benchmarks for Non-Profit Organizations (2026)",
+        "url": "https://expandi.io/industry-benchmarks/non-profit-organization-management/",
+        "published": "2026-10-22T07:00:00+00:00",
+        "summary": "Non-profit Organization Mgmt vs. the platform average Metric Non-profit Organization Mgmt All industries Difference Rank Connection acceptance 29.7% 28.5% +1.2 pts 9th of 38 Connection-note reply 5.0% 3.0% +2.0 pts 3rd of 38 Message reply after acceptance 8.0% 10.4% -2.4 pts 36th of 38 Across the 38 industries with at least 50 sending accounts, acceptance [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 2.2
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
