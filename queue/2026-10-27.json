@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-27T11:23:16.646989+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Model routing that optimizes cost per task is quietly more useful for outbound teams than headline AI features \u2014 it changes what you can afford to run at scale.",
+      "variants": {
+        "linkedin": {
+          "content": "The AI conversation in outbound usually focuses on capability \u2014 which model is smartest, which writes the best email. Cost per row rarely comes up. That's backwards.\n\nClay's new Claygent auto-mode does something practically useful: it routes each enrichment task to the best-fit model for that specific job, and per Clay Blog, that drops costs by 47% compared to always running the most capable model. The underlying router was post-trained with Applied Compute \u2014 so it's not just defaulting to the cheapest option, it's making a judgment call per task.\n\nFor anyone running Clay at meaningful volume, that's not a minor footnote. The economics of enrichment loops, waterfall research, or AI-assisted segmentation change pretty materially when you're not paying top-tier inference costs on tasks that don't need it. The question worth asking: how many of your current AI steps in Clay actually need the most powerful model, and how many are doing simpler pattern work that a lighter model handles just as well?\n\nFull details via Clay Blog: https://www.clay.com/blog/automode-for-claygent\n\nIf you're working on outbound infrastructure and want a second set of eyes, feel free to reach out at https://salesmake.agency/contact.\n\n#GTM #OutboundSales #Clay"
+        },
+        "twitter": {
+          "content": "AI enrichment costs matter more than people admit.\n\nClay's new auto-mode routes each task to the right model \u2014 per Clay Blog, that's 47% cheaper than always using the top model.\n\nSmarter defaults = affordable scale. Worth knowing.\n\nHappy to talk cold outreach if useful \u2014 salesmake.agency #GTM #Outbound"
+        },
+        "bluesky": {
+          "content": "Clay's Claygent auto-mode picks the right model per task \u2014 per Clay Blog, 47% cheaper than always running the most capable one.\n\nFor outbound teams running enrichment at scale, that's a meaningful cost shift worth accounting for.\n\nIf you need help thinking through outbound infrastructure, reach out.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The AI feature nobody's talking about enough: cost-per-task routing.\n\n\u2192 Clay's Claygent auto-mode picks a different model for each enrichment job\n\u2192 Per Clay Blog, it runs 47% cheaper than always using the most powerful model\n\u2192 That math matters a lot when you're running research or segmentation at volume\n\nMost teams overpay on AI steps that don't need heavy lifting. Auto-mode is a practical fix for that.\n\nFull breakdown on the Clay Blog \u2014 link in bio, and you'll find salesmake.agency there too if you want to talk outbound.\n\n#OutboundSales #GTM #SalesOps #ColdOutreach #ClayHQ #RevenueOperations #SalesDevelopment #B2BSales #LeadGeneration #SalesTools"
+        },
+        "pinterest": {
+          "content": "Reduce AI enrichment costs in Clay by letting auto-mode route each task to the right model. Per Clay Blog, Claygent auto-mode costs 47% less than always running the most capable model \u2014 a meaningful saving for outbound teams doing enrichment at scale. Learn how the model router works, and think about where your own Clay workflows are over-indexing on expensive inference. Read more at the Clay Blog. If you're looking into cold outreach or outbound sales strategy, get in touch via the link.",
+          "title": "Cut Clay Enrichment Costs with Claygent Auto-Mode",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Claygent auto-mode: The right model for every task - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/automode-for-claygent",
+        "published": "2026-10-27T06:51:54+00:00",
+        "summary": "Claygent auto-mode picks the best model for each row while optimizing for cost. We post-trained the model router with Applied Compute, and auto-mode costs 47% less than the most capable model.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Award lists like this are useful stack research \u2014 knowing which data partners Clay itself backs helps outbound teams make faster, lower-risk enrichment decisions.",
+      "variants": {
+        "linkedin": {
+          "content": "Clay just published its 2026 Data Partner Award winners \u2014 and for anyone building or auditing an outbound stack, it's worth a skim.\n\nNot because awards mean much on their own, but because the shortlist reflects which enrichment providers are holding up under real GTM workloads. When the platform you're already using signals confidence in specific data partners, that narrows the evaluation list considerably.\n\nIf you're deciding where to invest on data quality \u2014 intent signals, contact enrichment, firmographics \u2014 this is a reasonable starting point for the conversation.\n\nFull list via the Clay Blog: https://www.clay.com/blog/clays-2026-data-partner-awards\n\nIf you're working through outbound stack decisions and want a second pair of eyes, feel free to reach out at https://salesmake.agency/contact."
+        },
+        "twitter": {
+          "content": "Clay dropped its 2026 Data Partner Award winners \u2014 a useful shortlist if you're evaluating enrichment tools for outbound.\n\nWhen the platform itself endorses specific providers, it cuts research time. Worth a look.\n\n(Source: Clay Blog) #outbound #GTM\n\nNeed help thinking through cold outreach? salesmake.agency"
+        },
+        "bluesky": {
+          "content": "Clay named its 2026 Data Partner Award winners \u2014 a handy shortlist for anyone evaluating enrichment providers for outbound. Platform-backed signals beat cold vendor research.\n\nVia Clay Blog. Happy to help if you're figuring out your outbound stack \u2192 salesmake.agency/contact",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Clay just named its 2026 Data Partner Award winners \u2014 and it's actually useful research for outbound teams. \ud83d\udd0d\n\n\u2192 Cuts down enrichment vendor evaluation time\n\u2192 Platform-endorsed = lower-risk starting point\n\u2192 Covers intent, contact data, firmographics and more\n\nIf you're building or tidying up your outbound stack, it's worth bookmarking.\n\nFull list on the Clay Blog \u2014 link in bio at salesmake.agency\n\nIf you need help thinking through cold outreach or data strategy, get in touch \u2014 link in bio.\n\n#outbound #salesops #GTM #leadgeneration #salesenablement #coldoutreach #B2Bsales #dataenrichment #revops"
+        },
+        "pinterest": {
+          "content": "Explore Clay's 2026 Data Partner Award winners to shortcut your outbound enrichment stack research. The Clay Blog rounded up 10 vetted data providers across intent signals, contact enrichment, and firmographics \u2014 useful if you're evaluating tools without wanting to start from scratch. Per Clay Blog, these are the partners holding up under real GTM workloads. Reach out via the link if you're working on outbound and want a hand.",
+          "title": "Clay's 2026 Data Partner Award Winners \u2014 Outbound Stack Research",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Announcing the Winners of Clay's 2026 Data Partner Awards - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/clays-2026-data-partner-awards",
+        "published": "2026-10-26T19:57:31+00:00",
+        "summary": "Clay Partner Day recap and the 10 data partners who took home awards",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The engineering behind Clay's CPJ dataset matters to outbound practitioners because data quality \u2014 not volume \u2014 is what separates a list from a pipeline.",
+      "variants": {
+        "linkedin": {
+          "content": "A billion records is only useful if they can tell you something actionable.\n\nClay published a detailed look at the engineering behind their CPJ dataset \u2014 how they structure, enrich, and surface signals across a massive corpus of company and people data. It's an engineering post, but the implication for outbound teams is practical: the gap between 'we have data' and 'we know who to contact and why' is almost entirely a data-quality problem, not a data-volume problem.\n\nMost outbound lists fail before a single email is sent. Wrong titles, stale job changes, missing context. The teams getting consistent replies aren't sending more \u2014 they're starting from cleaner, better-explained records.\n\nWorth a read if you care about what's actually under the hood: Clay Blog \u2192 https://www.clay.com/blog/explaining-a-billion-records\n\nIf you're thinking through how data quality fits into your outbound process, feel free to reach out at https://salesmake.agency/contact\n\n#outbound #GTM #salesops"
+        },
+        "twitter": {
+          "content": "More records \u2260 better pipeline.\n\nClay's engineering post on their CPJ dataset is a good reminder: outbound breaks at the data layer, not the copy layer.\n\nClean, explained records beat volume every time. (via Clay Blog)\n\nIf you're rethinking your list quality \u2014 salesmake.agency #outbound #GTM"
+        },
+        "bluesky": {
+          "content": "Clay's post on building their CPJ dataset is an engineering piece with a practical outbound lesson buried in it: data quality beats data volume, every time. Most lists fail before a single message is sent. (via Clay Blog)\n\nWorking on your outbound data layer? salesmake.agency/contact",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Your outbound list fails before the first send \u2014 here's why.\n\n\u2192 Clay published a deep dive on the engineering behind their billion-record CPJ dataset (link: Clay Blog)\n\u2192 The real takeaway isn't scale \u2014 it's that unexplained, stale, or mismatched records kill reply rates before copy ever gets a chance\n\u2192 Volume is easy. Accurate, enriched, signal-backed records are the hard part\n\u2192 Most teams optimise the message. Fewer optimise what the message is built on.\n\nIf you're working on your outbound data quality, happy to help \u2014 link in bio (salesmake.agency)\n\n#outbound #GTM #salesprospecting #coldoutreach #b2bsales #leadgeneration #salesops #revops #outboundsales"
+        },
+        "pinterest": {
+          "content": "Explore why outbound data quality matters more than list size \u2014 Clay Blog's breakdown of their billion-record CPJ dataset reveals what separates a real pipeline from a bloated spreadsheet. Stale titles, missed job changes, and missing context break campaigns before they start. Apply these data-quality principles to sharpen your own outbound process. If you need help thinking through cold outreach, reach out via the link.",
+          "title": "Data Quality Over Data Volume: An Outbound Lesson from Clay's Engineering",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Making a Billion Records Explain Themselves - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/explaining-a-billion-records",
+        "published": "2026-10-26T19:01:09+00:00",
+        "summary": "The engineering behind Clay\u2019s CPJ dataset",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
