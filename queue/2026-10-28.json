@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-28T11:56:20.363972+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Job changes aren't just a reason to reconnect \u2014 they're a live buying signal if you build the right trigger into your outbound motion.",
+      "variants": {
+        "linkedin": {
+          "content": "Most teams treat a champion's departure as a loss. The smarter move is to treat it as an opening.\n\nWhen someone who already believes in your product moves to a new company, they carry that conviction with them \u2014 and the new company doesn't have the contract yet. That gap is a real opportunity, and it's one that closes fast if you're not watching.\n\nClay shared how they built a workflow to catch exactly this moment: a senior user leaves for a company that isn't a customer, and a personalized outreach sequence gets drafted automatically for the rep. No manual monitoring, no delay. The signal fires; the motion starts. Worth reading if you're thinking about how to operationalize event-based triggers beyond the usual 'new job' LinkedIn ping.\n\nClay Blog: https://www.clay.com/blog/how-we-turn-a-champions-departure-into-a-buying-signal\n\nAre you building trigger-based outreach into your motion, or still relying on reps to spot these moments manually?\n\nIf you're working on outbound sequences like this, feel free to reach out at https://salesmake.agency/contact"
+        },
+        "twitter": {
+          "content": "A champion leaves for a company that doesn't use your product yet.\n\nThat's not a loss \u2014 it's a warm intro to a new account.\n\nClay Blog breaks down how to automate that trigger. Worth the read.\n\nWorking on something similar? salesmake.agency #outbound #GTM"
+        },
+        "bluesky": {
+          "content": "Champion leaves \u2192 joins a non-customer \u2192 personalized sequence fires automatically.\n\nClay built this trigger into their own outbound motion. Clean, practical, replicable.\n\nFull breakdown on the Clay Blog (link below).\n\nHappy to help if you're thinking through trigger-based outreach \u2014 salesmake.agency/contact",
+          "website_url": "https://www.clay.com/blog/how-we-turn-a-champions-departure-into-a-buying-signal",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Job changes are buying signals \u2014 if you're set up to catch them. \ud83d\udce1\n\n\u2192 A senior user leaves a customer account\n\u2192 They land at a company with no contract\n\u2192 An automated sequence is drafted for your rep \u2014 instantly\n\nThat's the workflow Clay built for their own GTM motion, and it's a good example of what event-triggered outreach actually looks like in practice.\n\nFull breakdown on the Clay Blog \u2014 link in bio (salesmake.agency).\n\nIf you're figuring out your outbound triggers, we're easy to reach \u2014 link in bio.\n\n#outboundsales #GTM #salesautomation #coldoutreach #salesops #B2Bsales #revenueoperations #outboundmarketing #salestips"
+        },
+        "pinterest": {
+          "content": "Turn champion job changes into pipeline with trigger-based outbound. When a senior user moves to a company that isn't a customer, that gap closes fast \u2014 unless you have a workflow watching for it. Clay Blog shares exactly how they automated this buying signal into a personalized outreach sequence. Practical GTM playbook worth bookmarking. If you need help thinking through cold outreach or outbound triggers, reach out via the link.",
+          "title": "How to Turn a Champion's Job Change Into a Buying Signal",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How We Turn a Champion\u2019s Departure Into a Buying Signal - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/how-we-turn-a-champions-departure-into-a-buying-signal",
+        "published": "2026-10-27T22:16:45+00:00",
+        "summary": "Clay Growth Play #1: When a senior leader leaves a company that pays for Clay for one that doesn\u2019t, a workflow drafts a personalized outreach sequence for our sales reps.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 7.2
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The jump from average to above-average reply rates isn't about using AI SDRs \u2014 it's about treating sequence design as an ongoing experiment, not a one-time setup.",
+      "variants": {
+        "linkedin": {
+          "content": "Most teams deploy an AI SDR, see okay numbers, and move on. The setup becomes the strategy.\n\nThe Instantly Blog breaks down why that's where the ceiling gets set \u2014 not by the tool, but by the lack of a real testing loop. The difference between a 3.4% reply rate and clearing 5.5%+ isn't a better AI. It's structured A/B tests, honest benchmarks, and sequences that get tuned over time rather than launched and forgotten.\n\nThe deliverability angle is easy to overlook too. Plenty of outbound programs are sending into the void because the testing cadence doesn't account for inbox placement variables. Fix the experiment, and the output changes.\n\nWorth a read if you're running or evaluating AI SDR workflows: https://instantly.ai/blog/ai-sdr-best-practices/\n\nIf you're working through how to structure outbound testing or build sequences that actually improve over time, feel free to reach out at https://salesmake.agency/contact\n\n#outbound #salesops"
+        },
+        "twitter": {
+          "content": "AI SDRs don't plateau \u2014 lazy sequence design does.\n\nInstantly Blog has a solid breakdown of why most teams cap out at average reply rates and what a proper testing loop actually looks like.\n\nSource: Instantly Blog | salesmake.agency #outbound #SDR"
+        },
+        "bluesky": {
+          "content": "The AI SDR isn't why reply rates stall. The missing testing cadence is.\n\nInstantly Blog lays out how structured A/B experiments and honest benchmarks move numbers past the average. Worth reading if you're building or auditing outbound sequences.\n\nhttps://instantly.ai/blog/ai-sdr-best-practices/",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Your AI SDR isn't the ceiling. Your sequence design is. \ud83d\udcca\n\nInstantly Blog put out a practical breakdown of what it actually takes to move reply rates from average to above average \u2014 and it comes down to:\n\n\u2192 Treating sequences as experiments, not launches\n\u2192 Real A/B testing with a proper cadence\n\u2192 Deliverability variables most teams ignore\n\nThe tool is the easy part. The discipline around it is where the gap shows.\n\nFull article linked at https://instantly.ai/blog/ai-sdr-best-practices/ \u2014 or find us at salesmake.agency (link in bio) if you need help thinking through your outbound approach.\n\n#outbound #salesdev #aiSDR #coldoutreach #GTM #salesstrategy #b2bsales #outboundsales #leadgeneration"
+        },
+        "pinterest": {
+          "content": "Improve AI SDR reply rates with structured sequence testing \u2014 Instantly Blog outlines the benchmarks, A/B frameworks, and deliverability tactics that move results past the average. The real lever isn't the tool; it's the testing loop around it. Read the full breakdown at https://instantly.ai/blog/ai-sdr-best-practices/ \u2014 and if you're thinking through your outbound setup, happy to help at SalesMake.",
+          "title": "AI SDR Best Practices: How Sequence Testing Lifts Reply Rates",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "AI SDR best practices for maximum lead generation output",
+        "url": "https://instantly.ai/blog/ai-sdr-best-practices/",
+        "published": "2026-10-27T12:05:00+00:00",
+        "summary": "AI SDR best practices to move reply rates from 3.43% average to 5.5%+ using proven sequence design, testing cadence, and workflows. This playbook gives you benchmarks, A/B test frameworks, and deliverability tactics to run valid experiments that lift meetings booked.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 5.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Channel-switching without context isn't multi-channel outreach \u2014 it's just noise, and the fix is a single prospect record that governs both LinkedIn and email sequencing.",
+      "variants": {
+        "linkedin": {
+          "content": "A prospect replies to your email on Tuesday. Your LinkedIn message lands Thursday \u2014 with zero acknowledgment that the conversation already started. That's not a follow-up. That's a reset.\n\nThe Expandi Blog has a solid breakdown of B2B lead nurturing across LinkedIn and email (link below), and the core point is one most outbound teams underweight: both channels need to feed the same prospect record, and activity on one should pause or redirect the other. Buyer signals \u2014 a reply, a profile view, a link click \u2014 are sequencing instructions. Ignoring them doesn't just waste a touchpoint; it actively signals that you're not paying attention.\n\nThe mechanics matter less than the mindset shift. Multi-channel outreach isn't about adding channels. It's about making sure every channel knows what the others have already done.\n\nAre your LinkedIn and email sequences actually talking to each other, or just running in parallel?\n\nhttps://expandi.io/blog/b2b-lead-nurturing/\n\nIf you're working on tightening up your outbound sequences, feel free to reach out at https://salesmake.agency/contact.\n\n#Outbound #B2BSales"
+        },
+        "twitter": {
+          "content": "Multi-channel outreach fails when your LinkedIn and email don't share a memory.\n\nExpandi Blog covers the fix well \u2014 one prospect record, both channels. Worth a read.\n\nIf your sequences need work: salesmake.agency\n\n#Outbound #B2BSales"
+        },
+        "bluesky": {
+          "content": "Replying to an email and getting a LinkedIn message that ignores it isn't nurturing \u2014 it's just two disconnected sequences.\n\nExpandi Blog makes the case for a single prospect record governing both channels. Solid, practical read.\n\nHappy to help if you're thinking through your outbound setup.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Your LinkedIn and email sequences aren't multi-channel if they don't share a memory. \ud83e\uddf5\n\nExpandi Blog breaks down exactly where B2B lead nurturing falls apart \u2014 and it usually comes down to one thing:\n\n\u2192 A prospect replies to your email\n\u2192 Your LinkedIn follow-up arrives like it never happened\n\u2192 You've lost the thread before the conversation even started\n\nThe fix isn't a fancier tool. It's one prospect record that both channels actually respect.\n\nLink to the full article + our contact page in bio \u2014 salesmake.agency\n\nIf you're building out your outbound motion, we're easy to reach (link in bio).\n\n#B2BSales #OutboundSales #LeadNurturing #SalesSequences #LinkedInOutreach #EmailOutreach #ColdOutreach #GTM #SalesDevelopment"
+        },
+        "pinterest": {
+          "content": "Avoid the most common B2B lead nurturing mistake: running LinkedIn and email campaigns that don't share prospect data. When a buyer replies to your email, your LinkedIn sequence should know about it \u2014 or you're just adding noise. Expandi Blog outlines how to link both channels to one prospect record so buyer signals actually drive your sequencing. Read the full article at expandi.io/blog/b2b-lead-nurturing/ \u2014 and if you need a hand thinking through your cold outreach setup, get in touch via the link.",
+          "title": "Why Your LinkedIn and Email Sequences Need One Shared Prospect Record",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "9 B2B Lead Nurturing Strategies Across LinkedIn and Email",
+        "url": "https://expandi.io/blog/b2b-lead-nurturing/",
+        "published": "2026-10-27T19:25:28+00:00",
+        "summary": "A prospect replies to your email on Tuesday. But on Thursday, your LinkedIn follow-up arrives as if the conversation never happened. That&#8217;s where otherwise sensible B2B lead nurturing strategies come undone. The solution is to build LinkedIn and email campaigns around buyer signals and link both channels to one prospect record. When the prospect replies, [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 4.4
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
