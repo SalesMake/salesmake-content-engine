@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-29T12:05:18.940549+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "A champion's job change is an underused buying signal \u2014 Clay's own workflow shows how to operationalize it before a competitor does.",
+      "variants": {
+        "linkedin": {
+          "content": "Most teams track job changes as a nice-to-have. Clay built a workflow that treats them as a trigger.\n\nThe setup is straightforward: when a senior leader who used Clay at a previous company joins one that doesn't have it, an automated sequence goes out to your sales reps \u2014 personalized, contextual, and timed before the new-job honeymoon ends. The champion already knows the product. The new employer already has the problem. That's a short sales cycle waiting to happen.\n\nWhat's worth borrowing here isn't the Clay-specific mechanics \u2014 it's the principle. A departing user is two warm leads: a potential re-engagement at their old company, and a low-friction opener at the new one. Most outbound programs miss both because they're not watching for the signal.\n\nThe Clay Blog breaks down the full workflow: https://www.clay.com/blog/how-we-turn-a-champions-departure-into-a-buying-signal\n\nIf you're thinking through how to wire signals like this into your outbound motion, feel free to reach out at https://salesmake.agency/contact\n\n#outbound #GTM #salesops"
+        },
+        "twitter": {
+          "content": "A champion leaves for a company that doesn't use your product.\n\nThat's two warm leads \u2014 one at the old company, one at the new.\n\nClay built a workflow to catch both. Worth stealing the concept. (Clay Blog)\n\nOutbound help \u2192 salesmake.agency #GTM #outbound"
+        },
+        "bluesky": {
+          "content": "Job-change signals are underused. Clay tracks when a champion moves to a company that doesn't have their product \u2014 and triggers outreach automatically. Two warm leads from one departure. Via Clay Blog.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "A champion moves to a new company. Most teams never notice.\n\n\u2192 Old employer: potential re-engagement\n\u2192 New employer: a buyer who already knows the value\n\nClay built a workflow that catches this signal automatically and drafts outreach before the window closes. The logic is simple \u2014 the execution is what most teams skip.\n\nFull breakdown on the Clay Blog (link in bio alongside salesmake.agency).\n\nHappy to help if you're figuring out how to build triggers like this into your own outbound \u2014 link in bio.\n\n#outbound #salesops #GTM #coldoutreach #b2bsales #salesdevelopment #leadgeneration #salesautomation #revops"
+        },
+        "pinterest": {
+          "content": "Turn champion job changes into buying signals \u2014 automatically. When a senior user moves to a company that doesn't have your product, that's a warm outreach opportunity most teams miss. Clay's GTM workflow shows how to catch the signal and personalize outreach before the moment passes. Read the full breakdown on the Clay Blog. If you're working on outbound signals or sequences, get in touch at salesmake.agency/contact.",
+          "title": "How to Turn a Champion's Job Change Into an Outbound Signal",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How We Turn a Champion\u2019s Departure Into a Buying Signal - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/how-we-turn-a-champions-departure-into-a-buying-signal",
+        "published": "2026-10-28T21:39:39+00:00",
+        "summary": "Clay Growth Play #1: When a senior leader leaves a company that pays for Clay for one that doesn\u2019t, a workflow drafts a personalized outreach sequence for our sales reps.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 7.2
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The real signal in these benchmarks isn't the acceptance rate \u2014 it's that Electrical & Electronic Manufacturing ranks 6th out of 38 for post-acceptance reply rates, meaning the sector responds well once trust is established, which has direct implications for how you sequence and warm your outreach.",
+      "variants": {
+        "linkedin": {
+          "content": "Most people benchmark LinkedIn outreach at the connection request stage. That's the wrong number to obsess over.\n\nPer the Expandi Blog's 2026 industry benchmarks, Electrical & Electronic Manufacturing sits at a fairly average 29% connection acceptance rate \u2014 close to the all-industry mean of 28.5%. Unremarkable. But the post-acceptance reply rate tells a different story: 12.1% vs a 10.4% platform average, landing this sector 6th out of 38 industries tracked.\n\nWhat that gap actually suggests: once someone in this space accepts a connection, they're more likely to respond to a follow-up message than contacts in most other industries. The bottleneck isn't openness \u2014 it's what happens in that first message after acceptance. Sequences that treat the follow-up as a formality leave a real response rate on the table.\n\nIf you're selling into manufacturing, the implication is straightforward: invest more in the content and timing of your post-acceptance touchpoint than in optimising your connection note.\n\nExpandi Blog benchmarks: https://expandi.io/industry-benchmarks/electrical-electronic-manufacturing/\n\nIf you're working on LinkedIn outreach into industrial or manufacturing sectors and want a second opinion, feel free to get in touch at https://salesmake.agency/contact.\n\n#LinkedInOutreach #B2BSales #ManufacturingSales"
+        },
+        "twitter": {
+          "content": "E&E Manufacturing ranks 6th of 38 industries for post-acceptance reply rates on LinkedIn \u2014 but near-average for connection acceptance.\n\nThe bottleneck isn't getting in. It's what you say after.\n\nSource: Expandi Blog | salesmake.agency #B2BSales #LinkedInOutreach"
+        },
+        "bluesky": {
+          "content": "Electrical & Electronic Manufacturing: 29% connection acceptance (average), but 12.1% post-acceptance reply rate \u2014 6th of 38 industries per Expandi Blog. The follow-up message matters more than the connection note in this sector.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The connection request isn't your conversion point \u2014 the message after is. \ud83d\udcec\n\nPer the Expandi Blog's 2026 LinkedIn benchmarks for Electrical & Electronic Manufacturing:\n\n\u2192 Connection acceptance: 29% (near platform average)\n\u2192 Post-acceptance reply rate: 12.1% vs 10.4% average\n\u2192 Sector rank: 6th of 38 industries\n\nIf you're reaching out to this sector, the data suggests focusing your effort on what you send after the connection \u2014 not just on getting accepted.\n\nHappy to help if you're figuring out your outreach sequence \u2014 link in bio or find us at salesmake.agency\n\n#LinkedInOutreach #B2BSales #SalesSequence #ManufacturingSales #OutboundSales #ColdOutreach #GTM #SalesStrategy #IndustrialSales #SalesDevelopment"
+        },
+        "pinterest": {
+          "content": "Discover what LinkedIn outreach benchmarks reveal about Electrical & Electronic Manufacturing: a near-average connection acceptance rate but a standout 12.1% post-acceptance reply rate \u2014 6th of 38 industries tracked by the Expandi Blog in 2026. Use this data to prioritise follow-up message quality over connection note optimisation when prospecting in this sector. Reach out about your outbound approach at salesmake.agency/contact.",
+          "title": "LinkedIn Outreach Benchmarks: Electrical & Electronic Manufacturing 2026",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "LinkedIn Outreach Benchmarks for Electrical & Electronic Manufacturing (2026)",
+        "url": "https://expandi.io/industry-benchmarks/electrical-electronic-manufacturing/",
+        "published": "2026-10-29T07:00:00+00:00",
+        "summary": "Electrical / Electronic Manufacturing vs. the platform average Metric Electrical / Electronic Manufacturing All industries Difference Rank Connection acceptance 29.0% 28.5% +0.5 pts 13th of 38 Connection-note reply 2.9% 3.0% -0.1 pts 14th of 38 Message reply after acceptance 12.1% 10.4% +1.7 pts 6th of 38 Across the 38 industries with at least 50 sending [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 2.2
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Medical device outreach underperforms platform averages at every stage \u2014 the funnel leak is real, and fixing it starts with understanding why this audience is structurally harder to move.",
+      "variants": {
+        "linkedin": {
+          "content": "Medical device LinkedIn outreach sits below the platform average at every stage of the funnel \u2014 connection acceptance, note replies, post-acceptance messages. Per the Expandi Blog's 2026 industry benchmark data, it ranks 30th or lower out of 38 industries tracked.\n\nThat's not surprising if you've worked this space. The buyers \u2014 clinical procurement leads, surgeons, hospital administrators \u2014 are highly gatekept, rarely on LinkedIn recreationally, and deeply skeptical of unsolicited contact. Generic sequences that work in SaaS or recruiting don't translate.\n\nThe practical implication: volume is the wrong lever here. Tighter ICP definition, relevance-first messaging, and longer patience windows matter more than send frequency. If your reply rate after acceptance is sitting below 9%, the problem is almost never the tool \u2014 it's the message-to-audience fit.\n\nWorth a read if you're prospecting in healthcare or med-tech: https://expandi.io/industry-benchmarks/medical-device/\n\nIf you're working on outbound into medical devices or adjacent regulated industries, feel free to reach out at https://salesmake.agency/contact.\n\n#LinkedInOutreach #MedicalDevices #B2BSales"
+        },
+        "twitter": {
+          "content": "Med device LinkedIn outreach ranks 30th of 38 industries on acceptance rate. Below average at every funnel stage.\n\nVolume won't fix it. Message-to-audience fit will.\n\n(Per Expandi Blog benchmarks \u2014 source named, not linked)\n\nFor outbound help: salesmake.agency #B2BSales #MedTech"
+        },
+        "bluesky": {
+          "content": "Medical device LinkedIn outreach underperforms the platform average at connection, reply, and message stages \u2014 per Expandi Blog's 2026 benchmarks. Not a tool problem. A message-fit problem. Tighter ICP, slower cadence, more relevance.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Medical device outreach on LinkedIn is a tough room \u2014 and the numbers back it up.\n\nPer Expandi Blog's 2026 benchmarks:\n\u2192 Connection acceptance: 26.3% (platform avg: 28.5%)\n\u2192 Note reply rate: 2.5% (platform avg: 3.0%)\n\u2192 Post-acceptance reply: 8.9% (platform avg: 10.4%)\n\nThis audience \u2014 clinicians, procurement leads, hospital admins \u2014 doesn't respond to generic sequences. The fix isn't more volume. It's sharper ICP targeting and messages that earn the reply.\n\nSource: Expandi Blog (link in bio alongside salesmake.agency)\n\nHappy to help if you're figuring out outbound for a regulated or clinical market \u2014 link in bio.\n\n#MedicalDevices #LinkedInOutreach #B2BSales #SalesStrategy #OutboundSales #MedTech #GTM #SalesTips #ColdOutreach #HealthcareSales"
+        },
+        "pinterest": {
+          "content": "Understand why LinkedIn outreach in medical devices underperforms \u2014 and what to do about it. Per Expandi Blog's 2026 industry benchmarks, medical device prospecting ranks 30th of 38 industries on connection acceptance and falls below average at every subsequent funnel stage. The answer isn't higher send volume; it's tighter audience definition and messages built for a skeptical, gatekept buyer. Read the benchmark data, then apply the right fix to your sequences.",
+          "title": "LinkedIn Outreach Benchmarks: Why Medical Device Underperforms",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "LinkedIn Outreach Benchmarks for Medical Devices (2026)",
+        "url": "https://expandi.io/industry-benchmarks/medical-device/",
+        "published": "2026-10-28T13:00:00+00:00",
+        "summary": "Medical Device vs. the platform average Metric Medical Device All industries Difference Rank Connection acceptance 26.3% 28.5% -2.2 pts 30th of 38 Connection-note reply 2.5% 3.0% -0.5 pts 26th of 38 Message reply after acceptance 8.9% 10.4% -1.5 pts 31st of 38 Across the 38 industries with at least 50 sending accounts, acceptance runs from [&#8230;]",
+        "source": "Expandi Blog",
+        "category": "linkedin",
+        "score": 2.2
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
