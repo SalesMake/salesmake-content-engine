@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-30T11:57:27.772678+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Combining conversational AI with enrichment tooling (Grok + Clay) compresses campaign build time, but the real unlock is using that speed to test more hypotheses \u2014 not just to ship faster.",
+      "variants": {
+        "linkedin": {
+          "content": "The interesting thing about pairing a conversational AI with an enrichment layer isn't the automation \u2014 it's the feedback loop it creates.\n\nEric Nowoslawski's writeup on the Clay Blog walks through how Grok can be used to draft outbound campaigns, build GTM lead magnets, and run a daily learning loop \u2014 all inside Clay's workflow environment. The tooling is genuinely useful. But what stands out is the underlying pattern: when campaign assembly gets fast enough, you stop asking 'did this work?' and start asking 'which version worked better?' That's a different operating mode.\n\nMost outbound teams are still bottlenecked on build time, not ideas. If the build time drops to near-zero, the constraint shifts to having a clear enough hypothesis to test in the first place. That's where strategy still matters.\n\nWorth a read if you're thinking about where AI actually fits in a GTM motion: https://www.clay.com/blog/grok-bot-clay-use-cases\n\nIf you're working through how to structure outbound experiments or sharpen the thinking behind your sequences, feel free to get in touch at https://salesmake.agency/contact."
+        },
+        "twitter": {
+          "content": "Fast campaign builds are only useful if you know what you're testing.\n\nGrok + Clay can compress outbound assembly time significantly (via Clay Blog) \u2014 but the real shift is moving from 'ship it' to 'ship a hypothesis.'\n\nStrategy still leads. #outbound #GTM\n\nNeed help thinking through cold outreach? salesmake.agency"
+        },
+        "bluesky": {
+          "content": "Grok + Clay can shrink campaign build time fast. But the real leverage isn't speed \u2014 it's what you do with the extra cycles. More tests, sharper hypotheses, cleaner feedback loops. Clay Blog has a solid walkthrough. #outbound #GTM",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Building outbound campaigns in a fraction of the time is now a real thing \u2014 but speed only helps if you know what you're testing. \ud83c\udfaf\n\n\u2192 Clay Blog broke down how Eric Nowoslawski combines Grok with Clay for campaign builds, lead magnets, and daily GTM learning loops\n\u2192 The tooling is solid\n\u2192 The bigger shift: when build time drops, your bottleneck becomes hypothesis quality, not execution\n\u2192 That's where the thinking still has to happen\n\nWorth reading if AI's role in your outbound stack is still a question mark.\n\nHappy to talk through cold outreach strategy \u2014 link in bio at salesmake.agency\n\n#outboundsales #gtm #salesprospecting #coldoutreach #b2bsales #salesdevelopment #aitools #salesstrategy #prospecting"
+        },
+        "pinterest": {
+          "content": "Discover how combining Grok and Clay can compress outbound campaign build time \u2014 and why the real unlock is using that speed to run better experiments, not just move faster. Per the Clay Blog's breakdown of Eric Nowoslawski's GTM plays, the bottleneck shifts from execution to hypothesis quality once assembly gets fast enough. Explore the use cases and rethink where AI fits in your outbound motion: https://www.clay.com/blog/grok-bot-clay-use-cases \u2014 and if you're thinking through your own cold outreach approach, reach out at salesmake.agency/contact.",
+          "title": "Grok + Clay for Outbound: Speed Is Only Half the Story",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How to Use Grok Bot and Clay for Go-to-Market Plays - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/grok-bot-clay-use-cases",
+        "published": "2026-10-29T23:27:49+00:00",
+        "summary": "Explore real Grok Bot and Clay use cases from Eric Nowoslawski, including chat-built outbound campaigns, GTM Hub lead magnets, and a daily learning loop.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 6.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The Clay Agent Plugin signals a shift from 'configure a workflow' to 'describe what you need and let code do the rest' \u2014 which raises the bar for what counts as a useful GTM operation.",
+      "variants": {
+        "linkedin": {
+          "content": "Clay's Agent Plugin is worth paying attention to \u2014 not because it's flashy, but because of what it implies for how GTM teams will build.\n\nThe Clay Blog just published a breakdown of nine internal use cases, ranging from rep-facing tools to custom API workflows built through Clay's CLI. What stands out isn't any single example \u2014 it's the pattern: people are moving from manually configuring enrichment tables to describing a workflow in plain language and letting an agent write the scaffolding. That's a meaningful shift in how quickly a scrappy outbound team can stand up something purpose-built.\n\nThe practical question this raises: if the cost of building a custom GTM tool drops significantly, does that change how you think about what's worth automating in your outbound motion? Worth reading the original breakdown here \u2192 https://www.clay.com/blog/clay-agent-plugin-use-cases\n\nIf you're working through what to actually automate in your outbound process, feel free to reach out at https://salesmake.agency/contact.\n\n#GTM #OutboundSales #Clay"
+        },
+        "twitter": {
+          "content": "Clay's Agent Plugin lets you build GTM workflows by describing what you need \u2014 not just clicking through a UI.\n\nWorth reading (Clay Blog) for the patterns it surfaces.\n\nIf you're figuring out your outbound stack, salesmake.agency\n\n#GTM #Outbound"
+        },
+        "bluesky": {
+          "content": "Clay's Agent Plugin use cases (via Clay Blog) show a real shift: less manual workflow config, more \"describe it and let the agent build it.\" Interesting signal for lean outbound teams. Worth a look.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The way GTM teams build workflows is quietly changing.\n\nClay's Agent Plugin lets you move from clicking through tables to describing what you need and having code do the rest.\n\n\u2192 Nine real use cases from Clay's own team (Clay Blog)\n\u2192 Everything from rep tools to custom API workflows via CLI\n\u2192 The pattern: faster time-to-built for outbound operations\n\nThe interesting question isn't \"what can it do\" \u2014 it's \"what's now worth building that wasn't before?\"\n\nIf you're thinking through your outbound setup, link in bio \u2192 salesmake.agency\n\n#GTM #OutboundSales #SalesOps #ColdOutreach #SalesTools #ClayHQ #RevenueOperations #B2BSales #SalesDevelopment"
+        },
+        "pinterest": {
+          "content": "Explore nine real GTM workflow examples built with Clay's Agent Plugin \u2014 from rep-facing tools to API integrations via CLI. Clay Blog breaks down how internal teams are using coding agents to build faster, purpose-built outbound operations. A useful reference if you're thinking about what to automate in your sales process. Source: Clay Blog (clay.com/blog/clay-agent-plugin-use-cases). Happy to help if you're mapping out your outbound approach \u2014 visit the link.",
+          "title": "9 GTM Workflow Examples Built with Clay's Agent Plugin",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "9 Ways to Use Clay\u2019s Agent Plugin to Build GTM Workflows and Tools - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/clay-agent-plugin-use-cases",
+        "published": "2026-10-29T23:26:01+00:00",
+        "summary": "See how nine Clay team members use the Clay Agent Plugin to build GTM workflows and rep tools with Clay\u2019s API and CLI from their coding agents.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Territory planning is often treated as a spreadsheet exercise, but the real leverage is in how you score and segment accounts before you ever assign a rep \u2014 and Clay makes that logic visible and repeatable.",
+      "variants": {
+        "linkedin": {
+          "content": "Territory carving tends to get solved with a spreadsheet and a gut feeling. Reps end up with uneven books, managers inherit arguments, and the root cause \u2014 how accounts were scored in the first place \u2014 never gets fixed.\n\nThe Clay Blog recently walked through how their own GTM team scores accounts and builds territory logic directly inside Clay. What stood out: the emphasis on making the scoring criteria explicit and adjustable, not buried in someone's head or a one-off formula. When the rules are visible, you can actually debate them, refine them, and apply them consistently as your market shifts.\n\nIf you're planning territories right now, the question worth asking before you carve anything: what signals actually predict a good-fit account for each rep's motion \u2014 and are those signals in your data yet?\n\nFull walkthrough from the Clay Blog: https://www.clay.com/blog/sales-territory-planning\n\nIf you're working through territory design or broader outbound planning, feel free to reach out at https://salesmake.agency/contact.\n\n#SalesOps #GTM #OutboundSales"
+        },
+        "twitter": {
+          "content": "Territory planning fails before a rep is assigned \u2014 it fails when account scoring is vague.\n\nClay Blog just shared how they make that logic explicit and repeatable. Worth a read.\n\nIf you're sorting out outbound structure, salesmake.agency has a contact form. #GTM #SalesOps"
+        },
+        "bluesky": {
+          "content": "Territory planning usually breaks at account scoring, not rep assignment. Clay Blog shows how making that logic explicit \u2014 and adjustable \u2014 changes the whole process. Worth reading if you're building or fixing a GTM motion.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Territory planning usually breaks before a single rep is assigned. \ud83d\uddfa\ufe0f\n\nThe real issue? Account scoring that lives in someone's head \u2014 or a formula nobody can explain.\n\n\u2192 The Clay Blog walked through how their GTM team scores accounts and carves territories inside Clay\n\u2192 The key move: make scoring criteria visible, debatable, and repeatable\n\u2192 When the logic is explicit, you can actually improve it over time\n\nIf your reps have uneven books or your territory splits keep sparking debates, it's usually a data and criteria problem \u2014 not a headcount one.\n\nSource: Clay Blog (link in bio to the full article)\n\nHappy to help if you're thinking through outbound structure or territory logic \u2014 salesmake.agency, link in bio.\n\n#SalesOps #GTM #OutboundSales #SalesStrategy #B2BSales #RevenueOps #TerritoryPlanning #SalesLeadership #ColdOutreach #SalesDevelopment"
+        },
+        "pinterest": {
+          "content": "Build a repeatable sales territory planning system by scoring accounts on explicit, adjustable criteria \u2014 not gut feel. The Clay Blog shares how their GTM team carves fair rep books inside Clay, with scoring logic that's visible and improvable. Useful starting point if you're designing or reworking outbound territory structure. If you need help thinking through your outbound approach, reach out via the link.",
+          "title": "How to Score Accounts and Plan Sales Territories That Actually Hold Up",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How to Do Territory Planning for Your GTM Team in Clay - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/sales-territory-planning",
+        "published": "2026-10-29T17:12:48+00:00",
+        "summary": "Learn how we score accounts and carve out fair books for our reps in Clay. Then build the same system for your own sales team.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
