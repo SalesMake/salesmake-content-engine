@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-03T13:25:53.524802+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "The real value of combining Grok and Clay isn't the automation itself \u2014 it's that it compresses the gap between 'I have an idea for a campaign' and 'that campaign is live and sending'.",
+      "variants": {
+        "linkedin": {
+          "content": "The bottleneck in outbound usually isn't strategy. It's the 10 steps between 'this is a good idea' and 'this is running'.\n\nWhat's interesting about the Grok + Clay workflow Eric Nowoslawski walks through on the Clay Blog is how much of that gap it closes. You describe a campaign in plain language, and the tooling handles a chunk of the build \u2014 list logic, enrichment triggers, sequencing scaffolding. The idea-to-execution distance shrinks.\n\nThat matters less for teams who already have tight ops and a dedicated Clay builder. It matters a lot for smaller teams where the person with the best GTM instincts is also the one doing the data work at 11pm.\n\nThe question worth sitting with: how much pipeline are you leaving on the table not because the ideas are bad, but because there aren't enough hours to execute them?\n\nFull walkthrough: https://www.clay.com/blog/grok-bot-clay-use-cases\n\nIf you're thinking through how to structure your outbound motion, feel free to reach out at https://salesmake.agency/contact.\n\n#OutboundSales #GTM #SalesOps"
+        },
+        "twitter": {
+          "content": "The bottleneck isn't bad campaign ideas \u2014 it's the 10 steps between idea and live sequence.\n\nGrok + Clay (via Clay Blog) makes that gap smaller. Worth a look if you run lean.\n\nNeed a hand with outbound? salesmake.agency\n\n#GTM #Outbound"
+        },
+        "bluesky": {
+          "content": "Most outbound ideas die in the build, not the brief. The Grok + Clay workflow on the Clay Blog is worth reading if you're a small team where the strategist and the operator are the same person. Closes a real gap.\n\nWorking on your outbound setup? salesmake.agency/contact",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Your outbound ideas aren't the problem. The 10 steps between idea and live campaign are. \ud83c\udfaf\n\nThe Clay Blog just dropped a solid walkthrough of how Eric Nowoslawski uses Grok + Clay to shrink that gap \u2014 chat-built campaigns, enrichment triggers, lead magnet plays.\n\n\u2192 Plain-language campaign briefs that turn into working sequences\n\u2192 Fewer handoffs between strategy and ops\n\u2192 Faster iteration for lean GTM teams\n\nIf you're running outbound without a dedicated ops function, this kind of workflow is worth understanding.\n\nFull piece linked in bio \u2014 and if you want to talk through your outbound approach, find us at salesmake.agency (link in bio).\n\n#OutboundSales #GTM #SalesAutomation #ColdOutreach #B2BSales #ClayHQ #SalesOps #LeadGeneration #GoToMarket"
+        },
+        "pinterest": {
+          "content": "Discover how combining Grok Bot and Clay can compress the gap between a campaign idea and a live outbound sequence. The Clay Blog walks through real use cases \u2014 chat-built campaigns, enrichment triggers, and GTM lead magnet plays \u2014 practical reading for lean B2B sales teams who need to move fast without a full ops function. If you're mapping out your outbound strategy, get in touch at salesmake.agency/contact.",
+          "title": "Grok + Clay for Outbound: From Campaign Idea to Live Sequence Faster",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How to Use Grok Bot and Clay for Go-to-Market Plays - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/grok-bot-clay-use-cases",
+        "published": "2026-11-02T22:17:38+00:00",
+        "summary": "Explore real Grok Bot and Clay use cases from Eric Nowoslawski, including chat-built outbound campaigns, GTM Hub lead magnets, and a daily learning loop.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 6.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "AI GTM agents are only as good as the data layer underneath them \u2014 and most teams overlook this when evaluating automation tools.",
+      "variants": {
+        "linkedin": {
+          "content": "People talk about AI agents like the model is what matters. It isn't. The ceiling on any GTM agent is the data it runs on.\n\nClay's blog shared results from a head-to-head test between a generic AI agent and their Account Agent. Per Clay Blog, the structured approach produced 6.4x fewer tokens and 2.6x faster answers \u2014 and caught deal risks the generic agent missed entirely. The performance gap wasn't about intelligence. It was about context quality.\n\nThis is worth thinking through before you bolt an AI layer onto your outbound stack. A smarter prompt on top of shallow data still returns shallow output. The enrichment and signal infrastructure you invest in isn't just operational overhead \u2014 it's what determines how far the automation can actually take you.\n\nWhat does your current data layer look like before any AI touches it?\n\nRead the full breakdown: https://www.clay.com/blog/ceiling-on-gtm-agent-is-data\n\nIf you're rethinking how your outbound stack is built, feel free to reach out at https://salesmake.agency/contact\n\n#GTM #OutboundSales #SalesOps"
+        },
+        "twitter": {
+          "content": "Your GTM agent isn't slow because the model is weak.\n\nIt's slow because the data underneath it is a mess.\n\nClay Blog tested generic vs. structured agents \u2014 the data layer was the difference. Worth thinking about before you add more AI on top.\n\nsalesmake.agency | #GTM #Outbound"
+        },
+        "bluesky": {
+          "content": "AI agents in GTM are only as sharp as the data feeding them. Clay Blog ran the numbers \u2014 structured data context beat a generic agent on speed, token efficiency, and risk detection. The model matters less than most assume.\n\nVia Clay Blog \ud83d\udc47",
+          "website_url": "https://www.clay.com/blog/ceiling-on-gtm-agent-is-data",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Your AI agent is only as good as the data it's working with.\n\nClay Blog tested a generic AI agent against a structured one \u2014 and the gap was significant:\n\n\u2192 6.4x fewer tokens used\n\u2192 2.6x faster answers\n\u2192 Fewer missed deal risks\n\nThe takeaway for outbound teams: before you invest in the agent layer, audit the data layer. Automation amplifies what's already there \u2014 good or bad.\n\nFull breakdown linked via Clay Blog \u2014 link in bio to explore more, or find us at salesmake.agency\n\nHappy to help if you're figuring out where your outbound data or process has gaps \u2014 link in bio.\n\n#GTM #OutboundSales #SalesDevelopment #ColdOutreach #B2BSales #RevenueOps #SalesOps #AIinSales #LeadGeneration"
+        },
+        "pinterest": {
+          "content": "Understand why your GTM agent's ceiling is set by data quality, not the AI model itself. Clay Blog compared a generic AI agent to a structured Account Agent \u2014 the data-rich approach produced faster answers, used fewer resources, and caught more deal risks. Before adding AI to your outbound workflow, evaluate the data infrastructure underneath it. Structured signals and enrichment determine how far any automation can take you. Explore the full Clay Blog post, and reach out about cold outreach strategy at salesmake.agency/contact.",
+          "title": "The Real Ceiling on GTM Agents: It's the Data, Not the Model",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "The Ceiling on Your GTM Agent Is the Data | Clay - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/ceiling-on-gtm-agent-is-data",
+        "published": "2026-11-03T01:51:58+00:00",
+        "summary": "We tested a generic AI agent against Clay\u2019s Account Agent. Clay's agent resulted in 6.4x fewer tokens, 2.6x faster answers, and fewer missed deal risks.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Clay's Agent Plugin shifts GTM tooling from 'what the platform ships' to 'what your team actually needs' \u2014 and that distinction matters for how reps spend their time.",
+      "variants": {
+        "linkedin": {
+          "content": "Clay's Agent Plugin is interesting not because of the technology, but because of what it reveals about where GTM tooling is heading.\n\nNine Clay team members recently shared how they use it to wire together custom workflows and rep-facing tools directly from Clay's API and CLI \u2014 things the product didn't ship out of the box, but that their specific processes needed. (Full piece on the Clay Blog: https://www.clay.com/blog/clay-agent-plugin-use-cases)\n\nThe broader point worth sitting with: the gap between 'what your stack can do' and 'what your reps actually use day-to-day' is almost always a workflow problem, not a data problem. More enrichment signals don't help if the tooling around them creates friction. Teams that figure out how to close that gap \u2014 even with small, scrappy internal tools \u2014 tend to run tighter outbound.\n\nAre you building workflows around your reps, or expecting your reps to adapt to the workflows?\n\n#GTM #OutboundSales\n\nIf you're working on cold outreach and want a second set of eyes on how it's structured, feel free to reach out: https://salesmake.agency/contact"
+        },
+        "twitter": {
+          "content": "More enrichment signals \u2260 better outbound.\n\nThe real gap is usually workflow \u2014 reps not using the tools, not missing the data.\n\nClay's Agent Plugin (per Clay Blog) lets teams build around that. Worth a read.\n\n#GTM #Outbound\n\nIf that gap sounds familiar \u2014 salesmake.agency"
+        },
+        "bluesky": {
+          "content": "Clay's Agent Plugin lets teams build the rep tools their stack never shipped. Per the Clay Blog, the use cases are practical and specific.\n\nThe pattern: data isn't the bottleneck, workflow friction usually is.\n\nHappy to think through outbound structure if that resonates.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "More data, same friction \u2014 sound familiar?\n\n\u2192 Clay's Agent Plugin lets teams build custom GTM workflows their platform didn't ship out of the box\n\u2192 Nine real use cases from Clay's own team (link: Clay Blog \u2014 see caption)\n\u2192 The pattern across all of them: workflow gaps hurt more than data gaps\n\nIf your reps have the signals but aren't using them, that's usually a tooling-and-process problem worth solving before adding more enrichment.\n\nFull article on the Clay Blog. Link in bio to reach us at salesmake.agency if you're thinking through your outbound setup.\n\n#OutboundSales #GTM #SalesOps #ColdOutreach #SalesEnablement #B2BSales #RevenueOperations #SalesDevelopment"
+        },
+        "pinterest": {
+          "content": "Explore how Clay's Agent Plugin enables GTM teams to build custom rep workflows using Clay's API and CLI \u2014 nine practical use cases from the Clay Blog. The takeaway for outbound teams: enrichment data only moves the needle when the workflows around it reduce friction for reps, not add to it. Build around how your team actually works. Visit SalesMake to get in touch about your cold outreach setup.",
+          "title": "Build GTM Workflows That Reps Actually Use \u2014 Lessons from Clay's Agent Plugin",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "9 Ways to Use Clay\u2019s Agent Plugin to Build GTM Workflows and Tools - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/clay-agent-plugin-use-cases",
+        "published": "2026-11-02T22:17:38+00:00",
+        "summary": "See how nine Clay team members use the Clay Agent Plugin to build GTM workflows and rep tools with Clay\u2019s API and CLI from their coding agents.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
