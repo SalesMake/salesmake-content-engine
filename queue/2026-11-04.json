@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-04T13:37:19.202315+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Benchmarks only matter if you understand what's actually driving the gap between average and elite AI SDR performance \u2014 it's rarely the AI itself.",
+      "variants": {
+        "linkedin": {
+          "content": "AI SDR benchmarks are useful. But they're easy to misread.\n\nThe Instantly Blog published reply rate data for AI sales agents in 2026 \u2014 3.43% average, 5.5%+ for top-quartile senders, and 10.7%+ for elite. Most teams will look at that and immediately ask 'where do we fall?' The more useful question is: why is there a 3x gap between average and elite, and how much of it is actually the AI?\n\nIn our experience, when AI SDR performance underdelivers, the root cause is usually upstream: weak ICP targeting, sequences that weren't built around a specific job-to-be-done, or no clear signal triggering outreach in the first place. The AI executes well \u2014 it just executes a flawed brief.\n\nThe four-step audit framework in the article is worth running through, especially the segmentation by industry and sequence type. Knowing your benchmark cohort matters as much as knowing the number.\n\nFull breakdown: https://instantly.ai/blog/ai-sales-agent-reply-rate-benchmarks/\n\n#OutboundSales #AISales\n\nIf you're working through AI SDR setup or trying to diagnose underperforming sequences, feel free to reach out at https://salesmake.agency/contact."
+        },
+        "twitter": {
+          "content": "AI SDR benchmarks: 3.43% average, 5.5% top quartile, 10.7% elite (per Instantly Blog).\n\nThe gap isn't usually the AI. It's the brief the AI was given.\n\nSource: Instantly Blog | salesmake.agency #OutboundSales #AISales"
+        },
+        "bluesky": {
+          "content": "Per Instantly Blog, average AI SDR reply rates sit at 3.43% \u2014 elite is 10.7%+. That 3x gap is rarely an AI problem. It's a targeting and sequencing problem. Worth reading the full breakdown.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "AI sales agents: average reply rate is 3.43%. Elite performers hit 10.7%+. That gap exists \u2014 and it's worth understanding why.\n\n\u2192 It's rarely the AI tool itself\n\u2192 Usually it's the ICP definition going in\n\u2192 Or sequences not tied to a real trigger or job-to-be-done\n\u2192 Benchmarks by industry and sequence type change the picture significantly\n\nInstantly Blog published solid 2026 data on this \u2014 link in bio to find it, and to reach us at salesmake.agency if you're figuring out where your AI SDR actually stands.\n\n#OutboundSales #AISales #SalesDevelopment #B2BSales #ColdOutreach #GTM #SalesStrategy #SDR #RevenueOperations #SalesOps"
+        },
+        "pinterest": {
+          "content": "Understand what separates average AI SDR reply rates (3.43%) from elite performance (10.7%+) \u2014 per Instantly Blog's 2026 benchmark data. Segmented by industry and sequence type, with a practical audit framework to diagnose where your AI sales agent is losing ground. The gap is usually upstream of the AI itself: targeting, triggers, and sequence design. Read the full breakdown on the Instantly Blog, and get in touch if you're working on cold outreach strategy.",
+          "title": "AI SDR Reply Rate Benchmarks 2026: Average vs. Elite Performance",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "AI sales agent reply rate benchmarks 2026: what's average vs. top quartile",
+        "url": "https://instantly.ai/blog/ai-sales-agent-reply-rate-benchmarks/",
+        "published": "2026-11-03T16:21:01+00:00",
+        "summary": "AI sales agent reply rate benchmarks show 3.43% average, 5.5%+ top quartile, and 10.7%+ elite performance based on 2026 data. This article gives you segmented benchmarks by industry and sequence type, plus a four step audit to diagnose your AI SDR against real performance data.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 3.0
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
