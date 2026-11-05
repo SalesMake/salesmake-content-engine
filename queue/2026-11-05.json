@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-05T13:50:01.944650+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "AI research workflows are only as good as their validation logic \u2014 automating bad data faster is still bad data, so the quality gates matter more than the automation itself.",
+      "variants": {
+        "linkedin": {
+          "content": "AI company research workflows sound like a shortcut. Sometimes they are. But the part most teams skip is the validation layer \u2014 the rules that decide whether enriched data is actually trustworthy before it touches your CRM or your sequences.\n\nThe Instantly Blog has a solid breakdown of how to structure a four-stage workflow: prompt, validate, sync, optimize. The 'optimize' piece is what I'd push people to take seriously. Measuring reply rates by data origin \u2014 knowing whether a signal came from an AI-scraped field, a manual entry, or a third-party enrichment tool \u2014 tells you which inputs are actually pulling weight. Without that, you're just automating volume and calling it a process.\n\nIf you're building something like this, the honest question to ask is: what's your fallback when the AI gets the company context wrong? A workflow without a human review gate for edge cases tends to erode trust in the data quietly, over time, until your reps stop using it.\n\nWorth a read if you're in the weeds on prospecting infrastructure: https://instantly.ai/blog/ai-company-research-workflow/\n\nIf you're working on cold outreach systems and want a sounding board, feel free to get in touch at https://salesmake.agency/contact.\n\n#OutboundSales #B2BProspecting #SalesOps"
+        },
+        "twitter": {
+          "content": "AI research workflows for cold outreach = only as good as the validation rules inside them.\n\nAutomate garbage data faster, get garbage replies faster.\n\nGood breakdown on this from the Instantly Blog \u2014 worth reading if you're building prospecting infrastructure.\n\n#OutboundSales #B2B\n\nIf you need help thinking through cold outreach systems \u2192 salesmake.agency"
+        },
+        "bluesky": {
+          "content": "The real work in an AI prospecting workflow isn't the prompts \u2014 it's the validation logic that stops bad data from hitting your sequences. Instantly Blog breaks down a four-stage approach worth reading. #outbound #b2bsales",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Automating company research for cold outreach? The workflow is table stakes. The validation layer is what actually makes it work. \ud83d\udd0d\n\n\u2192 Prompt your AI for company context\n\u2192 Validate the data before it goes anywhere near your CRM\n\u2192 Sync only what clears your quality rules\n\u2192 Measure reply rates by data origin so you know what's working\n\nThe Instantly Blog has a clear walkthrough of this four-stage approach \u2014 link in bio (salesmake.agency).\n\nHappy to help if you're trying to get your outbound research process in better shape \u2014 link in bio.\n\n#ColdOutreach #OutboundSales #B2BProspecting #SalesOps #LeadGeneration #SalesDevelopment #GTM #B2BSales #ProspectingTips #SalesProcess"
+        },
+        "pinterest": {
+          "content": "Build a smarter AI company research workflow for B2B cold outreach using four stages: prompt, validate, sync, and optimize. Learn how validation rules protect your CRM from bad enrichment data, and how tracking reply rates by data origin reveals which inputs actually drive results. Via Instantly Blog. Reach out about cold outreach strategy at salesmake.agency/contact.",
+          "title": "AI Company Research Workflow for Cold Outreach \u2014 4 Stages That Matter",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How to build an AI-powered company research workflow for cold outreach",
+        "url": "https://instantly.ai/blog/ai-company-research-workflow/",
+        "published": "2026-11-05T13:04:03+00:00",
+        "summary": "Build an AI company research workflow with prompt, validate, sync, and optimize stages to automate B2B prospecting at scale. Learn how to design validation rules, map enriched data to CRM fields, and measure reply rates by data origin so you know your workflow is working.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 3.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The VA-vs-AI-agent debate isn't really about cost \u2014 it's about where human judgment still earns its keep in outbound workflows.",
+      "variants": {
+        "linkedin": {
+          "content": "AI agents can handle a lot of the grunt work in outbound research. But handing that work off without a human safety net is where deliverability quietly falls apart.\n\nThe smarter framing isn't 'replace VAs' \u2014 it's 'what does a VA do better when they're not buried in list-building?' Quality control, personalization gut-checks, and bounce-rate triage are all things that benefit from human attention. AI gets you volume. Humans protect what that volume does to your sender reputation.\n\nInstantly Blog makes a practical point worth reading: run a 30-day pilot before restructuring any roles, and measure lead volume and bounce rates side by side. Good advice \u2014 especially if your agency's margins depend on deliverability holding up. https://instantly.ai/blog/replacing-vas-with-ai-sales-agents/\n\nIf you're thinking through how to structure outbound ops as AI tooling matures, feel free to reach out at https://salesmake.agency/contact.\n\n#outbound #salesops #GTM"
+        },
+        "twitter": {
+          "content": "AI agents cut list-building costs. They don't fix what happens when a bad list torches your sender rep.\n\nKeep humans where judgment matters \u2014 QC, personalization, deliverability. That's the real shift.\n\n(Good read on this at Instantly Blog \u2014 salesmake.agency) #outbound #salesops"
+        },
+        "bluesky": {
+          "content": "The VA vs AI agent question is really: where does human judgment still protect your deliverability?\n\nInstantly Blog lays out a sensible pilot framework. Worth a read before restructuring any outbound roles.\n\nhttps://instantly.ai/blog/replacing-vas-with-ai-sales-agents/",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "AI won't fix a bad list \u2014 it'll just build it faster. \ud83c\udfaf\n\nThe real question when replacing VAs with AI agents isn't cost. It's where human oversight still earns its keep in your outbound stack.\n\n\u2192 Quality control on scraped data\n\u2192 Personalization that doesn't read like a template\n\u2192 Catching bounce-rate problems before they hurt your sender reputation\n\nInstantly Blog has a solid take on running a 30-day pilot before shifting any roles \u2014 link in bio to read it, and find us at salesmake.agency if you're working through outbound ops decisions.\n\n#outbound #salesagency #GTM #coldemail #emaildeliverability #outboundsales #leadgeneration #salesops #B2Bsales #agencylife"
+        },
+        "pinterest": {
+          "content": "Understand what actually changes when agencies swap VAs for AI sales agents \u2014 and where human oversight still protects deliverability and margins. Instantly Blog outlines a 30-day pilot approach worth reviewing before restructuring any outbound roles. Read the original at https://instantly.ai/blog/replacing-vas-with-ai-sales-agents/ \u2014 and if you're sorting through outbound workflow questions, get in touch via the link.",
+          "title": "AI Agents vs VAs in Outbound: Where Human Judgment Still Matters",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Replacing VAs with AI sales agents: what changes for agencies",
+        "url": "https://instantly.ai/blog/replacing-vas-with-ai-sales-agents/",
+        "published": "2026-11-04T15:15:04+00:00",
+        "summary": "Replacing VAs with AI sales agents can cut research costs, but agencies still need humans for quality control and personalization. Run a 30-day pilot to measure lead volume and bounce rates before shifting VAs to supervision roles that protect deliverability and margins.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 3.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The real decision isn't AI vs. manual \u2014 it's knowing exactly where your ACV threshold is before you pick the method.",
+      "variants": {
+        "linkedin": {
+          "content": "The AI-vs-manual research debate misses the more useful question: at what deal size does manual research actually pay for itself?\n\nThe Instantly Blog ran the comparison \u2014 per their numbers, AI agents handle hundreds of leads for under $0.10 each, while manual research runs 30\u201360 minutes per account. That math is straightforward at the extremes. Where teams get it wrong is the murky middle: mid-market accounts that feel enterprise-worthy but don't carry the margin to justify deep manual work.\n\nA simple rule worth considering: set a hard ACV threshold. Below it, AI handles research and prioritization. Above it, a human reviews, adds context, and owns the outreach. The threshold should reflect your actual sales cost per hour, not gut feel.\n\nWhat's the ACV number where your team flips from AI-first to human-first? Worth knowing before your next campaign build.\n\nhttps://instantly.ai/blog/ai-sales-agent-vs-manual-research/\n\nIf you're working through how to structure your outreach process for a new campaign, feel free to reach out at https://salesmake.agency/contact\n\n#OutboundSales #GTM #SalesDevelopment"
+        },
+        "twitter": {
+          "content": "AI research: <$0.10/lead. Manual: 30\u201360 min/account.\n\nNeither wins by default. The real work is setting the ACV line where one beats the other \u2014 and sticking to it.\n\n(via Instantly Blog) #Outbound #GTM\n\nHappy to help if you're figuring out that split \u2014 salesmake.agency"
+        },
+        "bluesky": {
+          "content": "AI vs. manual prospect research is the wrong frame. The right question: what's your ACV threshold where manual work earns back its cost?\n\nSolid breakdown from the Instantly Blog worth reading. Set the line, then be consistent about it.\n\nIf you need help thinking through outreach structure, reach out at salesmake.agency/contact",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "AI research costs under $0.10 per lead. Manual takes up to an hour per account. So which one should your team use?\n\nBoth \u2014 but only if you know where to draw the line.\n\n\u2192 Set a hard ACV threshold\n\u2192 Below it: let AI handle volume research\n\u2192 Above it: a human reviews, adds context, owns the send\n\u2192 Base the threshold on actual sales cost per hour, not instinct\n\nThe Instantly Blog has a solid cost-and-accuracy breakdown worth saving (link in bio for the article).\n\nIf you're building out your outbound process and want a second opinion, link in bio \u2014 salesmake.agency\n\n#OutboundSales #SalesDevelopment #GTM #ColdOutreach #B2BSales #ProspectResearch #SalesOps #LeadGeneration #RevenueOperations"
+        },
+        "pinterest": {
+          "content": "Decide where AI prospect research ends and manual review begins \u2014 before your next outbound campaign. Per the Instantly Blog, AI agents process leads for under $0.10 each while manual research takes 30\u201360 minutes per account. The practical move: set a clear ACV threshold and apply each method where it actually earns its cost. See the full comparison at instantly.ai/blog/ai-sales-agent-vs-manual-research/ \u2014 and if you're sorting out your outbound research workflow, get in touch via the link.",
+          "title": "AI vs. Manual Prospect Research: Where to Draw the Line",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "AI sales agent vs manual prospect research: time, cost, and accuracy compared",
+        "url": "https://instantly.ai/blog/ai-sales-agent-vs-manual-research/",
+        "published": "2026-11-05T13:04:29+00:00",
+        "summary": "AI sales agents can handle hundreds of leads for under $0.10 each, while manual research takes an estimated 30 to 60 minutes per account. Use AI for high-volume campaigns and keep manual review for enterprise accounts above your ACV threshold to protect margin and quality.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 2.0
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
