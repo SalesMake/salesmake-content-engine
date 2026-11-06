@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-06T13:34:45.676241+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "AI research workflows are only as good as their validation logic \u2014 automating bad data faster is still bad outreach.",
+      "variants": {
+        "linkedin": {
+          "content": "AI company research workflows sound powerful. And they can be \u2014 but the part most teams skip is the validation layer.\n\nThe Instantly Blog published a solid walkthrough on building a prompt \u2192 validate \u2192 sync \u2192 optimize pipeline for B2B prospecting at scale. Worth reading. What it surfaces (and what we see in practice) is that the bottleneck isn't generating enriched data \u2014 it's knowing which data you can actually trust before it hits your CRM and your sequences.\n\nMap bad signals into your outreach at volume and you don't get more replies. You get more noise, faster. Measuring reply rate by data origin \u2014 as the piece suggests \u2014 is the right diagnostic move. It forces you to audit the workflow honestly rather than assume automation equals accuracy.\n\nAre you tracking which enrichment sources actually correlate with responses in your outbound motion?\n\nhttps://instantly.ai/blog/ai-company-research-workflow/\n\nIf you're working on cold outreach infrastructure and want to think through what good looks like, feel free to reach out at https://salesmake.agency/contact\n\n#OutboundSales #B2BProspecting #GTM"
+        },
+        "twitter": {
+          "content": "AI prospecting workflows \u2260 better outreach by default.\n\nAutomate bad research and you just move faster toward silence.\n\nValidation logic is the actual lever \u2014 per Instantly Blog.\n\nIf you're building outbound systems, salesmake.agency\n\n#B2BOutbound #GTM"
+        },
+        "bluesky": {
+          "content": "Automating company research doesn't fix weak data \u2014 it scales it.\n\nInstantly Blog has a useful framework: prompt, validate, sync, optimize. The validate step is the one most teams underinvest in.\n\nMeasure reply rate by data origin. That's where the truth is.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "AI won't save your outreach if the data underneath it is wrong.\n\n\u2192 Instantly Blog published a breakdown of a 4-stage AI research workflow for B2B prospecting\n\u2192 The real insight: validate before you sync, not after\n\u2192 Measure reply rates by data origin so you know what's actually working\n\u2192 Automation that skips this step just produces bad outreach at scale\n\nWorth reading if you're building or refining your outbound research stack.\n\nLink in bio \u2014 salesmake.agency \u2014 if you need a hand thinking through cold outreach.\n\n#OutboundSales #B2BSales #ColdOutreach #SalesOps #GTM #SalesDevelopment #Prospecting #RevenueOperations #B2BMarketing #SalesEnablement"
+        },
+        "pinterest": {
+          "content": "Build a smarter AI company research workflow for cold outreach \u2014 covering prompt design, validation rules, CRM field mapping, and reply-rate measurement by data origin. Based on a practical guide from Instantly Blog, this framework helps B2B sales teams automate prospecting without scaling bad data into their sequences. Reach out about cold outreach strategy at SalesMake.",
+          "title": "AI Company Research Workflow for B2B Cold Outreach",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How to build an AI-powered company research workflow for cold outreach",
+        "url": "https://instantly.ai/blog/ai-company-research-workflow/",
+        "published": "2026-11-05T13:04:03+00:00",
+        "summary": "Build an AI company research workflow with prompt, validate, sync, and optimize stages to automate B2B prospecting at scale. Learn how to design validation rules, map enriched data to CRM fields, and measure reply rates by data origin so you know your workflow is working.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 3.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The 12\u201315 meetings/month benchmark for AI agents is a planning assumption, not a performance guarantee \u2014 your actual rate is shaped by setup, targeting, and motion, so the more important habit is building a forecast from your own reply data.",
+      "variants": {
+        "linkedin": {
+          "content": "AI agents booking 12\u201315 meetings a month sounds tidy. But that figure is a planning assumption, not a floor you can count on out of the box.\n\nThe more useful shift the Instantly Blog piece gestures at: stop treating meeting volume as the primary metric and start forecasting SQLs from reply rate data. Reply-to-SQL conversion is where your motion's real health shows up \u2014 before it shows up (or doesn't) in pipeline coverage numbers.\n\nIf you're building an AI-assisted outbound motion, the benchmark is a starting point for capacity planning, not a success target. Set it, then immediately instrument the layer underneath it. What's your reply-to-booked-meeting ratio looking like right now?\n\nFull piece: https://instantly.ai/blog/ai-sales-agent-meeting-booking-rate/ (Instantly Blog)\n\nIf you're figuring out how to structure outbound around AI tooling, feel free to reach out at https://salesmake.agency/contact.\n\n#OutboundSales #GTM #AIinSales"
+        },
+        "twitter": {
+          "content": "\"12\u201315 AI-booked meetings/month\" is a planning assumption, not a guarantee.\n\nThe real signal: your reply-to-SQL conversion rate. That's where outbound health shows before pipeline does.\n\nSource: Instantly Blog. More at salesmake.agency\n\n#OutboundSales #GTM"
+        },
+        "bluesky": {
+          "content": "AI agent meeting benchmarks (12\u201315/mo) are useful for capacity planning \u2014 not performance promises. The metric worth tracking underneath: reply-to-SQL conversion. That's where your motion's health shows first. Via Instantly Blog.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "That \"AI books 12\u201315 meetings a month\" number? It's a planning assumption \u2014 not a guaranteed outcome.\n\nHere's what actually matters underneath it:\n\u2192 Reply rate (is your message landing?)\n\u2192 Reply-to-SQL conversion (is the right audience replying?)\n\u2192 Pipeline coverage forecasted from those two, not from meeting volume alone\n\nThe Instantly Blog published a breakdown of AI sales agent booking benchmarks worth reading if you're building or pressure-testing an outbound motion. Link in bio (salesmake.agency).\n\nIf you're working on outbound structure or AI-assisted sequences, we're happy to talk \u2014 link in bio.\n\n#OutboundSales #ColdEmail #SalesDevelopment #GTM #AIinSales #SalesOps #B2BSales #RevenueOperations #SalesStrategy"
+        },
+        "pinterest": {
+          "content": "Understand AI sales agent meeting booking benchmarks before treating them as targets. The Instantly Blog outlines a 12\u201315 meetings/month planning assumption for cold outbound \u2014 but the sharper focus belongs on reply-to-SQL conversion rates and pipeline coverage forecasting from your own data. Use benchmarks to plan capacity, then instrument the layers beneath them. For help thinking through cold outreach structure, visit SalesMake.",
+          "title": "AI Sales Agent Benchmarks: What the Meeting Numbers Actually Mean",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "AI sales agent meeting booking rate benchmarks 2026",
+        "url": "https://instantly.ai/blog/ai-sales-agent-meeting-booking-rate/",
+        "published": "2026-11-06T13:03:19+00:00",
+        "summary": "AI sales agent meeting booking rates depend on your motion. Plan for 12 to 15 meetings per month in cold outbound (an assumption that varies with setup) and track your own rate for inbound-assisted flows. Learn to forecast SQLs from reply data and report pipeline coverage.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 2.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The AI-vs-manual research debate is really a segmentation question: the right tool depends on deal size, not just volume.",
+      "variants": {
+        "linkedin": {
+          "content": "The AI vs. manual research debate misses the actual decision.\n\nIt's not 'which is better' \u2014 it's 'which is right for this segment of your pipeline.' Per the Instantly Blog, AI agents can process hundreds of leads for under $0.10 each, while manual research runs 30\u201360 minutes per account. That gap matters, but the real lever is your ACV threshold.\n\nBelow that threshold, manual research is a margin problem. Above it, skipping manual review is a quality problem. Neither tool wins universally \u2014 the question is where in your funnel you've drawn the line, and whether that line is intentional or just inherited habit.\n\nMost outbound teams we talk to haven't made that call explicitly. They default to one approach across the board and then wonder why conversion rates don't hold at scale (or why reps are buried in research on small deals).\n\nSource: https://instantly.ai/blog/ai-sales-agent-vs-manual-research/\n\nIf you're thinking through how to structure your prospecting workflow, feel free to reach out at https://salesmake.agency/contact. #outbound #salesops #GTM"
+        },
+        "twitter": {
+          "content": "AI research or manual? Wrong question.\n\nThe right question: where's your ACV cutoff?\n\nBelow it \u2014 AI volume makes sense. Above it \u2014 manual review protects margin and quality. Most teams never draw that line explicitly.\n\n(Via Instantly Blog) #outbound #salesops\n\nsalesmake.agency \u2014 happy to talk it through"
+        },
+        "bluesky": {
+          "content": "AI vs. manual prospect research is a segmentation call, not a tools debate. Per Instantly Blog, the cost and time gap is real \u2014 but where you draw the ACV line matters more than which tool you pick. Most teams haven't drawn it deliberately.\n\nInstantly Blog: https://instantly.ai/blog/ai-sales-agent-vs-manual-research/",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "AI research vs. manual prospecting \u2014 the answer depends on your deal size, not your preference.\n\n\u2192 Under your ACV threshold: AI volume keeps costs sane\n\u2192 Over it: manual review protects conversion and margin\n\u2192 Most teams haven't set that line intentionally\n\nThe Instantly Blog ran a breakdown on time, cost, and accuracy that's worth a read (link in bio for the source and to reach us at salesmake.agency).\n\nIf you're working through how to structure your outbound research process, we're easy to reach \u2014 link in bio.\n\n#outbound #salesprospecting #GTM #coldoutreach #B2Bsales #salesops #revops #outboundsales #prospecting"
+        },
+        "pinterest": {
+          "content": "Decide where AI prospect research ends and manual review begins \u2014 based on deal size, not habit. Per the Instantly Blog comparison of AI sales agents vs. manual research, the cost and time difference is significant, but the smarter move is segmenting your pipeline by ACV and applying each approach where it actually protects margin. Most outbound teams skip this step entirely. Read the Instantly Blog piece: https://instantly.ai/blog/ai-sales-agent-vs-manual-research/ \u2014 and if you need help thinking through your outbound research setup, get in touch at salesmake.agency/contact.",
+          "title": "AI vs. Manual Prospect Research: It's a Segmentation Decision",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "AI sales agent vs manual prospect research: time, cost, and accuracy compared",
+        "url": "https://instantly.ai/blog/ai-sales-agent-vs-manual-research/",
+        "published": "2026-11-05T13:04:29+00:00",
+        "summary": "AI sales agents can handle hundreds of leads for under $0.10 each, while manual research takes an estimated 30 to 60 minutes per account. Use AI for high-volume campaigns and keep manual review for enterprise accounts above your ACV threshold to protect margin and quality.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 2.0
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
