@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-09T14:53:04.115174+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "AI-assisted onboarding is only as good as the process underneath it \u2014 structured ramp frameworks matter more than the tools themselves.",
+      "variants": {
+        "linkedin": {
+          "content": "Most ramp problems aren't fixed by better tools \u2014 they're fixed by better process.\n\nThe Instantly Blog published a week-by-week playbook for using AI sales agents to compress SDR and AE onboarding from months down to four weeks. The structure is worth reading: persona definition in week one, rehearsal drills in week two, live outreach in week three, metric validation in week four. Clean and repeatable.\n\nWhat it reinforces for us: the reps who ramp fastest aren't the ones handed the best software. They're the ones dropped into a process that removes ambiguity early \u2014 who to call, what to say, how to know if it's working. AI can accelerate that loop, but it can't substitute for the loop existing in the first place.\n\nIf your onboarding still relies on shadowing and tribal knowledge, the ceiling on your ramp time isn't a training problem. It's a systems problem.\n\nFull playbook from Instantly Blog: https://instantly.ai/blog/onboard-new-reps-with-ai-sales-agents/\n\nIf you're working on tightening up your outbound motion or rep onboarding structure, feel free to get in touch at https://salesmake.agency/contact.\n\n#SalesDevelopment #OutboundSales #GTM"
+        },
+        "twitter": {
+          "content": "Faster SDR ramp isn't a tools problem \u2014 it's a process problem.\n\nInstantly Blog lays out a solid 4-week AI-assisted onboarding playbook. Worth a read.\n\nIf you're figuring out your outbound structure, salesmake.agency\n\n#Outbound #SDR"
+        },
+        "bluesky": {
+          "content": "AI won't fix a broken onboarding process \u2014 it'll just speed up the confusion.\n\nInstantly Blog has a clean 4-week ramp playbook using AI sales agents. The structure is the useful part.\n\nSource: https://instantly.ai/blog/onboard-new-reps-with-ai-sales-agents/",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "AI onboarding tools only work if you already have a process worth automating. \ud83d\udd01\n\nInstantly Blog put out a practical 4-week playbook for ramping SDRs and AEs with AI sales agents:\n\n\u2192 Week 1: Define personas and ICP clearly\n\u2192 Week 2: Rehearsal drills with AI feedback\n\u2192 Week 3: Live outreach with human oversight\n\u2192 Week 4: Validate metrics and adjust\n\nThe insight isn't the AI. It's that the structure exists at all. Most teams skip straight to tool adoption without building the process underneath it.\n\nLink in bio \u2014 salesmake.agency \u2014 if you're thinking through your outbound setup and want to talk it through.\n\n#OutboundSales #SalesDevelopment #SDR #SalesEnablement #GTM #SalesProcess #ColdOutreach #B2BSales #SalesOps #RevenueGrowth"
+        },
+        "pinterest": {
+          "content": "Build a repeatable SDR onboarding process before you automate it. Instantly Blog outlines a 4-week AI-assisted ramp playbook covering persona definition, rehearsal drills, live outreach, and metric validation. The structured approach matters more than the tools. Read the full playbook at https://instantly.ai/blog/onboard-new-reps-with-ai-sales-agents/ \u2014 and if you need help thinking through your cold outreach setup, reach out via the link on this pin.",
+          "title": "4-Week SDR Onboarding Playbook Using AI Sales Agents",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "AI sales agents: how to onboard new SDRs and AEs faster",
+        "url": "https://instantly.ai/blog/onboard-new-reps-with-ai-sales-agents/",
+        "published": "2026-11-09T09:42:05+00:00",
+        "summary": "AI sales agents for new rep onboarding compress ramp time from months to four weeks with automated workflows and human oversight. This article delivers a week-by-week playbook to standardize persona definition, rehearsal drills, live outreach, and metric validation across your team.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 2.0
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
