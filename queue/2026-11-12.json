@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-12T14:27:36.939415+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Job changes aren't just a reason to reconnect \u2014 they're a live buying signal if you have a workflow that catches them before the moment passes.",
+      "variants": {
+        "linkedin": {
+          "content": "Job changes are one of the most underused signals in outbound \u2014 and most teams only think about them in one direction (reach out when a new champion joins your target account).\n\nClay published a look at how they flip the scenario: when a senior leader who uses Clay at their current company moves to one that doesn't, an automated workflow drafts a personalised outreach sequence for their reps. The logic is tight \u2014 the person already trusts the product, the new employer already has a gap, and the timing is as warm as it gets.\n\nThe broader principle here matters for any outbound motion: buying signals aren't just firmographic or intent data. They're events. A departure, a hire, a funding round \u2014 these create short windows where the right message lands very differently than it would three months later. The teams who build workflows around those windows consistently outperform those chasing static lists.\n\nIf you're thinking about how to wire event-based triggers into your outreach, worth reading Clay's breakdown: https://www.clay.com/blog/how-we-turn-a-champions-departure-into-a-buying-signal\n\nFeel free to reach out if you're working through how to structure something similar for your own outbound \u2014 https://salesmake.agency/contact\n\n#outbound #GTM #salesops"
+        },
+        "twitter": {
+          "content": "Job changes are a buying signal \u2014 in both directions.\n\nClay Blog shows how a champion leaving for a new employer triggers an auto-drafted outreach sequence. Right person, right gap, right moment.\n\nEvent-based triggers beat static lists every time. salesmake.agency\n\n#outbound #GTM"
+        },
+        "bluesky": {
+          "content": "Champion leaves for a company that doesn't have your product? That's a live buying signal.\n\nClay Blog breaks down exactly how they automate outreach around it. Worth a read for anyone building event-triggered sequences.\n\nHappy to help if you're figuring out a similar motion \u2014 salesmake.agency/contact",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "When a champion changes jobs, most teams miss the window. \ud83d\udccc\n\nClay Blog just shared how they catch it automatically:\n\u2192 Senior leader leaves a Clay customer for a non-customer\n\u2192 A workflow fires and drafts personalised outreach for the rep\n\u2192 The signal is fresh, the trust is already there\n\nEvent-based triggers are one of the most practical upgrades you can make to an outbound motion \u2014 and most teams still aren't using them.\n\nFull breakdown on the Clay Blog (link in bio \u2014 salesmake.agency).\n\nIf you're building something like this out, happy to help \u2014 link in bio.\n\n#outboundsales #GTM #salesautomation #coldoutreach #salesops #b2bsales #salestips #revenueoperations #prospecting"
+        },
+        "pinterest": {
+          "content": "Turn job changes into buying signals with event-triggered outbound sequences. Clay Blog breaks down how a champion's departure from a customer account automatically generates personalised outreach \u2014 because the trust is already there and the timing won't last. A practical example of building workflows around live events rather than static lists. Read the Clay Blog post, then get in touch at salesmake.agency/contact if you're mapping out a similar approach to cold outreach.",
+          "title": "How to Turn a Champion's Job Change Into an Outbound Trigger",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How We Turn a Champion\u2019s Departure Into a Buying Signal - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/how-we-turn-a-champions-departure-into-a-buying-signal",
+        "published": "2026-11-11T22:15:43+00:00",
+        "summary": "Clay Growth Play #1: When a senior leader leaves a company that pays for Clay for one that doesn\u2019t, a workflow drafts a personalized outreach sequence for our sales reps.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 7.2
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The Clay vs ZoomInfo choice isn't really about data \u2014 it's about whether your GTM motion is built around lists or workflows.",
+      "variants": {
+        "linkedin": {
+          "content": "The Clay vs ZoomInfo debate gets framed as a data quality question. It's not.\n\nZoomInfo gives you a database you query. Clay gives you a workflow you build. Those are fundamentally different things \u2014 one fits a team that wants to pull a list and dial, the other fits a team that wants to research, enrich, and sequence without stitching five tools together.\n\nNeither is universally better. The right answer depends on how your outbound motion actually runs today: Are reps working pre-built lists, or are they doing account-by-account research? Is your bottleneck data volume or data relevance? Do you need intent signals baked in, or are you building your own trigger logic?\n\nThe Clay Blog does a solid side-by-side if you're currently evaluating the two: https://www.clay.com/blog/clay-vs-zoominfo\n\nIf you're working through how to structure your outbound stack, feel free to reach out at https://salesmake.agency/contact."
+        },
+        "twitter": {
+          "content": "Clay vs ZoomInfo isn't a data quality debate \u2014 it's a workflow question.\n\nOne gives you a list. The other lets you build the motion around it.\n\nRight answer depends entirely on how your outbound actually runs. (Via Clay Blog)\n\n#GTM #Outbound\n\nsalesmake.agency"
+        },
+        "bluesky": {
+          "content": "Clay vs ZoomInfo is really a question of: do you need a database, or a workflow engine?\n\nNeither wins outright \u2014 it depends on how your outbound motion is built. Clay Blog has a clean breakdown.\n\nIf you're figuring out your stack, happy to help \u2192 salesmake.agency/contact",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Clay vs ZoomInfo \u2014 framed wrong by most people.\n\nIt's not really about whose data is cleaner.\n\n\u2192 ZoomInfo = a database you query\n\u2192 Clay = a workflow you build around enrichment + research\n\nThe right pick depends on your motion:\n\u21b3 Are reps working off pre-built lists or doing account research?\n\u21b3 Is your bottleneck volume or relevance?\n\u21b3 Do you need intent signals built in, or custom trigger logic?\n\nClay Blog just published a solid side-by-side comparison \u2014 link in bio (salesmake.agency) to find it.\n\nIf you're mapping out your outbound stack, we're easy to reach \u2014 link in bio.\n\n#OutboundSales #GTM #SalesStack #B2BSales #ColdOutreach #SalesOps #RevenueOperations #LeadGeneration #SalesDevelopment"
+        },
+        "pinterest": {
+          "content": "Understand the real difference between Clay and ZoomInfo before choosing your GTM data platform. One is a database you query; the other is a workflow engine you build around enrichment and AI research. The right choice depends on whether your outbound motion runs on pre-built lists or account-level research. Clay Blog breaks down data coverage, intent signals, pricing, and more. Get in touch at salesmake.agency/contact if you're sorting out your outbound stack.",
+          "title": "Clay vs ZoomInfo: What the Comparison Really Comes Down To",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Clay vs ZoomInfo: Choosing the right GTM platform for your growth plays - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/clay-vs-zoominfo",
+        "published": "2026-11-11T22:28:17+00:00",
+        "summary": "Compare Clay vs ZoomInfo on data coverage, intent signals, AI research, workflow automation, pricing, and more.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 6.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The real lesson from Brex's outbound build isn't personalization tricks \u2014 it's that relevance is an operational problem, not a copywriting one.",
+      "variants": {
+        "linkedin": {
+          "content": "Most outbound teams treat relevance as a messaging problem. Brex treated it as an infrastructure problem \u2014 and that's the distinction worth paying attention to.\n\nMichael Tai's breakdown on the Clay Blog is worth a read not for the tactics, but for the framing. The idea that 'forward-deployed growth engineers' sit inside the go-to-market motion \u2014 not behind it \u2014 reframes where the bottleneck actually lives. It's not what your reps say. It's what your systems can surface, in time, at scale.\n\nThe shift from \"personalization\" (a word that's lost most of its meaning) to \"relevance\" is subtle but practically important. Personalization is often cosmetic. Relevance means your outreach reflects something true about the prospect's situation right now. That requires data infrastructure, not just better prompts.\n\nIf your outbound feels like it's working harder than it should for the results it's producing, the problem is probably upstream of the sequence.\n\nFull piece from Clay Blog: https://www.clay.com/blog/top-1-brex-michael-tai\n\nIf you're rethinking how your outbound engine is built, feel free to reach out at https://salesmake.agency/contact \u2014 happy to talk through it.\n\n#outbound #GTM #salesops"
+        },
+        "twitter": {
+          "content": "Personalization is a copywriting word. Relevance is an infrastructure word.\n\nBrex figured that out. Most outbound teams haven't.\n\n(h/t Clay Blog \u2014 worth reading) #outbound #GTM\n\nWorking on something similar? salesmake.agency"
+        },
+        "bluesky": {
+          "content": "Brex didn't just write better emails \u2014 they rebuilt what sits upstream of the sequence. Per Clay Blog, the move was treating relevance as an ops problem, not a messaging one. Worth a read if you run outbound at any scale.\n\nHappy to think through it if you're working on something similar.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Relevance isn't a copywriting fix \u2014 it's an infrastructure fix. \ud83d\udd27\n\nBrex's Senior Growth PM shared how they scaled outbound at Brex, and the core idea is worth sitting with:\n\n\u2192 Personalization is often cosmetic\n\u2192 Relevance reflects the prospect's actual situation, right now\n\u2192 That requires data systems, not just better prompts\n\u2192 'Forward-deployed growth engineers' inside GTM \u2014 not behind it\n\nFull breakdown on the Clay Blog (link in bio for the article).\n\nIf you're working on your outbound setup, we're easy to reach \u2014 link in bio \u2192 salesmake.agency\n\n#outbound #GTM #salesoperations #coldoutreach #b2bsales #growthengineering #outboundsales #salessystems #revops"
+        },
+        "pinterest": {
+          "content": "Discover how Brex scaled its outbound engine by treating relevance as an operational challenge, not a messaging one. Per the Clay Blog interview with Brex's Senior Growth PM, the shift from cosmetic personalization to true contextual relevance requires data infrastructure upstream of the sequence \u2014 not just sharper copy. Read the full piece at the Clay Blog, then reach out to SalesMake if you need help thinking through your outbound approach.",
+          "title": "How Brex Built Relevance Into Its Outbound Infrastructure",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Top 1%: How Brex scaled its outbound engine and made operations more efficient - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/top-1-brex-michael-tai",
+        "published": "2026-11-11T22:23:23+00:00",
+        "summary": "Five lessons from Michael Tai, Senior Growth PM at Brex, on relevance over personalization, forward-deployed growth engineers, and where go-to-market heads next.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 6.0
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
