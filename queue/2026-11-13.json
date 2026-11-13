@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-13T13:44:57.414904+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "AI handling rote code review frees engineers to focus on architecture \u2014 the same logic applies to outbound: automate the mechanical, protect the judgment-intensive work.",
+      "variants": {
+        "linkedin": {
+          "content": "Clay's engineering team just changed how they do code reviews. Instead of using AI to catch bugs line by line, they're using it to clear that work off the plate entirely \u2014 so engineers can focus on the decisions that actually require human judgment.\n\nThat distinction matters outside of engineering too. In outbound, most teams are still treating automation as a way to do the same mechanical tasks slightly faster. The more useful question is: which parts of the process genuinely require a person's judgment, and which parts are just friction in the way of getting there?\n\nWhen you get that split right, the reps and strategists spend their time on sequencing logic, messaging decisions, and reading signals \u2014 not on list hygiene or copy-paste personalization. The volume takes care of itself.\n\nWorth reading Clay's take on how their engineering team is thinking about this: https://www.clay.com/blog/code-reviews-agents\n\nIf you're working through how to structure your outbound motion around that same principle, feel free to reach out at https://salesmake.agency/contact\n\n#OutboundSales #GTM #SalesStrategy"
+        },
+        "twitter": {
+          "content": "Clay's eng team stopped using AI to find bugs. Now it handles the rote review so humans focus on architecture.\n\nSame logic applies to outbound: automate the mechanical, protect the judgment.\n\nVia Clay Blog. If this resonates, salesmake.agency\n\n#GTM #Outbound"
+        },
+        "bluesky": {
+          "content": "Clay's team shifted code reviews so AI clears the routine work and humans focus on consequential choices.\n\nOutbound teams could use the same reframe: stop automating to go faster, start automating to protect the work that actually requires judgment.\n\nVia Clay Blog.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Automate the routine. Protect the judgment.\n\nClay's engineering team stopped using AI to catch bugs line by line \u2014 and started using it to get that work off the plate entirely, so people can focus on architecture.\n\nThe same shift is overdue in outbound:\n\u2192 Let automation handle list building, enrichment, and formatting\n\u2192 Let your reps focus on sequencing logic and reading signals\n\u2192 Stop measuring success by volume alone\n\nMechanical speed is easy to buy. Good judgment on when and how to reach out is where the results actually come from.\n\nFull piece from Clay Blog \u2014 link in bio (salesmake.agency).\n\nHappy to help if you're thinking through how to structure your outbound around this \u2014 link in bio.\n\n#OutboundSales #GTM #SalesDevelopment #ColdOutreach #B2BSales #SalesOps #RevenueOperations #SDR #SalesStrategy"
+        },
+        "pinterest": {
+          "content": "Rethink how automation fits into your outbound sales motion \u2014 not to do the same tasks faster, but to protect the work that actually requires human judgment. Clay's engineering team applied this logic to code reviews, cutting rote work so engineers focus on architecture. The same principle applies to GTM: automate list building and enrichment, free your team for sequencing strategy and signal reading. Read the original on the Clay Blog: https://www.clay.com/blog/code-reviews-agents \u2014 and get in touch about your outbound approach at the link.",
+          "title": "Automate the Mechanical, Protect the Judgment \u2014 A Lesson for Outbound Teams",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Less time on code, more time on architecture - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/code-reviews-agents",
+        "published": "2026-11-12T18:48:04+00:00",
+        "summary": "We\u2019re changing how the engineering team at Clay does code reviews, focusing on consequential choices instead of bug-finding.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    },
+    {
+      "usable": true,
+      "angle": "AI agents help SDR teams set more meetings by improving research quality and CRM discipline \u2014 not by simply increasing dial volume \u2014 and the rollout sequence matters more than the technology choice.",
+      "variants": {
+        "linkedin": {
+          "content": "Most teams adopt AI sales tools and immediately point them at volume. More dials, more sequences, more noise. That's usually the wrong starting point.\n\nThe Instantly Blog published a useful breakdown of how AI agents actually move meetings-set numbers for SDR teams \u2014 and the sequencing they recommend begins with CRM hygiene and ramp support, not outreach automation. The logic holds: bad data fed through faster tooling just produces bad results faster. Getting the foundation clean first protects your cohort metrics and gives you something real to measure ROI against.\n\nThe framing around cost-per-meeting versus SQL quality is worth internalising too. Meetings-set is a vanity metric if the pipeline it feeds is weak. That's the conversation most teams aren't having when they evaluate AI tools \u2014 and probably should be.\n\nhttps://instantly.ai/blog/ai-sales-agents-for-sdr-teams/\n\nIf you're thinking through how to build or restructure an outbound motion, feel free to reach out at https://salesmake.agency/contact \u2014 happy to talk through what's worked and what hasn't.\n\n#OutboundSales #SDR #SalesOps"
+        },
+        "twitter": {
+          "content": "AI sales agents don't move meetings numbers by boosting dial volume \u2014 they do it through better research and cleaner data. Start with CRM hygiene, not more sequences. Good read on this from the Instantly Blog.\n\nIf you're working on outbound structure, salesmake.agency #SDR #OutboundSales"
+        },
+        "bluesky": {
+          "content": "AI agents + SDR teams: the Instantly Blog makes the case that rollout sequence matters more than the tool. Start with CRM hygiene. Measure cost-per-meeting against SQL quality, not just dials. Worth a read.\n\nIf you need a hand thinking through outbound structure, salesmake.agency/contact",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "AI won't fix a broken outbound motion \u2014 it'll just speed it up. \ud83e\udd16\n\nThe Instantly Blog put out a solid breakdown of how AI agents actually help SDR teams set more meetings:\n\n\u2192 Start with CRM hygiene, not dial volume\n\u2192 Use AI to sharpen research and call prep\n\u2192 Measure cost-per-meeting against SQL quality, not vanity stats\n\u2192 Roll out in phases \u2014 protect ramp before you scale\n\nThe sequencing is the part most teams skip. Worth reading in full (Instantly Blog \u2014 link in bio area).\n\nWorking on your outbound approach? Link in bio \u2014 or find us at salesmake.agency \u2014 happy to chat.\n\n#OutboundSales #SDRLife #SalesDevelopment #B2BSales #SalesOps #ColdOutreach #AIinSales #SalesStrategy #GTM #SalesTips"
+        },
+        "pinterest": {
+          "content": "Understand how AI sales agents help SDR teams set more meetings \u2014 not through higher dial volume, but through better research, CRM hygiene, and smarter call guidance. The Instantly Blog outlines a three-phase rollout starting with data quality, plus a framework for measuring true cost-per-meeting against SQL quality. A practical read for anyone building or refining an outbound sales motion. If you're working on cold outreach strategy, get in touch at salesmake.agency/contact.",
+          "title": "How AI Sales Agents Actually Improve Meetings Set for SDR Teams",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "AI sales agents for SDR teams: use cases that move meetings-set numbers",
+        "url": "https://instantly.ai/blog/ai-sales-agents-for-sdr-teams/",
+        "published": "2026-11-13T04:15:29+00:00",
+        "summary": "AI sales agents for SDR teams improve meetings set through better research, call guidance, and CRM hygiene, not just dial volume. Roll out in three phases starting with CRM automation to protect ramp, measure ROI through cohort testing, and track true cost per meeting against SQL quality.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 2.0
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
