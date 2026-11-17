@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-17T15:20:18.424896+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Custom signals shift the advantage to teams who define their own triggers rather than buying the same intent data everyone else uses.",
+      "variants": {
+        "linkedin": {
+          "content": "Most teams are working from the same intent data feeds. Same signals, same timing, same crowded inbox.\n\nClay's new custom signals feature is interesting because it flips that logic. Instead of choosing from a preset list of triggers, you define what a meaningful change looks like for your specific ICP \u2014 a hiring pattern, a tech stack swap, a funding milestone hitting a certain threshold \u2014 then route that signal straight into enrichment and sequencing.\n\nThe practical upside isn't the automation. It's differentiation at the trigger layer. If your signal is genuinely yours, you're not racing five other vendors to the same lead at the same moment.\n\nWorth a read if you're thinking about where your signal layer actually comes from: Clay Blog \u2192 https://www.clay.com/blog/signals\n\nIf you're working on building a more signal-driven outbound motion, feel free to reach out at https://salesmake.agency/contact."
+        },
+        "twitter": {
+          "content": "Everyone's buying the same intent data. Same signal = same race.\n\nClay's new custom signals let you define your own triggers \u2014 your ICP, your thresholds, your timing.\n\nDifferentiation starts before the outreach. (via Clay Blog)\n\n#outbound #GTM\n\nsalesmake.agency"
+        },
+        "bluesky": {
+          "content": "Bought intent data is crowded by definition. Clay's new custom signals let you build triggers around data points specific to your ICP \u2014 before competitors are even looking there. Worth reading. Via Clay Blog.\n\nHappy to help if you're thinking through your signal stack.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The teams winning outbound right now aren't using better sequences \u2014 they're working from better signals.\n\n\u2192 Clay just launched custom signals\n\u2192 Build triggers around any data point that matters to your ICP\n\u2192 Enrich with context, then automate outreach\n\u2192 The edge is in the signal no one else is tracking\n\nIf everyone's buying the same intent data, the arbitrage disappears fast. Defining your own triggers is where differentiation actually starts.\n\nFull breakdown on the Clay Blog \u2014 link in bio. (salesmake.agency)\n\nIf you're figuring out your outbound signal layer, we're easy to reach \u2014 link in bio.\n\n#outboundsales #gtmstrategy #salesprospecting #b2bsales #salesops #revops #coldoutreach #salesautomation #demandgeneration"
+        },
+        "pinterest": {
+          "content": "Build a signal-driven outbound strategy that competitors can't copy. Clay's new custom signals platform lets sales teams define their own buying triggers \u2014 any data point, any threshold \u2014 then enrich and automate personalized outreach automatically. The advantage isn't the tool, it's the signal no one else is using. Read the full breakdown on the Clay Blog: https://www.clay.com/blog/signals \u2014 and if you're mapping out a custom outbound motion, get in touch at SalesMake.",
+          "title": "Custom Sales Signals: Find GTM Triggers Your Competitors Aren't Tracking",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Clay announces custom signals - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/signals",
+        "published": "2026-11-17T00:37:19+00:00",
+        "summary": "Clay's new custom signals platform helps sales teams track unique data changes that indicate buying opportunities. Turn any data point into a sales signal, enrich with context, and automate personalized outreach to find GTM alpha your competitors miss.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 4.8
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The Clay vs 6sense choice is really a question of where your team sits on the 'signal-to-action' spectrum \u2014 and most ABM teams don't ask that question before buying.",
+      "variants": {
+        "linkedin": {
+          "content": "Most ABM platform decisions come down to budget and a demo. The more useful question is: where does your team actually break down \u2014 finding the right accounts, or doing something with them once you have?\n\n6sense is built around intent signals and predictive scoring. If your biggest gap is knowing which accounts are in-market, that model makes sense. Clay sits further downstream \u2014 it's about enriching and activating once you've identified who you're after. The two tools aren't really competing for the same job, even if the sales cycles overlap.\n\nThe Clay Blog has a detailed breakdown comparing the two across data sources, scoring, orchestration, ad targeting, and pricing \u2014 worth a read before any renewal or evaluation conversation: https://www.clay.com/blog/clay-vs-6sense\n\nIf you're working through an ABM stack decision or trying to tighten up how outbound fits into it, feel free to reach out at https://salesmake.agency/contact"
+        },
+        "twitter": {
+          "content": "Clay vs 6sense isn't really one decision \u2014 it's two different problems.\n\n6sense: who's in-market?\nClay: what do you do with them?\n\nMost teams buy before they've answered which gap actually hurts them.\n\nGood breakdown on Clay Blog. salesmake.agency\n\n#ABM #outbound"
+        },
+        "bluesky": {
+          "content": "Clay vs 6sense keeps coming up in GTM conversations. The honest framing: they solve different parts of the problem. 6sense tells you who's in-market. Clay helps you act on it. Knowing which gap you actually have matters more than the feature comparison. Clay Blog breaks it down well.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Evaluating Clay vs 6sense? Ask the right question first. \ud83c\udfaf\n\nMost ABM stack decisions skip straight to pricing and demos \u2014 but the gap that's actually hurting your pipeline matters more than the feature list.\n\n\u2192 6sense: identifies who's in-market via intent signals\n\u2192 Clay: enriches and activates once you know who to target\n\u2192 They're solving different parts of the problem\n\u2192 Buying the wrong one doesn't fix the right gap\n\nClay Blog has a solid side-by-side on data sources, scoring, orchestration, and pricing \u2014 link in bio to find it, and reach out at salesmake.agency if you're sorting through outbound strategy.\n\n#ABM #outboundsales #GTM #salesstrategy #demandgeneration #accountbasedmarketing #B2Bsales #salestechnology #revops #coldoutreach"
+        },
+        "pinterest": {
+          "content": "Compare Clay vs 6sense before your next ABM platform decision \u2014 and start with the right question: are you missing intent signals, or struggling to act on the accounts you already know about? The Clay Blog breaks down both tools across data sources, account scoring, orchestration, ad targeting, and pricing. Understanding where your outbound motion actually breaks is more valuable than any feature checklist. Visit salesmake.agency/contact if you want to talk through how outbound fits into your stack.",
+          "title": "Clay vs 6sense: Which ABM Platform Fits Your Outbound Motion?",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Clay vs 6sense: Choosing the right platform for ABM campaigns - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/clay-vs-6sense",
+        "published": "2026-11-17T00:34:17+00:00",
+        "summary": "Compare Clay vs 6sense on intent signals, data sources, account scoring, orchestration, ad targeting, pricing, and implementation.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 4.8
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Model routing in AI tools like Claygent is a signal that 'AI-powered' in GTM tooling is becoming meaningfully tiered \u2014 and cost-per-task will start to matter as teams scale outbound workflows.",
+      "variants": {
+        "linkedin": {
+          "content": "AI tooling in GTM stacks is getting more granular \u2014 and that's worth paying attention to.\n\nClay just published a breakdown of how they built 'auto-mode' for Claygent, their AI research agent. The short version: instead of routing every task through a frontier model by default, the system picks the right model for the job. Per the Clay Blog, that cuts model costs 47% with comparable output quality.\n\nFor outbound teams, this matters less as a Clay-specific feature and more as a direction of travel. As AI becomes load-bearing in prospecting workflows \u2014 research, enrichment, signal detection \u2014 the cost structure of those workflows will start to compound. Teams that treat every task as a 'frontier model job' will overspend. Teams that think about task-level appropriateness will get more runway from the same budget.\n\nThe deeper question: are you auditing your AI usage by task type, or just toggling the same model for everything?\n\nFull technical walkthrough from Clay: https://www.clay.com/blog/how-we-built-auto-mode-claygent\n\nIf you're thinking through how AI tooling fits into your outbound setup, feel free to reach out at https://salesmake.agency/contact."
+        },
+        "twitter": {
+          "content": "'AI-powered' is becoming tiered. Clay's auto-mode routes tasks to cheaper models where quality holds \u2014 per Clay Blog, 47% lower cost. Outbound teams running AI at scale will feel this gap. Worth understanding your stack's cost-per-task before it compounds. #GTM #outbound\n\nIf you're working on outbound \u2014 salesmake.agency"
+        },
+        "bluesky": {
+          "content": "Clay's auto-mode picks the right AI model per task, not just the most powerful one. Per Clay Blog: 47% cost reduction, comparable quality. For outbound teams scaling AI research, task-level model choice is going to matter more than most realise.\n\nIf you're figuring out your outbound AI setup, happy to help \u2014 link in card.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Not all AI tasks need a frontier model \u2014 and Clay just proved it at scale.\n\nTheir new Claygent auto-mode (via Clay Blog) routes research tasks to the right model for the job.\n\u2192 Per Clay Blog: 47% lower model cost\n\u2192 Comparable output quality\n\u2192 Built via a trained routing layer, not manual config\n\nFor outbound teams: as AI gets more embedded in prospecting workflows, cost-per-task compounds fast. Thinking about model selection \u2014 not just model access \u2014 is going to separate efficient stacks from expensive ones.\n\nLink in bio to reach us if you're working on your outbound approach. salesmake.agency\n\n#outboundsales #GTM #salestech #AItools #coldoutreach #prospecting #salesops #B2Bsales #revops",
+          "content_note": "Source link not clickable in Instagram captions \u2014 domain and 'link in bio' used as instructed."
+        },
+        "pinterest": {
+          "content": "Understand how AI model routing reduces GTM tooling costs \u2014 Clay's Claygent auto-mode selects the right model per research task, cutting costs 47% per Clay Blog without sacrificing output quality. Outbound teams scaling AI-assisted prospecting should track cost-per-task, not just capability. Read the full breakdown on the Clay Blog: https://www.clay.com/blog/how-we-built-auto-mode-claygent \u2014 and get in touch at SalesMake if you're working through your outbound stack.",
+          "title": "How AI Model Routing Can Cut GTM Tool Costs for Outbound Teams",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How Claygent Auto-Mode Cuts Model Costs 47% - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/how-we-built-auto-mode-claygent",
+        "published": "2026-11-17T01:27:34+00:00",
+        "summary": "Auto-mode routes each Claygent task to the right model, costing 47% less than a frontier model with comparable quality. See how we trained the router.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
