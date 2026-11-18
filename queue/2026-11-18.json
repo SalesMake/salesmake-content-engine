@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-18T14:55:22.968507+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "The Clay x ChatGPT MCP integration matters less as a product announcement and more as a signal: the friction between 'researching prospects' and 'launching outreach' is collapsing, and that changes how outbound teams should think about workflow design.",
+      "variants": {
+        "linkedin": {
+          "content": "The gap between prospect research and hitting 'send' just got a lot narrower.\n\nClay's re-launched MCP plugin inside ChatGPT lets you build prospect lists, run enrichment, and spin up Sequencer campaigns without leaving the chat interface. That's not a minor UX improvement \u2014 it's a structural shift. Historically, outbound teams lost hours (and context) bouncing between research tools, enrichment layers, and sequencers. Collapsing those steps into one surface means fewer handoff errors and faster iteration on what's actually working.\n\nThe more interesting implication: if setup time shrinks, the bottleneck moves. It's no longer 'can we build the workflow' \u2014 it's 'do we have the right targeting logic and messaging to begin with.' That's where most campaigns still break down, regardless of how slick the tooling is.\n\nWorth reading the full breakdown on the Clay Blog: https://www.clay.com/blog/clay-relaunches-its-mcp-as-a-flagship-partner-with-the-new-chatgpt-for-sales\n\nIf you're rethinking how your outbound workflow is structured, feel free to reach out at https://salesmake.agency/contact.\n\n#GTM #OutboundSales #Clay"
+        },
+        "twitter": {
+          "content": "Clay's MCP in ChatGPT is interesting \u2014 not because of the UI, but because it removes the handoff between research, enrichment, and sequencing.\n\nFewer context switches = faster iteration. The bottleneck just moved to targeting logic.\n\n(via Clay Blog) #GTM #Outbound\n\nWorking on outbound structure? salesmake.agency"
+        },
+        "bluesky": {
+          "content": "Clay's MCP in ChatGPT collapses research \u2192 enrichment \u2192 sequencing into one surface. The tooling friction shrinks. The real bottleneck \u2014 targeting logic and messaging \u2014 stays. That's where outbound still breaks. (via Clay Blog)",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The gap between 'finding a prospect' and 'sending the first message' just got shorter. \u26a1\n\nClay re-launched its MCP plugin inside ChatGPT \u2014 meaning you can now build audiences, enrich records, and launch sequences without switching tools.\n\n\u2192 Less context-switching\n\u2192 Faster campaign iteration\n\u2192 But the real bottleneck? Targeting logic and messaging \u2014 that part doesn't change with better tooling\n\nWorth noting if you're designing outbound workflows in 2025.\n\nFull breakdown on the Clay Blog \u2014 link in bio alongside salesmake.agency.\n\nIf you're working on cold outreach strategy, we're easy to reach \u2014 link in bio.\n\n#OutboundSales #GTM #SalesOps #ColdOutreach #ClayHQ #SalesDevelopment #RevenueOperations #B2BSales #SalesAutomation"
+        },
+        "pinterest": {
+          "content": "Explore how Clay's MCP plugin inside ChatGPT removes the handoff between prospect research, enrichment, and sequencing \u2014 and what that means for outbound workflow design. Per the Clay Blog, teams can now build audiences, enrich, and launch GTM campaigns without leaving the chat interface. The tooling friction shrinks; the targeting and messaging decisions still need sharp thinking. Read the full post on the Clay Blog. Happy to help if you're mapping out a cold outreach approach \u2014 visit salesmake.agency/contact.",
+          "title": "Clay x ChatGPT MCP: What It Means for Outbound Workflow Design",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Clay Relaunches the new MCP Plugin with ChatGPT for Sales  - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/clay-relaunches-its-mcp-as-a-flagship-partner-with-the-new-chatgpt-for-sales",
+        "published": "2026-11-17T23:24:10+00:00",
+        "summary": "Build prospect audiences, enrichment workflows, and Sequencer campaigns with Clay in ChatGPT. Review interactive previews and launch GTM plays without switching tools.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 6.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "AI prompts can compress prospecting research time, but the output is only as good as the ICP clarity you put in \u2014 garbage in, garbage out still applies.",
+      "variants": {
+        "linkedin": {
+          "content": "AI can collapse hours of prospecting research into minutes. The question is whether your inputs are sharp enough to make the output worth using.\n\nInstantly Blog put together a three-step ChatGPT workflow \u2014 ICP snapshot, account list, cold email hooks \u2014 that's a genuinely practical starting point: https://instantly.ai/blog/chatgpt-prompts-b2b-sales-prospecting/\n\nBut here's the part worth sitting with: a prompt chain is only as useful as the ICP definition you feed it. If your ideal customer profile is vague ('mid-market SaaS companies'), the AI will generate plausible-sounding output that doesn't actually help you prioritise. The teams that get the most from this kind of workflow tend to be the ones who've already done the hard thinking about *who exactly* they're after and *why* those accounts convert.\n\nUsing AI to accelerate prospecting research is sensible. Using it to skip the strategic work upstream usually just moves the waste downstream \u2014 into sequences that don't land.\n\nAre you finding AI tools are genuinely improving your outbound quality, or mainly speeding up the same old approaches?\n\n#B2BSales #Outbound #SalesProspecting\n\nIf you're working on tightening your ICP or cold outreach approach, feel free to get in touch at https://salesmake.agency/contact"
+        },
+        "twitter": {
+          "content": "AI prospecting workflows are only as good as the ICP clarity behind them. Instantly Blog has a solid 3-step ChatGPT framework worth reading \u2014 but garbage in, garbage out still applies.\n\n#Outbound #B2BSales\n\nWorking on cold outreach? salesmake.agency"
+        },
+        "bluesky": {
+          "content": "A 3-step ChatGPT prospecting workflow from Instantly Blog is worth a look \u2014 but the output quality lives or dies on how clearly you've defined your ICP before you touch a prompt.\n\nGarbage in, garbage out hasn't changed. #Outbound",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "AI can compress prospecting research into minutes. That's genuinely useful \u2014 with one catch.\n\n\u2192 The ICP definition you feed the prompt determines everything\n\u2192 Vague inputs produce confident-sounding, low-value outputs\n\u2192 The strategic thinking still has to happen upstream\n\nInstantly Blog published a clean 3-step ChatGPT workflow for B2B prospecting (ICP snapshot \u2192 account list \u2192 cold email hooks). It's a solid starting point \u2014 just go in with a sharp brief, not a loose one.\n\nLink in bio (salesmake.agency) if you want to talk cold outreach.\n\n#B2BSales #Outbound #SalesProspecting #ColdEmail #GTM #FounderSales #OutboundSales #SalesTips #B2BMarketing"
+        },
+        "pinterest": {
+          "content": "Build a smarter B2B prospecting workflow with AI \u2014 but sharpen your ICP first. Instantly Blog outlines a practical 3-step ChatGPT sequence to move from account list to cold email hooks fast. The real leverage comes from the clarity you bring before you open a prompt window. Visit salesmake.agency/contact if you need a hand with outbound strategy.",
+          "title": "AI B2B Prospecting: 3-Step ChatGPT Workflow (and What It Won't Do for You)",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "ChatGPT prompts for B2B sales prospecting: a 3-step workflow for founders",
+        "url": "https://instantly.ai/blog/chatgpt-prompts-b2b-sales-prospecting/",
+        "published": "2026-11-18T02:52:55+00:00",
+        "summary": "ChatGPT prompts for B2B sales prospecting turn scattered LinkedIn tabs into a qualified account list and cold email hooks in minutes. Run three prompts in sequence to build an ICP snapshot, generate verified accounts, and draft personalized openers that replace hours of manual research.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 5.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Smart model routing is quietly becoming a cost-lever in outbound tooling \u2014 and understanding why it matters helps teams make better stack decisions, not just cheaper ones.",
+      "variants": {
+        "linkedin": {
+          "content": "AI enrichment costs in outbound stacks are rarely discussed openly \u2014 but they add up fast, especially at research scale.\n\nClay's engineering team just published a detailed look at how they built Auto-Mode for Claygent: a router that assigns each task to the most appropriate model rather than defaulting to the most powerful one. Per the Clay Blog, the result is a 47% reduction in model costs with comparable output quality.\n\nThe practical takeaway for GTM teams isn't really about Clay specifically. It's a signal about where the tooling category is heading: smarter orchestration, not just more horsepower. When you're running enrichment across thousands of accounts, the difference between 'use the best model for everything' and 'use the right model for each task' compounds quickly \u2014 both in cost and in throughput.\n\nWorth reading if you're thinking about how your research infrastructure scales.\n\nClay Blog: https://www.clay.com/blog/how-we-built-auto-mode-claygent\n\nIf you're working through how to build or tighten your outbound research process, feel free to reach out at https://salesmake.agency/contact.\n\n#OutboundSales #GTM #SalesOps"
+        },
+        "twitter": {
+          "content": "AI enrichment costs compound fast at scale.\n\nClay's new Auto-Mode routes each task to the right model \u2014 per Clay Blog, 47% cheaper than defaulting to frontier models.\n\nRight tool for the job > most powerful tool for every job. Worth thinking about for your whole outbound stack.\n\nNeed a hand with cold outreach? salesmake.agency\n\n#GTM #OutboundSales"
+        },
+        "bluesky": {
+          "content": "Clay's Auto-Mode routes enrichment tasks to the right model per job \u2014 per Clay Blog, 47% cheaper than always using frontier models.\n\nFor outbound at scale, 'right model' beats 'best model' on cost and throughput both.\n\nIf you're figuring out your outbound research setup, happy to help.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Your AI enrichment costs are probably higher than they need to be. \ud83d\udca1\n\nClay just published how they built Auto-Mode for Claygent \u2014 a router that picks the right model for each task instead of always reaching for the most powerful one.\n\n\u2192 Per Clay Blog: 47% lower model costs, comparable quality\n\u2192 The lesson: orchestration > raw horsepower\n\u2192 At research scale, that difference compounds fast\n\nLink in bio (salesmake.agency) to read the full Clay Blog post \u2014 and if you're working on your outbound process, reach out there too.\n\n#OutboundSales #GTM #SalesOps #BDR #ColdOutreach #RevenueOperations #B2BSales #SalesTech #LeadGeneration"
+        },
+        "pinterest": {
+          "content": "Understand how AI model routing reduces enrichment costs in outbound sales stacks. Clay's Auto-Mode selects the right model per task \u2014 per Clay Blog, cutting costs 47% versus always using frontier models. A useful read for GTM and sales ops teams thinking about research infrastructure at scale. Source: Clay Blog (clay.com/blog/how-we-built-auto-mode-claygent). If you're working on your outbound or cold outreach setup, get in touch via the link.",
+          "title": "How AI Model Routing Cuts Outbound Enrichment Costs",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "How Claygent Auto-Mode Cuts Model Costs 47% - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/how-we-built-auto-mode-claygent",
+        "published": "2026-11-17T17:15:28+00:00",
+        "summary": "Auto-mode routes each Claygent task to the right model, costing 47% less than a frontier model with comparable quality. See how we trained the router.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 2.4
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
