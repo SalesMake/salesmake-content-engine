@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-19T15:01:22.967658+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "The real shift here isn't a new feature \u2014 it's the friction disappearing between research, enrichment, and sequencing, which changes how fast you can actually run a GTM play.",
+      "variants": {
+        "linkedin": {
+          "content": "The gap between 'I have an idea for a campaign' and 'the campaign is live' has always been a tool-switching problem.\n\nClay's MCP plugin inside ChatGPT is worth paying attention to because it compresses that gap. Building an audience, running enrichment, and pushing into a Sequencer campaign \u2014 without leaving the interface where you're already thinking through the play. The workflow doesn't disappear, but the context-switching does.\n\nFor outbound teams, the more interesting question isn't 'can we use AI to write emails?' \u2014 it's 'can we shorten the time between signal and sequence?' This points in that direction.\n\nFull details on the Clay Blog: https://www.clay.com/blog/clay-relaunches-its-mcp-as-a-flagship-partner-with-the-new-chatgpt-for-sales\n\nIf you're working on tightening your outbound workflow and want a sounding board, feel free to reach out at https://salesmake.agency/contact\n\n#OutboundSales #GTM #Clay"
+        },
+        "twitter": {
+          "content": "Clay's MCP plugin in ChatGPT lets you build prospect lists, enrich, and launch sequences without switching tools.\n\nThe bottleneck in outbound isn't usually ideas \u2014 it's the gap between signal and live campaign. Worth watching.\n\nSource: Clay Blog | salesmake.agency #GTM #Outbound"
+        },
+        "bluesky": {
+          "content": "Clay's MCP plugin in ChatGPT closes the loop between prospect research and live sequences \u2014 no tool-switching. The bottleneck in outbound is rarely the idea; it's the lag between signal and send. Worth a look (Clay Blog).",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "The slowest part of outbound isn't writing the email \u2014 it's everything before it.\n\n\u2192 Build the audience\n\u2192 Enrich the data\n\u2192 Set up the sequence\n\u2192 Launch\n\nClay just made all of that possible inside ChatGPT, without jumping between tools. Per the Clay Blog, their relaunched MCP plugin lets you go from GTM idea to live campaign in one place.\n\nThat's a meaningful change for teams where setup time kills momentum.\n\nIf you're curious about cold outreach strategy, link in bio \u2014 salesmake.agency\n\n#OutboundSales #GTM #SalesOps #ColdOutreach #BDR #SalesDevelopment #B2BSales #Clay #SalesTools #LeadGeneration"
+        },
+        "pinterest": {
+          "content": "Explore how Clay's MCP plugin inside ChatGPT lets outbound teams build prospect audiences, run enrichment, and launch Sequencer campaigns without switching platforms. Per the Clay Blog, this integration removes the tool-switching friction that slows down GTM execution. A practical development for anyone running cold outreach at speed. Happy to help if you're thinking through your outbound setup \u2014 visit the link to get in touch with SalesMake.",
+          "title": "Clay + ChatGPT: Outbound Workflows Without the Tool-Switching",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Clay Relaunches the new MCP Plugin with ChatGPT for Sales  - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/clay-relaunches-its-mcp-as-a-flagship-partner-with-the-new-chatgpt-for-sales",
+        "published": "2026-11-18T19:53:44+00:00",
+        "summary": "Build prospect audiences, enrichment workflows, and Sequencer campaigns with Clay in ChatGPT. Review interactive previews and launch GTM plays without switching tools.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 6.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "An AI agent that assembles a full GTM play from a prompt is interesting, but the real question for outbound teams is whether speed-to-launch actually bottlenecks their results \u2014 or if something else does.",
+      "variants": {
+        "linkedin": {
+          "content": "Clay just launched a global agent in open beta. Describe a GTM play in plain language and it builds the search, audience, workflow, and sequence layers for you \u2014 automatically.\n\nThat's a real reduction in setup time. But here's what's worth sitting with: for most outbound teams, the bottleneck isn't how fast they can launch a play. It's the quality of the targeting logic and the message fit before anything gets built. An agent that assembles structure quickly is only as good as the brief you give it.\n\nThis is a useful tool for teams who already know what they're trying to do and just want to move faster. It's less useful as a substitute for thinking through the play first.\n\nWorth a look if Clay is in your stack \u2014 details from Clay Blog: https://www.clay.com/blog/clay-global-agent-beta\n\nIf you're working on outbound strategy and want a second set of eyes on the plays themselves, feel free to reach out at https://salesmake.agency/contact.\n\n#GTM #OutboundSales"
+        },
+        "twitter": {
+          "content": "Clay's new global agent builds a full GTM play from a prompt \u2014 search, audiences, workflows, sequence, all of it.\n\nUseful if you already know the play. Less useful if the targeting logic isn't solid yet.\n\nSpeed \u2260 readiness. \u2014 salesmake.agency #GTM #Outbound"
+        },
+        "bluesky": {
+          "content": "Clay's global agent (open beta) builds a full GTM play from a text prompt. Faster setup is real. But the brief still has to be right \u2014 the agent can't fix a weak targeting hypothesis. Worth knowing what you're asking it to build before you build it. Via Clay Blog.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "AI can now assemble your entire outbound play from a single prompt. \ud83e\udd16\n\nClay just opened their global agent to everyone \u2014 describe a GTM play and it builds:\n\u2192 Search\n\u2192 Audiences\n\u2192 Workflows\n\u2192 Sequences\n\nFaster setup is genuinely useful. But the targeting logic still has to come from you. No agent shortcuts a weak hypothesis.\n\nFull breakdown from Clay Blog \u2014 link in bio (salesmake.agency).\n\nIf you're thinking through your outbound plays and want some help, we're easy to reach \u2014 link in bio.\n\n#OutboundSales #GTM #SalesOps #ColdOutreach #B2BSales #SalesDevelopment #Clay #GTMStrategy #SalesTools"
+        },
+        "pinterest": {
+          "content": "Explore how Clay's global agent (now in open beta) lets outbound teams describe a GTM play in plain language and automatically builds the search, audiences, workflows, and sequences. Fast setup is valuable \u2014 but the targeting logic still needs to be solid before you launch. Read the original breakdown on Clay Blog: https://www.clay.com/blog/clay-global-agent-beta. Thinking through your outbound plays? Get in touch with SalesMake.",
+          "title": "Build GTM Plays Faster with Clay's Global Agent \u2014 What It Means for Outbound",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Launch GTM Plays Faster with Clay\u2019s Global Agent | Clay - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/clay-global-agent-beta",
+        "published": "2026-11-19T08:08:01+00:00",
+        "summary": "Clay\u2019s global agent is now in open beta. Describe a GTM play, and it builds and tests it across Search, Audiences, Workflows, and Sequencer in Clay",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 3.6
+      }
+    },
+    {
+      "usable": true,
+      "angle": "The 'GTM harness' framing matters for outbound practitioners because it shifts the conversation from individual tools to orchestration logic \u2014 and most teams aren't ready for that shift yet.",
+      "variants": {
+        "linkedin": {
+          "content": "Everyone's debating which AI tool to add next. The harder question is: what holds them together?\n\nThe GTM Engineering Newsletter has a useful piece on the emerging 'GTM harness' concept \u2014 the orchestration layer that connects your signals, your data enrichment, and your execution channels into something coherent. HubSpot's rebrand is one signal that the big platforms are starting to position for this. The 2027 battleground, as they put it, won't be individual point solutions \u2014 it'll be who owns the harness.\n\nFor outbound teams, this has a practical implication right now: buying more tools without a clear signal-to-action logic just adds noise. The teams we see getting traction aren't running more plays \u2014 they're running tighter ones, with cleaner handoffs between data layer and execution.\n\nWorth a read if you're thinking about how your stack actually fits together: https://newsletter.gtmengineering.ai/p/what-is-a-harness-simply-explained\n\nIf you're working through how your outbound motion connects across tools and channels, feel free to reach out at https://salesmake.agency/contact.\n\n#GTM #OutboundSales #SalesTech"
+        },
+        "twitter": {
+          "content": "Adding tools isn't a strategy. The GTM Engineering Newsletter calls it right \u2014 the next battleground is the harness, not the tool.\n\nMost outbound teams aren't ready for that shift yet.\n\nIf you're thinking it through \u2192 salesmake.agency\n\n#GTM #Outbound"
+        },
+        "bluesky": {
+          "content": "The GTM Engineering Newsletter frames it well: by 2027 the fight won't be tool vs. tool \u2014 it'll be who owns the orchestration layer.\n\nFor outbound teams, that means signal-to-action logic matters more than stack size right now.\n\nHappy to talk through it if it's relevant to what you're building.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "More tools \u2260 better outbound. \ud83c\udfaf\n\nThe GTM Engineering Newsletter just dropped a sharp piece on the 'GTM harness' \u2014 the orchestration layer that will define who wins in GTM by 2027.\n\nHere's what it means in practice for outbound teams:\n\u2192 Signal quality beats signal volume\n\u2192 Clean handoffs between data and execution beat bigger stacks\n\u2192 The platforms positioning as 'harnesses' (HubSpot included) are telling you where the market is heading\n\nRead the full piece \u2014 link in bio, also at newsletter.gtmengineering.ai\n\nIf you're figuring out how to tighten your outbound motion, we're easy to reach \u2014 link in bio \u2192 salesmake.agency\n\n#GTMStrategy #OutboundSales #SalesTech #B2BSales #ColdOutreach #RevenueOperations #SalesStack #GTMEngineering #Prospecting"
+        },
+        "pinterest": {
+          "content": "Understand the GTM harness concept before your stack grows any further. The GTM Engineering Newsletter breaks down why orchestration logic \u2014 not individual tools \u2014 will define outbound success by 2027. HubSpot's rebrand is one early signal. If you're mapping out how your outbound motion fits together, this framing is worth your time. Source: The GTM Engineering Newsletter. Reach out about cold outreach strategy at salesmake.agency/contact.",
+          "title": "What Is a GTM Harness \u2014 And Why Outbound Teams Should Care",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "HubSpot rebranding + AI harness clearly explained",
+        "url": "https://newsletter.gtmengineering.ai/p/what-is-a-harness-simply-explained",
+        "published": "2026-11-18T15:30:53+00:00",
+        "summary": "HubSpot&#8217;s rebranding (+ others), 5 plays using G2 inside Clay, the way we evaluate software needs to change, how the GTM harness will be the 2027 battle ground",
+        "source": "The GTM Engineering Newsletter",
+        "category": "gtm_engineering",
+        "score": 2.6
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
