@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-23T17:03:15.310826+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "Lead scoring only earns its keep when the signals feeding it are honest \u2014 most models break because the inputs are stale or mismatched to how the sales team actually qualifies.",
+      "variants": {
+        "linkedin": {
+          "content": "Lead scoring sounds simple in theory. In practice, most models quietly rot \u2014 built on demographic proxies and never updated to reflect how the team actually qualifies in the real world.\n\nThe Clay Blog has a solid walkthrough on building fit and engagement scores inside a Clay Workflow: https://www.clay.com/blog/account-lead-scoring-model. Worth reading if you're setting this up. The mechanics are clean.\n\nOne thing worth adding from our side: the scoring model is only as good as the signal design upstream. Before you automate prioritization, it helps to pressure-test which signals actually correlate with closed deals in your pipeline \u2014 not just 'ideal customer profile on paper.' Job title matches and technographic hits are easy to pull. Whether they predict revenue is a different question that most teams skip.\n\nIf your reps are ignoring the queue the model spits out, that's usually the tell.\n\nAre your scoring inputs mapped to how your best deals actually came in \u2014 or to what looked good in the ICP doc?\n\n#outbound #GTM #salesdevelopment"
+        },
+        "twitter": {
+          "content": "Lead scoring models rot when nobody audits the signals feeding them.\n\nBuilding one in Clay is straightforward (Clay Blog has a good guide). Making it reflect how deals actually close \u2014 that's the harder part.\n\nIf you're working on outbound prioritization: salesmake.agency #GTM #outbound"
+        },
+        "bluesky": {
+          "content": "Clay Blog has a clean guide to building fit + engagement scoring in Clay. The setup isn't the hard part \u2014 choosing signals that actually predict your closed deals is. Worth stress-testing before you automate prioritization.\n\nFeel free to reach out if you're thinking through outbound targeting.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Your lead score is only as good as the signals behind it. \ud83c\udfaf\n\nClay Blog just published a practical guide to building account and lead scoring inside a Clay Workflow \u2014 fit scores, engagement scores, the works.\n\nBut here's what the tutorial can't tell you:\n\u2192 Which signals in YOUR pipeline actually predict closed deals\n\u2192 Why reps ignore queues that look perfect on paper\n\u2192 How to stop scoring on ICP fit and start scoring on revenue likelihood\n\nBuild the model. Then interrogate it.\n\nFull guide linked in bio \u2014 and if you're working on outbound prioritization, we're easy to reach at salesmake.agency (link in bio).\n\n#outbound #salesops #GTM #leadscoring #B2Bsales #salesdevelopment #accountbased #coldoutreach #revops #salesenablement"
+        },
+        "pinterest": {
+          "content": "Build a lead and account scoring model that actually reflects how your deals close \u2014 not just how your ICP looks on paper. The Clay Blog walks through creating fit and engagement scores inside a Clay Workflow (https://www.clay.com/blog/account-lead-scoring-model). The real lift is upstream: choosing signals that correlate with revenue, not just profile match. Useful starting point for any outbound or GTM team tightening their prioritization. Happy to help if you're thinking through outbound targeting \u2014 visit the link to get in touch with SalesMake.",
+          "title": "Build a Lead Scoring Model That Reflects Real Deal Signals",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Build an account and lead scoring model in Clay - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/account-lead-scoring-model",
+        "published": "2026-11-23T13:19:31+00:00",
+        "summary": "Develop fit and engagement scores with a Clay Workflow so your sales and marketing teams can prioritize the right leads.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 3.6
+      }
+    },
+    {
+      "usable": true,
+      "angle": "Clay + Claude workflows lower the execution barrier for weekly prospecting, but tooling alone doesn't replace the strategic decisions about who to target and what to say.",
+      "variants": {
+        "linkedin": {
+          "content": "Automated prospecting workflows are only as good as the thinking behind them.\n\nClay's blog walks through pairing Clay with Claude for Small Business to build a weekly prospecting loop \u2014 list building, enrichment, AI-assisted messaging, all on a recurring schedule. It's a solid technical walkthrough for teams ready to get hands-on.\n\nWhat it doesn't cover (and what usually determines whether these setups actually produce pipeline): the upstream decisions. Who are you targeting and why? What signal are you using to prioritize? What does your message need to do in the first two sentences? A well-built workflow running against a vague ICP or a generic message template will just automate mediocrity at higher volume.\n\nThe tools are more accessible than ever. The judgment about how to use them is still the hard part.\n\nWorth a read if you're evaluating this stack: https://www.clay.com/blog/clay-and-claude-gtm-growth-engine\n\nIf you're working on outbound strategy and want a second set of eyes on the approach, feel free to reach out at https://salesmake.agency/contact.\n\n#OutboundSales #GTM #SalesProspecting"
+        },
+        "twitter": {
+          "content": "Automated prospecting loops (Clay + Claude) lower the execution bar. But a workflow running against a fuzzy ICP just automates mediocrity faster.\n\nThe tooling is easy. The targeting logic is still the hard part.\n\nVia Clay Blog. salesmake.agency \u2014 happy to help if you're thinking through outbound.\n\n#GTM #Outbound"
+        },
+        "bluesky": {
+          "content": "Clay + Claude can run your prospecting on autopilot. The catch: a clean workflow on a vague ICP just scales the wrong outreach.\n\nThe tools got easier. The targeting decisions didn't.\n\nVia Clay Blog. If you need help thinking through outbound, salesmake.agency/contact.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Automated prospecting is only as smart as the strategy behind it. \ud83c\udfaf\n\nClay Blog just published a walkthrough on pairing Clay + Claude to build a weekly GTM workflow \u2014 worth reading if you're evaluating that stack.\n\nBut here's what trips most teams up:\n\u2192 The workflow works. The ICP is still fuzzy.\n\u2192 The messages send. The positioning is still generic.\n\u2192 Volume goes up. Pipeline doesn't follow.\n\nTooling lowers the execution barrier. It doesn't make the strategic calls for you.\n\nLink to the Clay Blog post in bio \u2014 and if you're figuring out your outbound approach, we're easy to reach. Link in bio \u2192 salesmake.agency\n\n#OutboundSales #GTM #SalesProspecting #B2BSales #ColdOutreach #SalesDevelopment #RevenueGrowth #SalesStrategy #LeadGeneration #SDR"
+        },
+        "pinterest": {
+          "content": "Build a smarter weekly prospecting workflow with Clay and Claude \u2014 but understand where automation ends and strategy begins. Clay Blog outlines the technical setup; the harder work is defining a sharp ICP and messaging that earns a reply before any workflow runs. Explore the original post and reach out to SalesMake if you're developing your outbound approach.",
+          "title": "Clay + Claude for Prospecting: Where the Tooling Ends and Strategy Begins",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "Use Clay and Claude to build your GTM growth engine - The GTM with Clay Blog",
+        "url": "https://www.clay.com/blog/clay-and-claude-gtm-growth-engine",
+        "published": "2026-11-22T21:52:56+00:00",
+        "summary": "Here\u2019s how to set up both Clay and Claude for Small Business to build a prospecting workflow that runs every week.",
+        "source": "Clay Blog",
+        "category": "gtm_engineering",
+        "score": 3.6
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
