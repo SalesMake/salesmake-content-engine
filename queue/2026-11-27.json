@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-27T15:56:36.908235+00:00",
+  "drafts": [
+    {
+      "usable": true,
+      "angle": "The real unlock isn't choosing AI prompts over sales intelligence tools \u2014 it's understanding which one cleans the data and which one works it, so you stop paying twice for the same problem.",
+      "variants": {
+        "linkedin": {
+          "content": "Most outbound teams debate AI prompts vs. sales intelligence tools like it's one or the other. The more useful question: which job does each one actually own?\n\nSales intelligence tools exist to give you verified, structured data \u2014 accurate contacts, intent signals, firmographics. AI prompts exist to do something with that data \u2014 draft, personalize, segment, prioritize. When teams skip the first step and feed raw, unverified lists into AI workflows, they end up paying for cleanup in bounced emails, wasted credits, and deliverability damage. The Instantly Blog has a solid breakdown of where each layer wins and fails in practice: https://instantly.ai/blog/ai-prompts-vs-sales-intelligence-tools/\n\nThe takeaway we'd add: tool sprawl isn't the problem. Unclear ownership of data quality before the AI touches it usually is. If your reply rates are stuck, that's often the first place to look \u2014 not the prompt.\n\nIf you're working through how to structure your outbound stack, feel free to reach out at https://salesmake.agency/contact.\n\n#OutboundSales #GTM #SalesOps"
+        },
+        "twitter": {
+          "content": "AI prompts don't fix bad data \u2014 they amplify it.\n\nSales intelligence owns data quality. AI owns what you do with it. Conflating the two is where outbound stacks get expensive.\n\nGood breakdown on this from Instantly Blog (via salesmake.agency).\n\n#Outbound #GTM"
+        },
+        "bluesky": {
+          "content": "AI prompts and sales intelligence tools solve different problems. One verifies the data. One works it. Mixing up which does what is where outbound costs creep in.\n\nGood read from Instantly Blog on where each actually wins.",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "AI prompts vs. sales intelligence tools \u2014 wrong question.\n\nThe right one: which one owns data quality, and which one acts on it?\n\n\u2192 Sales intelligence: verified contacts, intent signals, clean inputs\n\u2192 AI prompts: personalization, segmentation, drafting at scale\n\u2192 Skipping step one means your AI just amplifies bad data faster\n\nInstantly Blog has a practical breakdown of where each layer wins (link in bio \u2014 salesmake.agency).\n\nIf you're rethinking your outbound stack, happy to help \u2014 link in bio.\n\n#OutboundSales #SalesOps #GTM #ColdEmail #B2BSales #SalesStack #LeadGeneration #RevenueOps #Prospecting #SalesTech"
+        },
+        "pinterest": {
+          "content": "Understand where AI prompts and sales intelligence tools each belong in your outbound stack \u2014 before conflating the two costs you in bounced emails and wasted spend. Sales intelligence handles verified data; AI prompts handle what you do with it. Instantly Blog breaks down where each wins and fails in practice. Build a cleaner outbound workflow by assigning the right job to the right tool. Reach out about cold outreach strategy at salesmake.agency/contact",
+          "title": "AI Prompts vs Sales Intelligence: Which Owns What in Outbound",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "AI prompts vs sales intelligence tools: where each actually wins",
+        "url": "https://instantly.ai/blog/ai-prompts-vs-sales-intelligence-tools/",
+        "published": "2026-11-27T11:51:05+00:00",
+        "summary": "AI Prompts vs Sales Intelligence Tools: Learn where each wins, fails, and combines for better outbound sales ROI and deliverability. Run verified data through AI prompts to hit top quartile 5.5% reply rates without wasting credits on cleanup or risking compliance violations.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 3.0
+      }
+    },
+    {
+      "usable": true,
+      "angle": "AI prompt templates are only as good as the buying signals you feed them \u2014 the structure is the easy part; knowing which signals to pull and when is where SaaS prospecting actually gets hard.",
+      "variants": {
+        "linkedin": {
+          "content": "AI prompt templates for prospecting are everywhere right now. The honest takeaway: the template structure is rarely the bottleneck.\n\nWhat actually determines whether a cold message lands in SaaS sales is the signal you anchor it to \u2014 tech stack fit, renewal timing, usage-tier expansion, a recent hire in a specific role. Feed a well-built prompt generic inputs and you get generic output. Feed it a sharp, timely signal and the structure finally earns its keep.\n\nThe Instantly Blog put together a solid breakdown of modular prompt blueprints built specifically around software buying signals \u2014 worth a read if you're iterating on your SaaS outbound sequences: https://instantly.ai/blog/ai-prompts-for-saas-prospecting/\n\nWhat buying signals are you finding most reliable for SaaS prospecting right now?\n\n#B2BSales #SaaSGrowth #Outbound\n\nIf you're working on cold outreach for a SaaS motion and want another set of eyes on it, feel free to reach out at https://salesmake.agency/contact"
+        },
+        "twitter": {
+          "content": "AI prompt templates for SaaS prospecting aren't the hard part.\n\nThe signal you feed them is.\n\nTech stack fit, renewal timing, expansion triggers \u2014 that's what makes the message land.\n\nGood breakdown on this from Instantly Blog (via salesmake.agency)\n\n#B2BSales #SaaSGrowth"
+        },
+        "bluesky": {
+          "content": "AI prompt structures for SaaS outbound are easy to copy. The harder part: knowing which buying signals to anchor them to. Renewal timing, stack fit, usage data \u2014 that's what the template actually depends on. Good read from Instantly Blog on this. #B2BSales",
+          "website_url": "https://salesmake.agency/contact",
+          "website_title": "SalesMake"
+        },
+        "instagram": {
+          "content": "Your AI prompts are only as sharp as the signals behind them. \ud83c\udfaf\n\nFor SaaS prospecting, that means:\n\u2192 Tech stack compatibility\n\u2192 Renewal and contract timing\n\u2192 Usage tier or seat expansion signals\n\u2192 Recent hires in relevant roles\n\nThe Instantly Blog put together a useful framework of modular prompt blueprints built around these exact signals \u2014 link in bio or search salesmake.agency to find it.\n\nHappy to help if you're trying to get your SaaS outbound sequences tighter \u2014 link in bio \u2192 salesmake.agency\n\n#B2BSales #SaaSMarketing #OutboundSales #ColdEmail #SalesProspecting #GTM #SalesEnablement #B2BMarketing #SaaSGrowth"
+        },
+        "pinterest": {
+          "content": "Sharpen SaaS prospecting by pairing AI prompt templates with the right buying signals \u2014 renewal timing, tech stack fit, and usage expansion triggers. A modular prompt structure means little without quality inputs. Instantly Blog outlines a practical framework worth adapting for your own outbound funnel: https://instantly.ai/blog/ai-prompts-for-saas-prospecting/ \u2014 If you're refining your outbound approach for SaaS, get in touch at salesmake.agency/contact",
+          "title": "AI Prompts for SaaS Prospecting: What Actually Makes Them Work",
+          "link": "https://salesmake.agency/contact"
+        }
+      },
+      "_source_item": {
+        "title": "AI prompts for SaaS prospecting: blueprints for B2B software sales",
+        "url": "https://instantly.ai/blog/ai-prompts-for-saas-prospecting/",
+        "published": "2026-11-27T11:46:02+00:00",
+        "summary": "AI prompts for SaaS prospecting built around software buying signals like usage data, tech stack, and renewal timing for higher reply rates. Each template uses a modular four-part structure you can test against the 3.43% baseline and adapt to your own funnel stages and buyer signals.",
+        "source": "Instantly Blog",
+        "category": "cold_email",
+        "score": 3.0
+      }
+    }
+  ],
+  "profiles": {
+    "linkedin": 1550,
+    "facebook": 1601,
+    "twitter": 1540,
+    "bluesky": 1604,
+    "instagram": 1605,
+    "pinterest": 1606
+  }
+}
